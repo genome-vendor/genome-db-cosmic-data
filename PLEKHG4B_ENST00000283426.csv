@@ -1,0 +1,12 @@
+
+Gene : PLEKHG4B_ENST00000283426
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br26X	1473022	p.G201R	c.601G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54507	Confirmed	Cultured Sample	Heterozygous	 	 	 	5	143353	143353
+Br27P	1473023	p.P787P	c.2361C>T	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54508	Confirmed	Tumour Sample	Heterozygous	 	 	 	5	163616	163616
+TCGA-13-1499	1474865	p.V412F	c.1234G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75987	Confirmed	Tumour Sample	Heterozygous	5	209279	209279	5	156279	156279
+TCGA-24-2254	1474954	p.E384*	c.1150G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79018	Confirmed	Tumour Sample	Heterozygous	5	209195	209195	5	156195	156195

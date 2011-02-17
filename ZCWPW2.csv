@@ -1,0 +1,10 @@
+
+Gene : ZCWPW2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-23-1116	1475103	p.S46I	c.137G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73349	Confirmed	Tumour Sample	Heterozygous	3	28429700	28429700	3	28454696	28454696
+TCGA-24-1551	1475011	p.S66S	c.198A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80760	Confirmed	Tumour Sample	Heterozygous	3	28429761	28429761	3	28454757	28454757

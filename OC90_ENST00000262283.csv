@@ -1,0 +1,11 @@
+
+Gene : OC90_ENST00000262283
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+COLO-829	687448	p.K469E	c.1405A>G	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36839	Confirmed	Cultured Sample	Heterozygous	8	133114558	133114558	8	133045376	133045376
+TCGA-04-1336	1474886	p.E493*	c.1477G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79246	Confirmed	Tumour Sample	Heterozygous	8	133114486	133114486	8	133045304	133045304
+TCGA-24-1426	1475064	p.C612*	c.1836C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79244	Confirmed	Tumour Sample	Homozygous	8	133106144	133106144	8	133036962	133036962

@@ -1,0 +1,14 @@
+
+Gene : DOCK3_ENST00000266037
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+16628	1473062	p.C550S	c.1648T>A	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85716	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51266092	51266092
+16660	1473105	p.F756L	c.2268C>G	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85718	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51297670	51297670
+16835	1473006	p.V805L	c.2413G>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85720	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51308303	51308303
+16835	1473006	p.?	c.3767-1G>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85721	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51378667	51378667
+17743	1473026	p.L610P	c.1829T>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85717	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51266952	51266952
+17747	1473109	p.S791Y	c.2372C>A	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85719	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51308262	51308262

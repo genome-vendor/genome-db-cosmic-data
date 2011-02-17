@@ -1,0 +1,11 @@
+
+Gene : OTOF_ENST00000361394
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa43X	1473104	p.S490S	c.1470G>A	pancreas	NS	NS	NS	NS	NS	 	327	84581	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	26696022	26696022
+TCGA-13-1497	1474820	p.S689F	c.2066C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75803	Confirmed	Tumour Sample	Heterozygous	2	26543219	26543219	2	26689715	26689715
+TCGA-25-1625	1475031	p.R1128C	c.3382C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78248	Confirmed	Tumour Sample	Heterozygous	2	26537253	26537253	2	26683749	26683749

@@ -1,0 +1,500 @@
+
+Gene : FANCC
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br06X	1312968	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br07X	1312969	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br08X	1312970	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br09P	1312971	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br10P	1312972	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br11P	1312973	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br12P	1312974	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br13X	1312975	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br14X	1312976	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br15X	1312977	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br16X	1312978	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br17X	1312979	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br20P	1312980	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br23X	1312981	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br27P	1312984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co108	1430352	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co74	1430353	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co92	1430354	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1008	1430344	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	1430347	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	1430348	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	749712	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	1430349	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	1430350	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	1430351	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	1430345	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	1430341	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	1430342	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	1430346	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hs578T	1430343	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx22	1430355	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx27	1430356	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx30	1430357	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx32	1430358	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx38	1430359	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx41	1430360	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx42	1430361	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx43	1430362	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1184	688000	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+PD1579a	753464	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1580a	753465	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1582a	753467	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1590a	753475	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1593a	753478	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1753a	919182	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1754a	919183	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1759a	919189	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1764a	919193	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1766a	919194	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1767a	956081	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1768a	956083	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1769a	948216	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2125a	948071	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2126a	948145	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2127a	948147	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2129a	948151	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2130a	948153	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2131a	948155	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2132a	948157	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2133a	948159	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2134a	948161	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2135a	948163	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2136a	948165	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2138a	948169	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2139a	948171	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2140a	948173	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2141a	948175	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2142a	948177	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2145a	948183	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2146a	948185	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2147a	948187	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2148a	948189	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2149a	948191	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2150a	948193	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2152a	948197	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2153a	948199	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2154a	948201	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2155a	948203	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2156a	948205	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2157a	948207	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2158a	948209	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2160a	948213	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2161a	948574	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2162a	948576	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2163a	948578	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2164a	948580	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2166a	948584	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2167a	948586	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2168a	948588	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2170a	948592	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2171a	948594	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2172a	948596	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2173a	948598	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2174a	948600	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2175a	948602	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2176a	948604	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2177a	948606	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2178a	948608	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2180a	948612	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2181a	948614	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2182a	948616	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2183a	948618	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2184a	948620	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2185a	948622	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2186a	948624	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2187a	948626	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2188a	948628	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2189a	948630	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2190a	948632	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2191a	948634	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2192a	948636	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2193a	948638	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2194a	948640	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2197a	948646	p.L81fs*1	c.242delT	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	28034	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+PD2198a	948648	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2199a	948650	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2201a	948654	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2202a	948656	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2203a	948658	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2204a	948660	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2205a	948662	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2207a	948666	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2208a	948668	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2209a	948670	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2210a	948672	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2211a	948674	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2213a	948678	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2214a	948680	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2215a	948714	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2216a	948716	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2217a	948718	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2218a	948720	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2219a	948722	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2221a	955773	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2222a	955776	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3284a	1101219	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3285a	1101461	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3286a	1101268	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3287a	1101549	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3288a	1101233	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3289a	1101443	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3290a	1101538	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3291a	1101327	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3292a	1101301	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3293a	1101348	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3294a	1101458	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3295a	1101324	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3296a	1101318	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3297a	1101433	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3298a	1101511	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3299a	1101070	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3300a	1101492	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3301a	1101462	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3302a	1101164	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3303a	1100966	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3304a	1101253	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3305a	1101071	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3306a	1101541	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3307a	1101114	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3308a	1101109	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3309a	1101304	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3310a	1101518	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3311a	1101417	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3312a	1101316	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3313a	1101523	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3314a	1101112	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3315a	1101251	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3316a	1101227	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3317a	1101339	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3318a	1100931	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3319a	1101437	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3320a	1101330	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3321a	1101347	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3322a	1101069	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3324a	1101374	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3325a	1101464	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3326a	1101463	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3327a	1101466	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3328a	1101095	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3329a	1101475	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3330a	1100970	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3331a	1101039	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3332a	1101457	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3333a	1101153	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3334a	1101500	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3335a	1101184	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3336a	1101250	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3337a	1101287	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3338a	1101080	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3339a	1101514	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3340a	1101311	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3341a	1101359	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3342a	1101425	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3343a	1100946	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3344a	1101125	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3345a	1101388	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3346a	1101190	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3347a	1101257	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3348a	1101193	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3349a	1101056	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3350a	1101414	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3351a	1101013	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3352a	1101291	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3353a	1101018	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3354a	1101148	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3355a	1101544	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3356a	1100925	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3357a	1101254	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3358a	1101296	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3359a	1100926	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3360a	1101476	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3361a	1101519	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3362a	1101490	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3363a	1101496	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3364a	1101303	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3365a	1101008	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3366a	1101478	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3367a	1101142	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3368a	1101187	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3369a	1101314	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3370a	1101278	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3371a	1101093	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3372a	1100979	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3373a	1101055	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3374a	1101292	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3375a	1101102	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3376a	1100976	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3377a	1101260	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3378a	1101026	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3379a	1101322	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3380a	1101229	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3381a	1101320	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3382a	1101313	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3383a	1101220	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3384a	1101239	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3385a	1101076	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3386a	1101387	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3387a	1101378	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3388a	1101294	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3389a	1101146	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3390a	1101402	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3391a	1101342	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3392a	1101074	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3393a	1101053	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3394a	1100974	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3395a	1101231	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3396a	1101487	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3397a	1101448	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3398a	1101333	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3399a	1101377	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3400a	1101242	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3401a	1101046	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3402a	1101446	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3403a	1101002	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3404a	1101481	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3405a	1101050	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3406a	1101061	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3407a	1101082	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3408a	1101505	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3409a	1101494	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3410a	1101469	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3411a	1101058	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3412a	1101442	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3413a	1101195	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3414a	1101555	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3415a	1101178	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3416a	1101140	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3417a	1101208	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3418a	1100950	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3419a	1100934	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3420a	1101341	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3421a	1101041	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3422a	1101493	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3423a	1101445	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3424a	1101363	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3425a	1101266	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3426a	1101211	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3427a	1101191	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3428a	1101280	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3429a	1100998	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3430a	1100953	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3431a	1101471	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3432a	1101010	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3433a	1101434	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3434a	1100924	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3435a	1101054	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3436a	1101126	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3437a	1101005	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3438a	1101009	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3439a	1101120	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3440a	1101222	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3441a	1100929	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3442a	1101440	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3443a	1101259	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3444a	1101309	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3445a	1101488	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3446a	1100977	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3447a	1101025	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3448a	1101036	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3450a	1101098	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3451a	1101245	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3453a	1100972	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3454a	1101352	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3455a	1101273	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3456a	1100982	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3457a	1100930	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3458a	1101111	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3459a	1101451	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3460a	1101504	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3461a	1101477	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3462a	1101416	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3463a	1101430	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3464a	1101006	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3465a	1101550	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3466a	1101038	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3467a	1100948	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3469a	1101495	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3470a	1101300	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3471a	1101286	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3472a	1101331	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3473a	1101335	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3474a	1101175	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3475a	1101408	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3476a	1101397	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3478a	1101537	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3479a	1101176	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3480a	1101161	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3481a	1101509	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3482a	1100961	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3483a	1100969	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3484a	1101271	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3485a	1101383	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3486a	1101014	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3487a	1101539	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3488a	1101459	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3489a	1101338	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3490a	1101060	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3491a	1101382	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3492a	1101129	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3493a	1101436	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3494a	1101157	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3495a	1100944	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3496a	1101047	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3497a	1101326	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3498a	1100981	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3499a	1101290	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3500a	1101028	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3501a	1101115	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3502a	1101186	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3503a	1101073	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3504a	1101123	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3505a	1101116	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3506a	1101136	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3507a	1101285	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3508a	1101385	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3509a	1101526	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3510a	1101128	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3511a	1101332	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3512a	1100939	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3513a	1101255	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3514a	1101548	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3515a	1101361	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3516a	1101151	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3517a	1100960	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3518a	1101381	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3519a	1101261	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3520a	1101088	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3521a	1101113	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3522a	1100938	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3523a	1101391	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3524a	1101312	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3525a	1100993	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3526a	1101553	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3527a	1101063	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3528a	1101484	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3529a	1101284	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3530a	1101194	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3532a	1101117	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3533a	1100951	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3534a	1101435	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3535a	1101321	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3537a	1101535	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3538a	1101407	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3539a	1101360	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3540a	1100975	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3541a	1101202	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3542a	1101122	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3543a	1101188	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3544a	1101189	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3545a	1101323	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3546a	1101023	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3547a	1101003	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3548a	1101141	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3549a	1101131	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3550a	1101306	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3551a	1100958	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3552a	1100942	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3553a	1101185	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3554a	1101051	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3555a	1101204	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3556a	1101165	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3557a	1101367	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3558a	1101398	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3559a	1100999	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3560a	1101180	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3561a	1101086	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3562a	1101081	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3563a	1101040	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3564a	1101236	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3565a	1100947	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3566a	1101508	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3567a	1101297	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3568a	1101421	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3569a	1100940	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3570a	1101198	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3571a	1101498	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3572a	1101138	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3573a	1101355	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3574a	1101346	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3575a	1101045	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3576a	1101452	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3577a	1101075	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3578a	1101399	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3579a	1101213	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3580a	1101092	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3581a	1101106	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3582a	1101379	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3583a	1100983	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3584a	1101223	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3585a	1101405	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3586a	1101166	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3587a	1101315	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3588a	1101426	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3589a	1100920	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3590a	1101168	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3591a	1101156	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3592a	1101542	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3593a	1101149	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3594a	1101139	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3595a	1101062	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3596a	1101210	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3597a	1101249	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3598a	1101524	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3599a	1101480	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3600a	1101174	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3601a	1101150	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	255	 	 	Tumour Sample	 	 	 	 	 	 	 

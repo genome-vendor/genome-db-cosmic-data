@@ -1,0 +1,17 @@
+
+Gene : SYNE1_ENST00000265368
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa08C	1473125	p.S8017S	c.24051T>A	pancreas	NS	NS	NS	NS	NS	 	327	85015	Confirmed	Cultured Sample	Heterozygous	 	 	 	6	152476105	152476105
+TCGA-04-1338	1474824	p.G5491G	c.16473C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82402	Confirmed	Tumour Sample	Heterozygous	6	152681008	152681008	6	152639315	152639315
+TCGA-13-0919	1475027	p.E5246D	c.15738G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78596	Confirmed	Tumour Sample	Heterozygous	6	152686485	152686485	6	152644792	152644792
+TCGA-13-1487	1474985	p.K920N	c.2760G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72873	Confirmed	Tumour Sample	Heterozygous	6	152818386	152818386	6	152776693	152776693
+TCGA-24-1556	1474994	p.S3103I	c.9308G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78598	Confirmed	Tumour Sample	Heterozygous	6	152739225	152739225	6	152697532	152697532
+TCGA-29-2427	1474908	p.T6205K	c.18614C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72869	Confirmed	Tumour Sample	Heterozygous	6	152632074	152632074	6	152590381	152590381
+TCGA-59-2363	1474858	p.E4708D	c.14124G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72871	Confirmed	Tumour Sample	Heterozygous	6	152693389	152693389	6	152651696	152651696
+TCGA-59-2363	1474858	p.K6901E	c.20701A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72865	Confirmed	Tumour Sample	Heterozygous	6	152596620	152596620	6	152554927	152554927
+TCGA-61-2008	1474914	p.H6693R	c.20078A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72867	Confirmed	Tumour Sample	Heterozygous	6	152599766	152599766	6	152558073	152558073

@@ -1,0 +1,12 @@
+
+Gene : TSC2_ENST00000219476
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa10X	1473051	p.E793fs*9	c.2376_2422del47	pancreas	NS	NS	NS	NS	NS	 	327	85612	Confirmed	Cultured Sample	Heterozygous	 	 	 	16	2124221	2124267
+Pa29C	1473049	p.P497P	c.1491C>T	pancreas	NS	NS	NS	NS	NS	 	327	84325	Confirmed	Cultured Sample	Heterozygous	 	 	 	16	2114320	2114320
+TCGA-13-0903	1474882	p.Y1608D	c.4822T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76842	Confirmed	Tumour Sample	Homozygous	16	2076354	2076354	16	2136353	2136353
+TCGA-25-1320	1475013	p.M1029I	c.3087G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73090	Confirmed	Tumour Sample	Heterozygous	16	2069154	2069154	16	2129153	2129153

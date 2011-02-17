@@ -1,0 +1,9 @@
+
+Gene : AC097374_3
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+COLO-829	687448	p.?	c.741-5C>T	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36802	Confirmed	Cultured Sample	Heterozygous	2	94874912	94874912	2	95511185	95511185

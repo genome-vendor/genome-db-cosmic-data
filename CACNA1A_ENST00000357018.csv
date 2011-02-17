@@ -1,0 +1,10 @@
+
+Gene : CACNA1A_ENST00000357018
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br15X	1473139	p.P1994S	c.5980C>T	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54440	Confirmed	Cultured Sample	Heterozygous	 	 	 	19	13323518	13323518
+Pa18C	1473038	p.R455Q	c.1364G>A	pancreas	NS	NS	NS	NS	NS	 	327	84496	Confirmed	Cultured Sample	Heterozygous	 	 	 	19	13428120	13428120

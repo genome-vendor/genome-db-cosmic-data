@@ -1,0 +1,11 @@
+
+Gene : PRKD1_ENST00000331968
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa01C	1473030	p.N516S	c.1547A>G	pancreas	NS	NS	NS	NS	NS	 	327	84247	Confirmed	Cultured Sample	Heterozygous	 	 	 	14	30100073	30100073
+TCGA-25-2399	1474990	p.G293G	c.879G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80395	Confirmed	Tumour Sample	Heterozygous	14	29177679	29177679	14	30107928	30107928
+TCGA-36-1577	1475066	p.P270L	c.809C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78351	Confirmed	Tumour Sample	Heterozygous	14	29177749	29177749	14	30107998	30107998

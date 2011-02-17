@@ -1,0 +1,35 @@
+
+Gene : MYH15
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br06X	1312968	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br07X	1312969	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br08X	1312970	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br09P	1312971	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br10P	1312972	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br11P	1312973	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br12P	1312974	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br13X	1312975	p.R1086*	c.3256C>T	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	41062	Confirmed	Cultured Sample	Heterozygous	3	109639116	109639116	3	108156426	108156426
+Br14X	1312976	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br15X	1312977	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br16X	1312978	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br17X	1312979	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br20P	1312980	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br23X	1312981	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br27P	1312984	p.E85K	c.253G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	40351	Confirmed	Tumour Sample	Heterozygous	3	109707262	109707262	3	108224572	108224572
+Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-13-0755	1474836	p.A396A	c.1188T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81447	Confirmed	Tumour Sample	Heterozygous	3	109678039	109678039	3	108195349	108195349
+TCGA-13-0924	1474884	p.V1447I	c.4339G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75513	Confirmed	Tumour Sample	Heterozygous	3	109612336	109612336	3	108129646	108129646
+TCGA-13-1496	1474899	p.V315I	c.943G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71740	Confirmed	Tumour Sample	Heterozygous	3	109688052	109688052	3	108205362	108205362
+TCGA-23-1120	1474948	p.K1569M	c.4706A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78125	Confirmed	Tumour Sample	Heterozygous	3	109606965	109606965	3	108124275	108124275
+TCGA-24-1427	1474900	p.L313L	c.939C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81448	Confirmed	Tumour Sample	Heterozygous	3	109688056	109688056	3	108205366	108205366

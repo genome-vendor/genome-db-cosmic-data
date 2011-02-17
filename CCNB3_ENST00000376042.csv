@@ -1,0 +1,13 @@
+
+Gene : CCNB3_ENST00000376042
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa08C	1473125	p.K591T	c.1772A>C	pancreas	NS	NS	NS	NS	NS	 	327	85218	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	50052941	50052941
+TCGA-13-0885	1474816	p.V680V	c.2040T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80985	Confirmed	Tumour Sample	Heterozygous	23	50069949	50069949	23	50053209	50053209
+TCGA-13-1488	1474822	p.K233N	c.699G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74056	Confirmed	Tumour Sample	Heterozygous	23	50068608	50068608	23	50051868	50051868
+TCGA-13-1501	1474878	p.R108Q	c.323G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70058	Confirmed	Tumour Sample	Heterozygous	23	50054721	50054721	23	50037981	50037981
+TCGA-20-0991	1474881	p.S361F	c.1082C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70060	Confirmed	Tumour Sample	Heterozygous	23	50068991	50068991	23	50052251	50052251

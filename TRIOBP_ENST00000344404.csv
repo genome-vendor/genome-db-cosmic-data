@@ -1,0 +1,11 @@
+
+Gene : TRIOBP_ENST00000344404
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br27P	1473023	p.P2102S	c.6304C>T	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54480	Confirmed	Tumour Sample	Heterozygous	 	 	 	22	38155251	38155251
+COLO-829	687448	p.R497Q	c.1490G>A	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36827	Confirmed	Cultured Sample	Heterozygous	22	36449999	36449999	22	38120053	38120053
+TCGA-24-0979	1474847	p.D813N	c.2437G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73069	Confirmed	Tumour Sample	Heterozygous	22	36450946	36450946	22	38121000	38121000

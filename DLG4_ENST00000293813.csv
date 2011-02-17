@@ -1,0 +1,10 @@
+
+Gene : DLG4_ENST00000293813
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+1342576	1342576	p.P64L	c.191C>T	breast	NS	NS	carcinoma	lobular_carcinoma	NS	19812674	314	51326	Confirmed	Tumour Sample	Heterozygous	17	7052251	7052251	17	7111527	7111527
+TCGA-59-2352	1474863	p.G388D	c.1163G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70457	Confirmed	Tumour Sample	Heterozygous	17	7040849	7040849	17	7100125	7100125

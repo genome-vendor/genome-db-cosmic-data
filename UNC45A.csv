@@ -1,0 +1,10 @@
+
+Gene : UNC45A
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1347	1474821	p.T417M	c.1250C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76956	Confirmed	Tumour Sample	Heterozygous	15	89290898	89290898	15	91489894	91489894
+TCGA-25-1313	1474833	p.T660A	c.1978A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73201	Confirmed	Tumour Sample	Heterozygous	15	89293649	89293649	15	91492645	91492645

@@ -1,0 +1,12 @@
+
+Gene : STON1-GTF2A1L
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa01C	1473030	p.D1109Y	c.3325G>T	pancreas	NS	NS	NS	NS	NS	 	327	84590	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	48897095	48897095
+TCGA-04-1342	1475018	p.V932M	c.2794G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72840	Confirmed	Tumour Sample	Heterozygous	2	48727389	48727389	2	48873885	48873885
+TCGA-13-0919	1475027	p.S784S	c.2352G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82398	Confirmed	Tumour Sample	Heterozygous	2	48701926	48701926	2	48848422	48848422
+TCGA-13-1481	1474832	p.V871V	c.2613A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81249	Confirmed	Tumour Sample	Heterozygous	2	48727208	48727208	2	48873704	48873704

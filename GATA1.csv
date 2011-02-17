@@ -1,0 +1,805 @@
+
+Gene : GATA1
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+1015916	1015916	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	17068151	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1052948	1052948	p.F34fs*3	c.101_108delTCCCCTCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	17023834	 	24420	Unknown	Tumour Sample	 	23	48534561	48534568	23	48649617	48649624
+1052948	1052948	p.V74I	c.220G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	17023834	 	17833	Previously Observed	Tumour Sample	 	23	48534680	48534680	23	48649736	48649736
+1052949	1052949	p.V74I	c.220G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	17023834	 	17833	Previously Observed	Tumour Sample	 	23	48534680	48534680	23	48649736	48649736
+1053025	1053025	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	primary	16127162	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053026	1053026	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	primary	16127162	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053027	1053027	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	primary	16127162	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053029	1053029	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	primary	16127162	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053030	1053030	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	primary	16127162	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053031	1053031	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	primary	16127162	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053063	1053063	p.V74I	c.220G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	16012335	 	17833	Previously Observed	Tumour Sample	 	23	48534680	48534680	23	48649736	48649736
+1053064	1053064	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16012335	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053076	1053076	p.E29*	c.85G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16737888	 	24425	Previously Observed	Tumour Sample	Homozygous	23	48534545	48534545	23	48649601	48649601
+1053077	1053077	p.A55fs*15	c.164_178>NNNNNNNNNNNNNNNNNNNNNN	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	24693	Confirmed	Tumour Sample	Heterozygous	23	48534624	48534638	23	48649680	48649694
+1053078	1053078	p.R64fs*8	c.189_190ins13	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	24694	Unknown	Tumour Sample	 	23	48534649	48534650	23	48649705	48649706
+1053079	1053079	p.E39fs*1	c.114_115insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	24695	Unknown	Tumour Sample	 	23	48534574	48534575	23	48649630	48649631
+1053080	1053080	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1053081	1053081	p.L15fs*24	c.43_44delCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	24696	Unknown	Tumour Sample	 	23	48534503	48534504	23	48649559	48649560
+1053082	1053082	p.D42fs*27	c.124_125insTTGG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	24697	Confirmed	Tumour Sample	 	23	48534584	48534585	23	48649640	48649641
+1053083	1053083	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053084	1053084	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053085	1053085	p.D65fs*76	c.192_193ins11	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16631466	 	24698	Unknown	Tumour Sample	 	23	48534652	48534653	23	48649708	48649709
+1053086	1053086	p.S47fs*21	c.138_139insC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16631466	 	24699	Unknown	Tumour Sample	 	23	48534598	48534599	23	48649654	48649655
+1053087	1053087	p.S8fs*32	c.21_22insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16631466	 	24700	Unknown	Tumour Sample	 	23	48534481	48534482	23	48649537	48649538
+1053088	1053088	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16631466	 	13225	Confirmed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1053089	1053089	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053090	1053090	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053091	1053091	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053092	1053092	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053093	1053093	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053094	1053094	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053095	1053095	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053096	1053096	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053097	1053097	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053098	1053098	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053099	1053099	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053100	1053100	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053101	1053101	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053102	1053102	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053103	1053103	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053104	1053104	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053105	1053105	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053106	1053106	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053107	1053107	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053108	1053108	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053109	1053109	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053110	1053110	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053111	1053111	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053112	1053112	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053113	1053113	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053114	1053114	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053115	1053115	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053116	1053116	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1053117	1053117	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	16631466	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1097388	1097388	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	18068539	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118642	1118642	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118645	1118645	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118646	1118646	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118647	1118647	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118648	1118648	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118649	1118649	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118650	1118650	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118651	1118651	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118652	1118652	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118653	1118653	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118654	1118654	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118655	1118655	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118656	1118656	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118657	1118657	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118658	1118658	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118659	1118659	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118660	1118660	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118661	1118661	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118662	1118662	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118663	1118663	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118664	1118664	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1118665	1118665	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1119700	1119700	p.M1N	c.2_3TG>AT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	 	 	27099	Unknown	Tumour Sample	Heterozygous	23	48534462	48534463	23	48649518	48649519
+1134737	1134737	p.V19fs*25	c.54_55ins13	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	17597708	 	27508	Confirmed	Tumour Sample	 	23	48534514	48534515	23	48649570	48649571
+1168150	1168150	p.?fs	c.?_?insTC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	17988992	 	28632	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1168151	1168151	p.?	c.?_?ins12	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	17988992	 	28635	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1171230	1171230	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	18372039	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1196412	1196412	p.Y69*	c.207C>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29532	 	Tumour Sample	 	23	48534667	48534667	23	48649723	48649723
+1196413	1196413	p.M1V	c.1A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	17819	 	Tumour Sample	 	23	48534461	48534461	23	48649517	48649517
+1196414	1196414	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29548	 	Tumour Sample	 	 	 	 	 	 	 
+1196415	1196415	p.Y62fs*2	c.183_193del11	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29533	 	Tumour Sample	 	23	48534643	48534653	23	48649699	48649709
+1196416	1196416	p.F34fs*3	c.101_108delTCCCCTCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	24420	 	Tumour Sample	 	23	48534561	48534568	23	48649617	48649624
+1196417	1196417	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1196418	1196418	p.A53fs*7	c.153_175del23	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29534	 	Tumour Sample	 	23	48534613	48534635	23	48649669	48649691
+1196419	1196419	p.D65_E67>***	c.193_199GACGCTG>TAGTAGT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29535	 	Tumour Sample	 	23	48534653	48534659	23	48649709	48649715
+1196420	1196420	p.?	c.?_?del?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29550	 	Tumour Sample	 	 	 	 	 	 	 
+1196421	1196421	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29545	 	Tumour Sample	 	 	 	 	 	 	 
+1196422	1196422	p.V77_A120>A	c.230_358del129	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29536	 	Tumour Sample	 	23	48535204	48535332	23	48650260	48650388
+1196423	1196423	p.Y62>*	c.185_186ins12	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29537	 	Tumour Sample	 	23	48534645	48534646	23	48649701	48649702
+1196424	1196424	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29547	 	Tumour Sample	 	23	48535574	48535574	23	48650630	48650630
+1196425	1196425	p.A58fs*81	c.172_173insNNNNN	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	29538	 	Tumour Sample	 	23	48534632	48534633	23	48649688	48649689
+1196426	1196426	p.M1V	c.1A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18830255	 	17819	 	Tumour Sample	 	23	48534461	48534461	23	48649517	48649517
+1197704	1197704	p.A49fs*19	c.145_146insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19119459	 	29391	Unknown	Tumour Sample	 	23	48534605	48534606	23	48649661	48649662
+1197705	1197705	p.A49fs*19	c.145_146insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19119459	 	29391	Unknown	Tumour Sample	 	23	48534605	48534606	23	48649661	48649662
+1197706	1197706	p.A45fs*21	c.133_160>CACCCCCGAGCACAGCCACCCCC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19100513	 	29392	Unknown	Tumour Sample	Heterozygous	23	48534593	48534605	23	48649649	48649661
+1197713	1197713	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19260099	 	29426	Unknown	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1197714	1197714	p.A59fs*81	c.174_175insCAGCTGCG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19260099	 	29425	Unknown	Tumour Sample	Heterozygous	23	48534634	48534635	23	48649690	48649691
+1198487	1198487	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19265297	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1198488	1198488	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19265297	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+11A	979623	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+11B	979624	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1206513	1206513	p.?	c.221_598del378	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	18830255	 	29549	 	Tumour Sample	 	23	48535195	48535572	23	48650251	48650628
+1206514	1206514	p.Q17fs*13	c.50_78del29	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	18830255	 	29540	 	Tumour Sample	 	23	48534510	48534538	23	48649566	48649594
+1206515	1206515	p.Q17fs*13	c.50_78del29	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	18830255	 	29540	 	Tumour Sample	 	23	48534510	48534538	23	48649566	48649594
+1206516	1206516	p.A68fs*94	c.202_203insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	18830255	 	29541	 	Tumour Sample	 	23	48534662	48534663	23	48649718	48649719
+1206517	1206517	p.D65fs*82	c.192_193ins29	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	18830255	 	29542	 	Tumour Sample	 	23	48534652	48534653	23	48649708	48649709
+1224007	1224007	p.D65fs*76	c.192_193ins11	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	24698	Unknown	Tumour Sample	 	23	48534652	48534653	23	48649708	48649709
+1224008	1224008	p.S47fs*21	c.138_139insC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	24699	Unknown	Tumour Sample	 	23	48534598	48534599	23	48649654	48649655
+1224009	1224009	p.S51fs*83	c.151_162>TG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	30673	Unknown	Tumour Sample	 	23	48534611	48534622	23	48649667	48649678
+1224010	1224010	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	13225	Confirmed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1224011	1224011	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	13225	Confirmed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1224012	1224012	p.S8fs*32	c.21_22insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	24700	Unknown	Tumour Sample	 	23	48534481	48534482	23	48649537	48649538
+1224013	1224013	p.?	c.?_?ins?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	34103	 	Tumour Sample	 	 	 	 	 	 	 
+1224014	1224014	p.G10fs*29	c.29_30delGG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	30674	Unknown	Tumour Sample	 	23	48534489	48534490	23	48649545	48649546
+1224015	1224015	p.T52fs*8	c.155_178>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	30675	Unknown	Tumour Sample	 	23	48534615	48534638	23	48649671	48649694
+1224016	1224016	p.Y78fs*60	c.232_233insGT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	13213	Previously Observed	Tumour Sample	 	23	48535206	48535207	23	48650262	48650263
+1224017	1224017	p.?	c.?_?del?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	34104	 	Tumour Sample	 	 	 	 	 	 	 
+1224018	1224018	p.R64fs*8	c.189_190ins13	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	24694	Unknown	Tumour Sample	 	23	48534649	48534650	23	48649705	48649706
+1224019	1224019	p.E39fs*1	c.114_115insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	24695	Unknown	Tumour Sample	 	23	48534574	48534575	23	48649630	48649631
+1224020	1224020	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1224021	1224021	p.L15fs*24	c.43_44delCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	24696	Unknown	Tumour Sample	 	23	48534503	48534504	23	48649559	48649560
+1224022	1224022	p.D42fs*27	c.124_125insTTGG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	24697	Previously Observed	Tumour Sample	 	23	48534584	48534585	23	48649640	48649641
+1224023	1224023	p.E67E	c.201G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	30677	Unknown	Tumour Sample	 	23	48534661	48534661	23	48649717	48649717
+1224024	1224024	p.M1I	c.3G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	17822	Unknown	Tumour Sample	 	23	48534463	48534463	23	48649519	48649519
+1224025	1224025	p.A61D	c.182C>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	30676	Unknown	Tumour Sample	 	23	48534642	48534642	23	48649698	48649698
+1224026	1224026	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1224027	1224027	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+1224028	1224028	p.V19fs*20	c.56_57delTG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	34105	 	Tumour Sample	 	23	48534516	48534517	23	48649572	48649573
+1224029	1224029	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224030	1224030	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224031	1224031	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224032	1224032	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224033	1224033	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224034	1224034	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224035	1224035	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224036	1224036	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224037	1224037	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224038	1224038	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224039	1224039	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224040	1224040	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224041	1224041	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224042	1224042	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224043	1224043	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224044	1224044	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224045	1224045	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224046	1224046	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224047	1224047	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224048	1224048	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224049	1224049	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224050	1224050	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224051	1224051	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224052	1224052	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224053	1224053	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224054	1224054	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224055	1224055	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224056	1224056	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224057	1224057	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224058	1224058	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224059	1224059	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224060	1224060	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224061	1224061	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224062	1224062	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1224063	1224063	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	19452320	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247875	1247875	p.E39fs*83	c.114_159del46	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19633202	 	33850	Unknown	Tumour Sample	 	23	48534574	48534619	23	48649630	48649675
+1247876	1247876	p.E39fs*83	c.114_159del46	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33850	Unknown	Tumour Sample	 	23	48534574	48534619	23	48649630	48649675
+1247877	1247877	p.A59fs*80	c.171_172insGCACT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19633202	 	33851	Unknown	Tumour Sample	 	23	48534631	48534632	23	48649687	48649688
+1247878	1247878	p.V74D	c.221T>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19633202	 	33874	Unknown	Tumour Sample	 	23	48535195	48535195	23	48650251	48650251
+1247879	1247879	p.A59fs*84	c.173_174ins17	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19633202	 	33852	Unknown	Tumour Sample	 	23	48534633	48534634	23	48649689	48649690
+1247880	1247880	p.R64fs*75	c.191_192insTACAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19633202	 	33853	Unknown	Tumour Sample	 	23	48534651	48534652	23	48649707	48649708
+1247881	1247881	p.A61fs*11	c.181_182ins13	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33854	Unknown	Tumour Sample	 	23	48534641	48534642	23	48649697	48649698
+1247882	1247882	p.E39*	c.115G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33855	Unknown	Tumour Sample	 	23	48534575	48534575	23	48649631	48649631
+1247883	1247883	p.E2fs*444	c.4_37>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnn	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33856	Unknown	Tumour Sample	 	23	48534464	48534497	23	48649520	48649553
+1247884	1247884	p.Q17*	c.49C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	13211	Previously Observed	Tumour Sample	 	23	48534509	48534509	23	48649565	48649565
+1247885	1247885	p.T54fs*85	c.160_163ACCG>GCAGTGGCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33857	Unknown	Tumour Sample	 	23	48534620	48534623	23	48649676	48649679
+1247886	1247886	p.S51fs*17	c.149_150insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33858	Unknown	Tumour Sample	 	23	48534609	48534610	23	48649665	48649666
+1247887	1247887	p.A55fs*83	c.162_162C>TGT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33859	Unknown	Tumour Sample	 	23	48534622	48534622	23	48649678	48649678
+1247888	1247888	p.F34fs*7	c.99_100insNNAA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33860	Unknown	Tumour Sample	 	23	48534559	48534560	23	48649615	48649616
+1247889	1247889	p.E2G	c.5A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33861	Unknown	Tumour Sample	 	23	48534465	48534465	23	48649521	48649521
+1247889	1247889	p.S36fs*4	c.106_107insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33862	Unknown	Tumour Sample	 	23	48534566	48534567	23	48649622	48649623
+1247890	1247890	p.Y62fs*11	c.183_184ins100	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33863	Unknown	Tumour Sample	 	23	48534643	48534644	23	48649699	48649700
+1247891	1247891	p.M1fs	c.2_3insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33864	Unknown	Tumour Sample	 	23	48534462	48534463	23	48649518	48649519
+1247892	1247892	p.T11fs*29	c.31_32insA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33865	Unknown	Tumour Sample	 	23	48534491	48534492	23	48649547	48649548
+1247892	1247892	p.T48fs*11	c.143_168del26	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	17629	Unknown	Tumour Sample	 	23	48534603	48534628	23	48649659	48649684
+1247893	1247893	p.Q17fs*24	c.44_45insCCCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	33866	Unknown	Tumour Sample	 	23	48534504	48534505	23	48649560	48649561
+1247894	1247894	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247895	1247895	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247896	1247896	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247897	1247897	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247898	1247898	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247899	1247899	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247900	1247900	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247901	1247901	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247902	1247902	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247903	1247903	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247904	1247904	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247905	1247905	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1247906	1247906	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	19633202	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287333	1287333	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287334	1287334	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287335	1287335	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287336	1287336	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287337	1287337	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287338	1287338	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287339	1287339	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287340	1287340	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287341	1287341	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1287342	1287342	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	18397343	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1291034	1291034	p.E29*	c.85G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19389530	 	24425	Confirmed	Tumour Sample	 	23	48534545	48534545	23	48649601	48649601
+1302096	1302096	p.E2*	c.4G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	19850750	 	17824	Unknown	Tumour Sample	Homozygous	23	48534464	48534464	23	48649520	48649520
+1317299	1317299	p.A66fs*74	c.195_196insCCAGTGCC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16113234	 	41277	Unknown	Tumour Sample	 	23	48534655	48534656	23	48649711	48649712
+1317300	1317300	p.D65fs*4	c.193_194insAGGG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16113234	 	41276	Unknown	Tumour Sample	 	23	48534653	48534654	23	48649709	48649710
+1317301	1317301	p.M1fs	c.1_220del220	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16113234	 	13219	Previously Observed	Tumour Sample	 	23	48534461	48534680	23	48649517	48649736
+1322295	1322295	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322296	1322296	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322297	1322297	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322298	1322298	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322299	1322299	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322300	1322300	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322301	1322301	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322302	1322302	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322303	1322303	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322304	1322304	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322305	1322305	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322306	1322306	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322307	1322307	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322308	1322308	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322309	1322309	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322310	1322310	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322311	1322311	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322312	1322312	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322313	1322313	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322314	1322314	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322315	1322315	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322316	1322316	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322317	1322317	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322318	1322318	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322319	1322319	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322320	1322320	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322321	1322321	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322322	1322322	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322323	1322323	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322324	1322324	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322325	1322325	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322326	1322326	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322327	1322327	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322328	1322328	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322329	1322329	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322330	1322330	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322331	1322331	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322332	1322332	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322333	1322333	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322334	1322334	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322335	1322335	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322336	1322336	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322337	1322337	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322338	1322338	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322339	1322339	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322340	1322340	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322341	1322341	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322342	1322342	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322343	1322343	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322344	1322344	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322345	1322345	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322346	1322346	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322347	1322347	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322348	1322348	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322349	1322349	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322350	1322350	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322351	1322351	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322352	1322352	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322353	1322353	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322354	1322354	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322355	1322355	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322356	1322356	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322357	1322357	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322358	1322358	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322359	1322359	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322360	1322360	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322361	1322361	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322362	1322362	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322363	1322363	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322364	1322364	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322365	1322365	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322366	1322366	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322367	1322367	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322368	1322368	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322369	1322369	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322370	1322370	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322371	1322371	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322372	1322372	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322373	1322373	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322374	1322374	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322375	1322375	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322376	1322376	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322377	1322377	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322378	1322378	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1322379	1322379	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	18250304	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1435142	1435142	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	20108342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1436049	1436049	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	20367267	 	51371	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1448008	1448008	p.L23L	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_therapy_related	NS	20418238	 	51412	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1448009	1448009	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448010	1448010	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448011	1448011	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448012	1448012	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448013	1448013	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448014	1448014	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448015	1448015	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448016	1448016	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448017	1448017	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448018	1448018	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448019	1448019	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448020	1448020	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_myeloproliferative_neoplasm	NS	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448021	1448021	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	M7	20418238	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1448022	1448022	p.S26F	c.77C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	M7	20418238	 	51413	Unknown	Tumour Sample	Homozygous	23	48534537	48534537	23	48649593	48649593
+16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16594	1423676	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16596	1423677	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16600	1423678	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16606	1423679	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16608	1423680	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16612	1423681	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16614	1423682	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16616	1423683	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16626	1423684	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16628	1423685	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16630	1423686	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16632	1423687	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16636	1423688	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16638	1423689	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16640	1423690	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16646	1423691	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16648	1423692	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16660	1423693	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16664	1423694	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16668	1423695	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16670	1423696	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16674	1423697	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16678	1423698	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16684	1423699	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16686	1423700	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16688	1423701	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16696	1423702	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16698	1423703	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16706	1423704	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16710	1423705	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16712	1423706	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16720	1423707	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16722	1423708	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16724	1423709	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16730	1423710	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16734	1423711	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16740	1423712	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16742	1423713	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16746	1423714	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16748	1423715	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16750	1423716	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16754	1423717	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16758	1423718	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16760	1423719	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16766	1423720	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16768	1423721	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16770	1423722	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16772	1423723	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16774	1423724	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16780	1423725	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16784	1423726	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16786	1423727	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16792	1423728	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16800	1423729	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16802	1423730	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16804	1423731	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16810	1423732	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16814	1423733	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16821	1423734	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16823	1423735	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16825	1423736	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16827	1423737	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16835	1423738	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16839	1423739	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16841	1423740	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16845	1423741	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16857	1423742	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16859	1423743	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16861	1423744	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16863	1423745	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16875	1423746	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16879	1423747	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16881	1423748	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16883	1423749	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16889	1423750	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16901	1423751	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16905	1423752	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16907	1423753	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16909	1423754	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16913	1423755	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16915	1423756	p.Q76E	c.226C>G	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	48402	Confirmed	NS	Heterozygous	23	48535200	48535200	23	48650256	48650256
+16917	1423757	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16919	1423758	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16921	1423759	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16925	1423760	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16927	1423761	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16929	1423762	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16937	1423763	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16947	1423764	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16949	1423765	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16951	1423766	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16953	1423767	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16963	1423768	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16965	1423769	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16973	1423770	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16975	1423771	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16979	1423772	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16993	1423773	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16997	1423774	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17042	1423775	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17054	1423776	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17055	1423777	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17060	1423778	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17144	1423779	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17146	1423780	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17148	1423781	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17150	1423782	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17152	1423783	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17154	1423784	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17156	1423785	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17158	1423786	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17170	1423787	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17172	1423788	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17174	1423789	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17176	1423790	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17182	1423791	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17184	1423792	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17186	1423793	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17190	1423794	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17194	1423795	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17202	1423796	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17206	1423797	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17208	1423798	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17210	1423799	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17216	1423800	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17218	1423801	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17222	1423802	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17226	1423803	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17228	1423804	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17234	1423805	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17238	1423806	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17240	1423807	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17242	1423808	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17248	1423809	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17250	1423810	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17252	1423811	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17258	1423812	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17260	1423813	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17262	1423814	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17264	1423815	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17268	1423816	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17272	1423817	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17280	1423818	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17282	1423819	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17286	1423820	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17288	1423821	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17290	1423822	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17292	1423823	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17294	1423824	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17298	1423825	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17302	1423826	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17304	1423827	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17306	1423828	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17308	1423829	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17316	1423830	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17320	1423831	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17324	1423832	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17326	1423833	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17328	1423834	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17330	1423835	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17726	1423836	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17727	1423837	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17728	1423838	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17730	1423839	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17731	1423840	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17733	1423841	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17735	1423842	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17737	1423843	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17738	1423844	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17739	1423845	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17741	1423846	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17743	1423847	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17745	1423848	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17746	1423849	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17747	1423850	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17750	1423851	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17754	1423852	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17759	1423853	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17760	1423854	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17763	1423855	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17766	1423856	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17769	1423857	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17776	1423858	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17777	1423859	p.S30*	c.89C>A	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	48869	Confirmed	NS	Heterozygous	23	48534549	48534549	23	48649605	48649605
+17778	1423860	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17781	1423861	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17784	1423862	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+62A	979632	p.Y62fs*8	c.186_187ins10	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17825	Unknown	Tumour Sample	 	23	48534646	48534647	23	48649702	48649703
+62B	979633	p.Y62fs*8	c.186_187ins10	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17825	Unknown	Tumour Sample	 	23	48534646	48534647	23	48649702	48649703
+913327	913327	p.Y63fs*6	c.187_188insTACT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	12766	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+913328	913328	p.A58_A59insXXXXX	c.173_174ins15	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	12767	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+913329	913329	p.Y63fs*6	c.187_188insTACT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	12766	Previously Observed	Tumour Sample	 	 	 	 	 	 	 
+913330	913330	p.S51fs*91	c.152_210del59	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	12768	Unknown	Tumour Sample	 	 	 	 	 	 	 
+913331	913331	p.P28fs*1	c.84_85insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	12769	Unknown	Tumour Sample	 	 	 	 	 	 	 
+913332	913332	p.A56fs*11	c.166_167delGC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	12770	Unknown	Tumour Sample	 	 	 	 	 	 	 
+913333	913333	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	13201	Unknown	Tumour Sample	 	 	 	 	 	 	 
+913334	913334	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913335	913335	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913336	913336	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913337	913337	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913338	913338	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913339	913339	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913340	913340	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913341	913341	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913342	913342	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913343	913343	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913344	913344	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913345	913345	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913346	913346	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	12172547	 	13201	Unknown	Tumour Sample	 	 	 	 	 	 	 
+913347	913347	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913348	913348	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913349	913349	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913350	913350	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913351	913351	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913352	913352	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913353	913353	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913354	913354	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913355	913355	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913356	913356	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913357	913357	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913358	913358	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913359	913359	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913360	913360	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913361	913361	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913362	913362	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913363	913363	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913364	913364	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913365	913365	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913366	913366	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913367	913367	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913368	913368	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913369	913369	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913370	913370	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913371	913371	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913372	913372	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913373	913373	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913374	913374	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913375	913375	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913376	913376	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913377	913377	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913378	913378	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913379	913379	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_therapy_related	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913380	913380	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_therapy_related	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913381	913381	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_therapy_related	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913382	913382	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_therapy_related	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913383	913383	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913384	913384	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913385	913385	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913386	913386	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913387	913387	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913388	913388	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913389	913389	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913390	913390	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913391	913391	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913392	913392	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913393	913393	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913394	913394	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913395	913395	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913396	913396	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913397	913397	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913398	913398	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913399	913399	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913400	913400	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913401	913401	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913402	913402	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+913403	913403	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	12172547	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+915959	915959	p.A59fs*85	c.176_177ins20	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15070711	 	13176	Unknown	Tumour Sample	 	23	48534636	48534637	23	48649692	48649693
+916167	916167	p.D65fs*79	c.193_194ins20	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	14684662	 	13202	Unknown	Tumour Sample	 	23	48534653	48534654	23	48649709	48649710
+916168	916168	p.D65fs*79	c.193_194ins20	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	14684662	 	13202	Unknown	Tumour Sample	 	23	48534653	48534654	23	48649709	48649710
+916169	916169	p.D65fs*79	c.193_194ins20	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14684662	 	13202	Unknown	Tumour Sample	 	23	48534653	48534654	23	48649709	48649710
+916170	916170	p.E67*	c.199G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15654280	 	13203	Confirmed	Tumour Sample	Heterozygous	23	48534659	48534659	23	48649715	48649715
+916327	916327	p.A49fs*37	c.147_148ins58	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15686466	 	13206	Unknown	Tumour Sample	 	23	48534607	48534608	23	48649663	48649664
+916328	916328	p.A49fs*37	c.147_148ins58	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15686466	 	13206	Unknown	Tumour Sample	 	23	48534607	48534608	23	48649663	48649664
+916329	916329	p.F33fs*23	c.98_132del35	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15686466	 	13205	Unknown	Tumour Sample	 	23	48534558	48534592	23	48649614	48649648
+916389	916389	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12747884	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+916390	916390	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12747884	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+916391	916391	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12747884	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+916392	916392	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12747884	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+916393	916393	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12747884	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+916394	916394	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12747884	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+916478	916478	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15390279	 	13225	Confirmed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+977928	977928	p.P38fs*14	c.114_160del47	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17614	Unknown	Tumour Sample	 	23	48534574	48534620	23	48649630	48649676
+977929	977929	p.P38fs*14	c.114_160del47	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12586620	 	17614	Unknown	Tumour Sample	 	23	48534574	48534620	23	48649630	48649676
+977930	977930	p.L41fs*23	c.121_131del11	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17615	Unknown	Tumour Sample	 	23	48534581	48534591	23	48649637	48649647
+977931	977931	p.T52fs*17	c.154_155insCAGC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17616	Unknown	Tumour Sample	 	23	48534614	48534615	23	48649670	48649671
+977932	977932	p.A45fs*15	c.135_158>ACAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17617	Unknown	Tumour Sample	 	23	48534595	48534618	23	48649651	48649674
+977933	977933	p.Q17*	c.49C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	13211	Previously Observed	Tumour Sample	 	23	48534509	48534509	23	48649565	48649565
+977934	977934	p.T54fs*15	c.160_167ACCGCTGC>GCAGTGGCTGTC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17620	Unknown	Tumour Sample	 	23	48534620	48534627	23	48649676	48649683
+977935	977935	p.T54fs*87	c.161_162ins11	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17622	Unknown	Tumour Sample	 	23	48534621	48534622	23	48649677	48649678
+977936	977936	p.Y62fs*5	c.186_187insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17623	Previously Observed	Tumour Sample	 	23	48534646	48534647	23	48649702	48649703
+977937	977937	p.E13fs*26	c.38_39delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17624	Unknown	Tumour Sample	 	23	48534498	48534499	23	48649554	48649555
+977938	977938	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17633	Unknown	Tumour Sample	 	 	 	 	 	 	 
+977939	977939	p.S30*	c.89C>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17632	Unknown	Tumour Sample	 	23	48534549	48534549	23	48649605	48649605
+977940	977940	p.P35fs*4	c.105_106insC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17626	Unknown	Tumour Sample	 	23	48534565	48534566	23	48649621	48649622
+977940	977940	p.A59V	c.176C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12586620	 	17625	Unknown	Tumour Sample	 	23	48534636	48534636	23	48649692	48649692
+977941	977941	p.P4fs*35	c.12_13insC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12586620	 	17627	Unknown	Tumour Sample	 	23	48534472	48534473	23	48649528	48649529
+977942	977942	p.T11N	c.32C>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12586620	 	17628	Unknown	Tumour Sample	 	23	48534492	48534492	23	48649548	48649548
+977942	977942	p.T48fs*11	c.143_168del26	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12586620	 	17629	Unknown	Tumour Sample	 	23	48534603	48534628	23	48649659	48649684
+978772	978772	p.A56fs*358	c.168_172AGCT>TA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15916804	 	17653	Confirmed	Tumour Sample	Heterozygous	23	48534628	48534632	23	48649684	48649688
+978773	978773	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15916804	 	13225	Confirmed	Tumour Sample	Heterozygous	23	48534550	48534551	23	48649606	48649607
+978774	978774	p.A58fs*83	c.174_175ins14	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15916804	 	17654	Confirmed	Tumour Sample	Heterozygous	23	48534634	48534635	23	48649690	48649691
+978775	978775	p.A58fs*83	c.174_175ins14	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15916804	 	17654	Confirmed	Tumour Sample	Heterozygous	23	48534634	48534635	23	48649690	48649691
+978776	978776	p.A55_V74del	c.164_220del57	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15916804	 	13226	Confirmed	Tumour Sample	Heterozygous	23	48534624	48534680	23	48649680	48649736
+978777	978777	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15916804	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979614	979614	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M0	12649131	 	13225	Previously Observed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+979615	979615	p.Y62fs*12	c.184_185ins19	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17810	Unknown	Tumour Sample	 	23	48534644	48534645	23	48649700	48649701
+979616	979616	p.?	c.220+2T>C	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17815	Confirmed	Tumour Sample	 	23	48534682	48534682	23	48649738	48649738
+979617	979617	p.P50fs*87	c.150delG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	13214	Confirmed	Tumour Sample	 	23	48534610	48534610	23	48649666	48649666
+979618	979618	p.Y62fs*1	c.185_186insA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17816	Confirmed	Tumour Sample	 	23	48534645	48534646	23	48649701	48649702
+979619	979619	p.T54fs*17	c.160_161ins10	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17817	Confirmed	Tumour Sample	 	23	48534620	48534621	23	48649676	48649677
+979620	979620	p.S51fs*72	c.151_193del43	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17818	Confirmed	Tumour Sample	 	23	48534611	48534653	23	48649667	48649709
+979621	979621	p.M1V	c.1A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17819	Unknown	Tumour Sample	 	23	48534461	48534461	23	48649517	48649517
+979622	979622	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979625	979625	p.V74F	c.220G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17820	Unknown	Tumour Sample	 	23	48534680	48534680	23	48649736	48649736
+979626	979626	p.L60fs*80	c.180_181ins11	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17821	Unknown	Tumour Sample	 	23	48534640	48534641	23	48649696	48649697
+979627	979627	p.M1I	c.3G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17822	Unknown	Tumour Sample	 	23	48534463	48534463	23	48649519	48649519
+979628	979628	p.Q17*	c.49C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	13211	Previously Observed	Tumour Sample	 	23	48534509	48534509	23	48649565	48649565
+979629	979629	p.Y63fs*78	c.189_199>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17823	Unknown	Tumour Sample	 	23	48534649	48534659	23	48649705	48649715
+979630	979630	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979631	979631	p.E2*	c.4G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17824	Unknown	Tumour Sample	 	23	48534464	48534464	23	48649520	48649520
+979634	979634	p.P73P	c.219A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17826	Unknown	Tumour Sample	 	23	48534679	48534679	23	48649735	48649735
+979635	979635	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	13225	Confirmed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+979636	979636	p.S47fs*9	c.140_174del35	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17827	Unknown	Tumour Sample	 	23	48534600	48534634	23	48649656	48649690
+979637	979637	p.E13*	c.37G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17828	Unknown	Tumour Sample	 	23	48534497	48534497	23	48649553	48649553
+979638	979638	p.Y63fs*12	c.187_188ins22	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17829	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+979639	979639	p.R70fs*91	c.209_210delGA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17830	Unknown	Tumour Sample	 	23	48534669	48534670	23	48649725	48649726
+979640	979640	p.P35fs*4	c.105_106insC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17626	Unknown	Tumour Sample	 	23	48534565	48534566	23	48649621	48649622
+979641	979641	p.L60fs*7	c.180_181insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17831	Unknown	Tumour Sample	 	23	48534640	48534641	23	48649696	48649697
+979642	979642	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	13225	Confirmed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+979643	979643	p.D65fs*74	c.193_194insNNNNN	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17832	Unknown	Tumour Sample	 	23	48534653	48534654	23	48649709	48649710
+979644	979644	p.V74I	c.220G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17833	Confirmed	Tumour Sample	 	23	48534680	48534680	23	48649736	48649736
+979645	979645	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979646	979646	p.R64fs*74	c.192_192G>NNN	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17834	Unknown	Tumour Sample	 	23	48534652	48534652	23	48649708	48649708
+979647	979647	p.V74fs*60	c.220_229del10	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17835	Unknown	Tumour Sample	 	23	48534680	48535203	23	48649736	48650259
+979648	979648	p.T11fs*33	c.33_34ins16	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12649131	 	17836	Unknown	Tumour Sample	 	23	48534493	48534494	23	48649549	48649550
+979649	979649	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979650	979650	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979651	979651	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979652	979652	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979653	979653	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979654	979654	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979655	979655	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979656	979656	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979657	979657	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+979658	979658	p.P73fs*88	c.217_218delCC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17898	Confirmed	Tumour Sample	 	23	48534677	48534678	23	48649733	48649734
+979659	979659	p.P73fs*88	c.217_218delCC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12649131	 	17898	Confirmed	Tumour Sample	 	23	48534677	48534678	23	48649733	48649734
+980297	980297	p.T52fs*19	c.154_155ins10	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18032	Unknown	Tumour Sample	 	23	48534614	48534615	23	48649670	48649671
+980298	980298	p.Y69fs*64	c.205_217del13	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18033	Unknown	Tumour Sample	 	23	48534665	48534677	23	48649721	48649733
+980299	980299	p.A53fs*7	c.158_180del23	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18043	Previously Observed	Tumour Sample	 	23	48534618	48534640	23	48649674	48649696
+980299	980299	p.H71_V74>L	c.212_220del9	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18037	Unknown	Tumour Sample	 	23	48534672	48534680	23	48649728	48649736
+980300	980300	p.Y62fs*5	c.186_187insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	17623	Previously Observed	Tumour Sample	 	23	48534646	48534647	23	48649702	48649703
+980301	980301	p.Y69fs*64	c.205_217del13	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18033	Unknown	Tumour Sample	 	23	48534665	48534677	23	48649721	48649733
+980302	980302	p.Y62fs*5	c.186_187insT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	17623	Previously Observed	Tumour Sample	 	23	48534646	48534647	23	48649702	48649703
+980303	980303	p.Q17*	c.49C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	14656875	 	13211	Previously Observed	Tumour Sample	 	23	48534509	48534509	23	48649565	48649565
+980304	980304	p.A53fs*7	c.158_180del23	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18043	Confirmed	Tumour Sample	 	23	48534618	48534640	23	48649674	48649696
+980305	980305	p.T54fs*8	c.162_178del17	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18040	Confirmed	Tumour Sample	 	23	48534622	48534638	23	48649678	48649694
+980307	980307	p.S30fs*9	c.90_91delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	13225	Confirmed	Tumour Sample	 	23	48534550	48534551	23	48649606	48649607
+980308	980308	p.V74I	c.220G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	17833	Confirmed	Tumour Sample	 	23	48534680	48534680	23	48649736	48649736
+980309	980309	p.Q17*	c.49C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	13211	Confirmed	Tumour Sample	 	23	48534509	48534509	23	48649565	48649565
+980310	980310	p.A58fs*15	c.173_174ins16	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	14656875	 	18042	Confirmed	Tumour Sample	 	23	48534633	48534634	23	48649689	48649690
+980311	980311	p.D42_D74>	c.124_220del97	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	14656875	 	18053	Confirmed	Tumour Sample	 	23	48534584	48534680	23	48649640	48649736
+980312	980312	p.D42_D74>	c.124_220del97	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	14656875	 	18053	Confirmed	Tumour Sample	 	23	48534584	48534680	23	48649640	48649736
+980313	980313	p.D42_D74>	c.124_220del97	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	14656875	 	18053	Confirmed	Tumour Sample	 	23	48534584	48534680	23	48649640	48649736
+AMKL1	916383	p.A53fs*16	c.158_159insCGCAGCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13209	Confirmed	Tumour Sample	Homozygous	23	48534618	48534619	23	48649674	48649675
+AMKL10	1315739	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15180862	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+AMKL11	1315740	p.S51fs*19	c.150_151insNNNNNNN	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15180862	 	41263	Unknown	Tumour Sample	 	23	48534610	48534611	23	48649666	48649667
+AMKL12	1315741	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15180862	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+AMKL2	916384	p.Y78fs*60	c.232_233insGT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13213	Confirmed	Tumour Sample	Homozygous	23	48535206	48535207	23	48650262	48650263
+AMKL3	916385	p.M1fs	c.1_220del220	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13219	Confirmed	Tumour Sample	Homozygous	23	48534461	48534680	23	48649517	48649736
+AMKL4	916386	p.M1fs	c.1_220del220	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13219	Previously Observed	Tumour Sample	Homozygous	23	48534461	48534680	23	48649517	48649736
+AMKL5	916387	p.S47fs*90	c.139delT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13218	Unknown	Tumour Sample	Homozygous	23	48534599	48534599	23	48649655	48649655
+AMKL6	916388	p.P16fs*23	c.48_49delCC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13216	Unknown	Tumour Sample	Homozygous	23	48534508	48534509	23	48649564	48649565
+AMKL7	1315736	p.M1fs	c.1_220del220	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15180862	 	13219	Previously Observed	Tumour Sample	 	23	48534461	48534680	23	48649517	48649736
+AMKL8	1315737	p.E29*	c.85G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15180862	 	24425	Previously Observed	Tumour Sample	 	23	48534545	48534545	23	48649601	48649601
+AMKL9	1315738	p.Y63*	c.189C>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15180862	 	41262	Unknown	Tumour Sample	 	23	48534649	48534649	23	48649705	48649705
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br06X	1312968	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br07X	1312969	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br08X	1312970	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br09P	1312971	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br10P	1312972	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br11P	1312973	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br12P	1312974	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br13X	1312975	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br14X	1312976	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br15X	1312977	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br16X	1312978	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br17X	1312979	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br20P	1312980	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br23X	1312981	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br27P	1312984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+CMK	1315742	p.E2fs*37	c.5_7AGT>C	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	15180862	 	41264	Unknown	Cultured Sample	 	 	 	 	 	 	 
+COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	749712	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HSC-GRW	977943	p.P50fs*6	c.150_184del35	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12586620	 	17631	Unknown	Cultured Sample	 	23	48534610	48534644	23	48649666	48649700
+Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+KPAM1	1206518	p.E13fs*26	c.36_37delAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	18830255	 	29544	 	Cultured Sample	 	23	48534496	48534497	23	48649552	48649553
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+M84BC	1118643	p.?	c.745-51C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	27509	Unknown	Tumour Sample	Heterozygous	23	48536472	48536472	23	48651528	48651528
+M949BC	1118644	p.?	c.745-48C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	17408401	 	27510	Unknown	Tumour Sample	Heterozygous	23	48536475	48536475	23	48651531	48651531
+MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx32	1235045	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
+TMD1	916373	p.A53fs*16	c.158_159insCGCAGCT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13209	Previously Observed	Tumour Sample	Homozygous	23	48534618	48534619	23	48649674	48649675
+TMD10	916382	p.A45fs*85	c.133_154del22	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12747884	 	13215	Confirmed	Tumour Sample	Homozygous	23	48534593	48534614	23	48649649	48649670
+TMD11	1315743	p.P50fs*87	c.150delG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15180862	 	13214	Previously Observed	Tumour Sample	 	23	48534610	48534610	23	48649666	48649666
+TMD12	1315744	p.R64fs*7	c.191_192ins10	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	15180862	 	41265	Unknown	Tumour Sample	 	23	48534651	48534652	23	48649707	48649708
+TMD2	916374	p.A49fs*1	c.147_148ins34	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12747884	 	13210	Unknown	Tumour Sample	Homozygous	23	48534607	48534608	23	48649663	48649664
+TMD2	1317298	p.A49fs*1	c.147_148ins34	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	16113234	 	13210	Unknown	Tumour Sample	 	23	48534607	48534608	23	48649663	48649664
+TMD3	916375	p.Q17*	c.49C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12747884	 	13211	Previously Observed	Tumour Sample	Homozygous	23	48534509	48534509	23	48649565	48649565
+TMD4	916376	p.P16fs*23	c.48_49delCC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13216	Unknown	Tumour Sample	Homozygous	23	48534508	48534509	23	48649564	48649565
+TMD5	916377	p.M1fs	c.1_220del220	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13219	Previously Observed	Tumour Sample	Homozygous	23	48534461	48534680	23	48649517	48649736
+TMD6	916378	p.M1fs	c.1_220del220	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13219	Previously Observed	Tumour Sample	Homozygous	23	48534461	48534680	23	48649517	48649736
+TMD7	916379	p.M1fs	c.1_220del220	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13219	Previously Observed	Tumour Sample	Homozygous	23	48534461	48534680	23	48649517	48649736
+TMD8	916380	p.Y78fs*60	c.232_233insGT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myeloproliferative_neoplasm	NS	12747884	 	13213	Previously Observed	Tumour Sample	Homozygous	23	48535206	48535207	23	48650262	48650263
+TMD9	916381	p.P50fs*87	c.150delG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	12747884	 	13214	Confirmed	Tumour Sample	Homozygous	23	48534610	48534610	23	48649666	48649666

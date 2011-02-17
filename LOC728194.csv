@@ -1,0 +1,10 @@
+
+Gene : LOC728194
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa21C	1473043	p.Y548C	c.1643A>G	pancreas	NS	NS	NS	NS	NS	 	327	85026	Confirmed	Cultured Sample	Heterozygous	 	 	 	7	6820992	6820992
+TCGA-24-0970	1475041	p.R61H	c.182G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72500	Confirmed	Tumour Sample	Heterozygous	7	6764015	6764015	7	6797490	6797490

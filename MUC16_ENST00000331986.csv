@@ -1,0 +1,15 @@
+
+Gene : MUC16_ENST00000331986
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa10X	1473051	p.T6581S	c.19742C>G	pancreas	NS	NS	NS	NS	NS	 	327	84481	Confirmed	Cultured Sample	Heterozygous	 	 	 	19	9048788	9048788
+Pa20C	1473061	p.A4326V	c.12977C>T	pancreas	NS	NS	NS	NS	NS	 	327	84483	Confirmed	Cultured Sample	Heterozygous	 	 	 	19	9061368	9061368
+TCGA-10-0933	1474969	p.R236Q	c.707G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75489	Confirmed	Tumour Sample	Heterozygous	19	8934638	8934638	19	9073638	9073638
+TCGA-20-0987	1475059	p.S2633C	c.7898C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71716	Confirmed	Tumour Sample	Heterozygous	19	8927447	8927447	19	9066447	9066447
+TCGA-24-1435	1474851	p.K736N	c.2208G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75487	Confirmed	Tumour Sample	Heterozygous	19	8933137	8933137	19	9072137	9072137
+TCGA-24-1435	1474851	p.Q1791K	c.5371C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75485	Confirmed	Tumour Sample	Heterozygous	19	8929974	8929974	19	9068974	9068974
+TCGA-25-1325	1475024	p.S180*	c.539C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79388	Confirmed	Tumour Sample	Heterozygous	19	8934806	8934806	19	9073806	9073806

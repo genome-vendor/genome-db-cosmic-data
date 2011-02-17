@@ -1,0 +1,10 @@
+
+Gene : MED23
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+PD3441a	1100929	p.T1108T	c.3324T>A	kidney	NS	NS	carcinoma	NS	NS	 	321	51956	Confirmed	Tumour Sample	 	 	 	 	6	131914220	131914220
+TCGA-24-2290	1474902	p.V1360M	c.4078G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71618	Confirmed	Tumour Sample	Heterozygous	6	131950541	131950541	6	131908848	131908848

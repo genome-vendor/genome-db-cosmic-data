@@ -1,0 +1,13 @@
+
+Gene : AKAP9_NM_005751
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0887	1474827	p.E3152*	c.9454G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79129	Confirmed	Tumour Sample	Heterozygous	7	91560442	91560442	7	91722506	91722506
+TCGA-13-0899	1475034	p.E2645D	c.7935A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69602	Confirmed	Tumour Sample	Heterozygous	7	91547318	91547318	7	91709382	91709382
+TCGA-23-1124	1474818	p.Q1162H	c.3486G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73628	Confirmed	Tumour Sample	Heterozygous	7	91479846	91479846	7	91641910	91641910
+TCGA-24-1466	1474944	p.V2736F	c.8206G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69604	Confirmed	Tumour Sample	Heterozygous	7	91550465	91550465	7	91712529	91712529
+TCGA-61-2012	1474845	p.V2874V	c.8622G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79484	Confirmed	Tumour Sample	Heterozygous	7	91550881	91550881	7	91712945	91712945

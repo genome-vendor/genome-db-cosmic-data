@@ -1,0 +1,10 @@
+
+Gene : MYCL1_ENST00000397332
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+17210	1473064	p.A366P	c.1096G>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85730	Confirmed	Tumour Sample	Heterozygous	 	 	 	1	40363133	40363133
+TCGA-24-1567	1474958	p.S329S	c.987G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82252	Confirmed	Tumour Sample	Heterozygous	1	40135829	40135829	1	40363242	40363242

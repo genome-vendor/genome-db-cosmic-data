@@ -1,0 +1,11 @@
+
+Gene : LIMCH1
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa01C	1473030	p.L242L	c.726G>T	pancreas	NS	NS	NS	NS	NS	 	327	84854	Confirmed	Cultured Sample	Heterozygous	 	 	 	4	41621248	41621248
+TCGA-23-1120	1474948	p.T932R	c.2795C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78004	Confirmed	Tumour Sample	Heterozygous	4	41381272	41381272	4	41686515	41686515
+TCGA-25-2392	1474848	p.N1066H	c.3196A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71440	Confirmed	Tumour Sample	Heterozygous	4	41389128	41389128	4	41694371	41694371

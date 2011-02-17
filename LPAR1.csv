@@ -1,0 +1,10 @@
+
+Gene : LPAR1
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-10-0926	1474976	p.D288D	c.864C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80116	Confirmed	Tumour Sample	Heterozygous	9	112677753	112677753	9	113637932	113637932
+TCGA-13-0765	1475022	p.Y75C	c.224A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75261	Confirmed	Tumour Sample	Heterozygous	9	112744091	112744091	9	113704270	113704270

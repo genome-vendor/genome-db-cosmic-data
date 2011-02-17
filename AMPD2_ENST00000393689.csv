@@ -1,0 +1,11 @@
+
+Gene : AMPD2_ENST00000393689
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+HCC1395	1473080	p.R4S	c.10C>A	breast	NS	NS	carcinoma	NS	NS	 	324	53556	Confirmed	Cultured Sample	Heterozygous	 	 	 	1	110163645	110163645
+TCGA-04-1338	1474824	p.D206E	c.618C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77257	Confirmed	Tumour Sample	Heterozygous	1	109970497	109970497	1	110168974	110168974
+TCGA-25-1625	1475031	p.R180Q	c.539G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77255	Confirmed	Tumour Sample	Heterozygous	1	109970328	109970328	1	110168805	110168805

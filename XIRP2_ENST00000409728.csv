@@ -1,0 +1,11 @@
+
+Gene : XIRP2_ENST00000409728
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+COLO-829	687448	p.R461*	c.1381C>T	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36816	Confirmed	Cultured Sample	Heterozygous	2	167818893	167818893	2	168110647	168110647
+TCGA-10-0927	1475074	p.P178H	c.533C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78782	Confirmed	Tumour Sample	Heterozygous	2	167700789	167700789	2	167992543	167992543
+TCGA-23-1032	1474876	p.P597T	c.1789C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73312	Confirmed	Tumour Sample	Heterozygous	2	167822992	167822992	2	168114746	168114746

@@ -1,0 +1,73 @@
+
+Gene : USH2A
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br06X	1312968	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br07X	1312969	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br08X	1312970	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br09P	1312971	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br10P	1312972	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br11P	1312973	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br12P	1312974	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br13X	1312975	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br14X	1312976	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br15X	1312977	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br16X	1312978	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br17X	1312979	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br20P	1312980	p.W1208C	c.3624G>T	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	39555	Confirmed	Tumour Sample	Heterozygous	1	214439779	214439779	1	216373156	216373156
+Br23X	1312981	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br27P	1312984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx32	1235045	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+PD3295a	1101324	p.T453I	c.1358C>T	kidney	NS	NS	carcinoma	NS	NS	 	321	51941	Confirmed	Tumour Sample	 	 	 	 	1	216497008	216497008
+TCGA-09-2056	1474870	p.R4302R	c.12906G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80725	Confirmed	Tumour Sample	Heterozygous	1	213914970	213914970	1	215848347	215848347
+TCGA-13-0760	1474815	p.Y2277H	c.6829T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76959	Confirmed	Tumour Sample	Heterozygous	1	214210718	214210718	1	216144095	216144095
+TCGA-13-0904	1474835	p.V2829L	c.8485G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73215	Confirmed	Tumour Sample	Heterozygous	1	214118802	214118802	1	216052179	216052179
+TCGA-13-0920	1474823	p.C3359*	c.10077T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79313	Confirmed	Tumour Sample	Heterozygous	1	214030129	214030129	1	215963506	215963506
+TCGA-13-0923	1474826	p.I399F	c.1195A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73219	Confirmed	Tumour Sample	Heterozygous	1	214564266	214564266	1	216497643	216497643
+TCGA-13-1409	1474932	p.A5048A	c.15144G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80724	Confirmed	Tumour Sample	Heterozygous	1	213874577	213874577	1	215807954	215807954
+TCGA-13-1411	1474913	p.?	c.8682-1G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69410	Confirmed	Tumour Sample	Heterozygous	1	214107136	214107136	1	216040513	216040513
+TCGA-13-1501	1474878	p.S1088N	c.3263G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73218	Confirmed	Tumour Sample	Heterozygous	1	214447291	214447291	1	216380668	216380668
+TCGA-13-1507	1474842	p.R3258R	c.9774G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81889	Confirmed	Tumour Sample	Heterozygous	1	214039056	214039056	1	215972433	215972433
+TCGA-20-0990	1474872	p.P139T	c.415C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73220	Confirmed	Tumour Sample	Heterozygous	1	214661887	214661887	1	216595264	216595264
+TCGA-20-0991	1474881	p.N2560S	c.7679A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73216	Confirmed	Tumour Sample	Heterozygous	1	214128935	214128935	1	216062312	216062312
+TCGA-23-1021	1474841	p.R189C	c.565C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76961	Confirmed	Tumour Sample	Heterozygous	1	214658565	214658565	1	216591942	216591942
+TCGA-23-1022	1474814	p.G1911R	c.5731G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76960	Confirmed	Tumour Sample	Heterozygous	1	214313107	214313107	1	216246484	216246484
+TCGA-23-1117	1474828	p.R737*	c.2209C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79314	Confirmed	Tumour Sample	Heterozygous	1	214487150	214487150	1	216420527	216420527
+TCGA-24-1548	1475069	p.E3989K	c.11965G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78751	Confirmed	Tumour Sample	Heterozygous	1	213968096	213968096	1	215901473	215901473
+TCGA-24-1553	1475062	p.A99V	c.296C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78754	Confirmed	Tumour Sample	Heterozygous	1	214662006	214662006	1	216595383	216595383
+TCGA-25-1318	1474960	p.Q3102H	c.9306A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78753	Confirmed	Tumour Sample	Heterozygous	1	214078021	214078021	1	216011398	216011398
+TCGA-25-2392	1474848	p.G3754A	c.11261G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73214	Confirmed	Tumour Sample	Heterozygous	1	213998688	213998688	1	215932065	215932065
+TCGA-36-1578	1474943	p.D3327N	c.9979G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78752	Confirmed	Tumour Sample	Heterozygous	1	214030227	214030227	1	215963604	215963604
+TCGA-59-2350	1475113	p.V1756I	c.5266G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73217	Confirmed	Tumour Sample	Heterozygous	1	214323453	214323453	1	216256830	216256830

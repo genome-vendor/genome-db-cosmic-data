@@ -1,0 +1,12 @@
+
+Gene : VARS2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br20P	1473122	p.G1021A	c.3062G>C	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54522	Confirmed	Tumour Sample	Heterozygous	 	 	 	6	30893757	30893757
+TCGA-23-1110	1474834	p.R754L	c.2261G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73246	Confirmed	Tumour Sample	Heterozygous	6	30998935	30998935	6	30890956	30890956
+TCGA-24-1464	1474905	p.V828M	c.2482G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76981	Confirmed	Tumour Sample	Heterozygous	6	31000125	31000125	6	30892146	30892146
+TCGA-59-2355	1475075	p.R743Q	c.2228G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73245	Confirmed	Tumour Sample	Heterozygous	6	30998902	30998902	6	30890923	30890923

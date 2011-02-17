@@ -1,0 +1,11 @@
+
+Gene : PDE4B_ENST00000423207
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+HX5T	1473092	p.A3E	c.8C>A	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	323	53481	Confirmed	Tumour Sample	Heterozygous	 	 	 	1	66458597	66458597
+TCGA-13-0905	1474892	p.S402S	c.1206G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80318	Confirmed	Tumour Sample	Heterozygous	1	66601809	66601809	1	66829221	66829221
+TCGA-23-1119	1475096	p.L550V	c.1648C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78283	Confirmed	Tumour Sample	Heterozygous	1	66607088	66607088	1	66834500	66834500

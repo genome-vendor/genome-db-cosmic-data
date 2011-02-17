@@ -1,0 +1,10 @@
+
+Gene : CC2D2A
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa02C	1473116	p.L457F	c.1369C>T	pancreas	NS	NS	NS	NS	NS	 	327	84850	Confirmed	Cultured Sample	Heterozygous	 	 	 	4	15534865	15534865
+Pa07C	1473089	p.S1235fs*6	c.3703_3704delTC	pancreas	NS	NS	NS	NS	NS	 	327	85604	Confirmed	Cultured Sample	Heterozygous	 	 	 	4	15587831	15587832

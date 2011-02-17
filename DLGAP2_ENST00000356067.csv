@@ -1,0 +1,12 @@
+
+Gene : DLGAP2_ENST00000356067
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br26X	1473022	p.W877R	c.2629T>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54544	Confirmed	Cultured Sample	Heterozygous	 	 	 	8	1645361	1645361
+Br27P	1473023	p.E323K	c.967G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54542	Confirmed	Tumour Sample	Heterozygous	 	 	 	8	1497760	1497760
+Br27P	1473023	p.T671A	c.2011A>G	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54543	Confirmed	Tumour Sample	Heterozygous	 	 	 	8	1624723	1624723
+Br27P	1473023	p.E912K	c.2734G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54545	Confirmed	Tumour Sample	Heterozygous	 	 	 	8	1649354	1649354

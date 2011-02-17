@@ -1,0 +1,9 @@
+
+Gene : C10orf128
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+NCI-H209	688013	p.?	c.44-269G>T	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20016488	312	41572	Confirmed	Cultured Sample	Heterozygous	10	50046282	50046282	10	50376276	50376276

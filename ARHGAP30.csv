@@ -1,0 +1,10 @@
+
+Gene : ARHGAP30
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-23-1022	1474814	p.Q777E	c.2329C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73709	Confirmed	Tumour Sample	Heterozygous	1	159285106	159285106	1	161018482	161018482
+TCGA-24-1435	1474851	p.V286V	c.858C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80878	Confirmed	Tumour Sample	Heterozygous	1	159288936	159288936	1	161022312	161022312

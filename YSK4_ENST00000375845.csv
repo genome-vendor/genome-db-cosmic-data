@@ -1,0 +1,14 @@
+
+Gene : YSK4_ENST00000375845
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1348	1474950	p.C18Y	c.53G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77046	Confirmed	Tumour Sample	Heterozygous	2	135495840	135495840	2	135779370	135779370
+TCGA-13-1489	1474895	p.S204G	c.610A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77044	Confirmed	Tumour Sample	Heterozygous	2	135465585	135465585	2	135749115	135749115
+TCGA-24-1549	1474964	p.R150S	c.450G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77045	Confirmed	Tumour Sample	Heterozygous	2	135472902	135472902	2	135756432	135756432
+TCGA-24-2035	1474888	p.G353V	c.1058G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73321	Confirmed	Tumour Sample	Heterozygous	2	135461854	135461854	2	135745384	135745384
+TCGA-24-2254	1474954	p.N34Y	c.100A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73322	Confirmed	Tumour Sample	Heterozygous	2	135495793	135495793	2	135779323	135779323
+TCGA-25-1326	1474831	p.C1181*	c.3543T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79105	Confirmed	Tumour Sample	Heterozygous	2	135455238	135455238	2	135738768	135738768

@@ -1,0 +1,11 @@
+
+Gene : PTGFR_ENST00000370758
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1347	1474821	p.G273*	c.817G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79264	Confirmed	Tumour Sample	Heterozygous	1	78774697	78774697	1	79002109	79002109
+TCGA-13-0913	1474855	p.H143N	c.427C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72336	Confirmed	Tumour Sample	Heterozygous	1	78731443	78731443	1	78958855	78958855
+TCGA-25-2392	1474848	p.A253V	c.758C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72338	Confirmed	Tumour Sample	Heterozygous	1	78731774	78731774	1	78959186	78959186

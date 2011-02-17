@@ -1,0 +1,9 @@
+
+Gene : KRTAP5-5
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+NCI-H209	688013	p.R17C	c.49C>T	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20016488	312	41455	Confirmed	Cultured Sample	Heterozygous	11	1607695	1607695	11	1651119	1651119

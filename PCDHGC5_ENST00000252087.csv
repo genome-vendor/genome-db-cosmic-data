@@ -1,0 +1,11 @@
+
+Gene : PCDHGC5_ENST00000252087
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1361	1474877	p.P307T	c.919C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75875	Confirmed	Tumour Sample	Homozygous	5	140849910	140849910	5	140869726	140869726
+TCGA-24-1103	1474853	p.V907G	c.2720T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75883	Confirmed	Tumour Sample	Heterozygous	5	140870809	140870809	5	140890625	140890625
+TCGA-61-2009	1474891	p.I695N	c.2084T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72107	Confirmed	Tumour Sample	Heterozygous	5	140851075	140851075	5	140870891	140870891

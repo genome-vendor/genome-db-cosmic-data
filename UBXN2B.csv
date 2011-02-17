@@ -1,0 +1,10 @@
+
+Gene : UBXN2B
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-09-2050	1474830	p.D252N	c.754G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73190	Confirmed	Tumour Sample	Heterozygous	8	59521102	59521102	8	59358548	59358548
+TCGA-24-1562	1475030	p.D199N	c.595G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76937	Confirmed	Tumour Sample	Heterozygous	8	59514807	59514807	8	59352253	59352253

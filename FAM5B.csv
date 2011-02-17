@@ -1,0 +1,10 @@
+
+Gene : FAM5B
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0760	1474815	p.V756M	c.2266G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74601	Confirmed	Tumour Sample	Heterozygous	1	175517201	175517201	1	177250578	177250578
+TCGA-25-1627	1475044	p.E252G	c.755A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77692	Confirmed	Tumour Sample	Heterozygous	1	175509332	175509332	1	177242709	177242709

@@ -1,0 +1,17 @@
+
+Gene : FAT4_ENST00000394329
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+RK-003-C	1473114	p.K4199fs*6	c.12596_12597insT	liver	NS	NS	carcinoma	NS	NS	 	322	53422	Confirmed	Tumour Sample	Homozygous	 	 	 	4	126401018	126401019
+TCGA-09-2044	1474844	p.G1453G	c.4359T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79845	Confirmed	Tumour Sample	Heterozygous	4	126461375	126461375	4	126241925	126241925
+TCGA-09-2050	1474830	p.I1429T	c.4286T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70741	Confirmed	Tumour Sample	Heterozygous	4	126461302	126461302	4	126241852	126241852
+TCGA-13-1498	1474829	p.P4349L	c.13046C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74621	Confirmed	Tumour Sample	Heterozygous	4	126628179	126628179	4	126408729	126408729
+TCGA-13-1505	1474928	p.Y1137Y	c.3411T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79841	Confirmed	Tumour Sample	Heterozygous	4	126460427	126460427	4	126240977	126240977
+TCGA-13-1505	1474928	p.I3413I	c.10239C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79847	Confirmed	Tumour Sample	Heterozygous	4	126591860	126591860	4	126372410	126372410
+TCGA-24-1469	1474819	p.D1868N	c.5602G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74619	Confirmed	Tumour Sample	Heterozygous	4	126549081	126549081	4	126329631	126329631
+TCGA-25-1325	1475024	p.L2145H	c.6434T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77705	Confirmed	Tumour Sample	Heterozygous	4	126556002	126556002	4	126336552	126336552
+TCGA-61-2102	1474898	p.S1342S	c.4026C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79843	Confirmed	Tumour Sample	Heterozygous	4	126461042	126461042	4	126241592	126241592

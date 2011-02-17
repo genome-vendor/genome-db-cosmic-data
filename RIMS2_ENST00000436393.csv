@@ -1,0 +1,13 @@
+
+Gene : RIMS2_ENST00000436393
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1362	1474862	p.H811L	c.2432A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76234	Confirmed	Tumour Sample	Heterozygous	8	105079642	105079642	8	105010466	105010466
+TCGA-13-0807	1474889	p.Y644S	c.1931A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76232	Confirmed	Tumour Sample	Heterozygous	8	105024226	105024226	8	104955050	104955050
+TCGA-13-1410	1474901	p.D695D	c.2085T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80454	Confirmed	Tumour Sample	Heterozygous	8	105042518	105042518	8	104973342	104973342
+TCGA-20-0991	1474881	p.L566P	c.1697T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72440	Confirmed	Tumour Sample	Heterozygous	8	105012785	105012785	8	104943609	104943609
+TCGA-23-2079	1474941	p.P455R	c.1364C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72438	Confirmed	Tumour Sample	Heterozygous	8	104997935	104997935	8	104928759	104928759

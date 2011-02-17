@@ -1,0 +1,12 @@
+
+Gene : CLVS2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br27P	1473023	p.N166N	c.498C>T	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54526	Confirmed	Tumour Sample	Heterozygous	 	 	 	6	123332238	123332238
+Pa02C	1473116	p.A73A	c.219G>A	pancreas	NS	NS	NS	NS	NS	 	327	85007	Confirmed	Cultured Sample	Heterozygous	 	 	 	6	123319141	123319141
+TCGA-57-1582	1474921	p.D313H	c.937G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78421	Confirmed	Tumour Sample	Heterozygous	6	123426558	123426558	6	123384859	123384859
+TCGA-57-1993	1474951	p.V38V	c.114C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79656	Confirmed	Tumour Sample	Heterozygous	6	123360735	123360735	6	123319036	123319036

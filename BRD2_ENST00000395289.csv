@@ -1,0 +1,13 @@
+
+Gene : BRD2_ENST00000395289
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0727	1475054	p.D160N	c.478G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77349	Confirmed	Tumour Sample	Heterozygous	6	33051792	33051792	6	32943814	32943814
+TCGA-13-0801	1475076	p.I752L	c.2254A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77350	Confirmed	Tumour Sample	Heterozygous	6	33056099	33056099	6	32948121	32948121
+TCGA-13-1498	1474829	p.R528P	c.1583G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73858	Confirmed	Tumour Sample	Heterozygous	6	33053885	33053885	6	32945907	32945907
+TCGA-13-2060	1474963	p.R317C	c.949C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69846	Confirmed	Tumour Sample	Heterozygous	6	33052440	33052440	6	32944462	32944462
+TCGA-24-1552	1474998	p.K363fs*0	c.1085_1086insT	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69186	Confirmed	Tumour Sample	Heterozygous	6	33052576	33052577	6	32944598	32944598

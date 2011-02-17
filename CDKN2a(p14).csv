@@ -1,0 +1,778 @@
+
+Gene : CDKN2a(p14)
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+22RV1	924100	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+23132-87	910924	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+380	924101	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	L2	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+5637	687452	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+639-V	906798	 	 	urinary_tract	ureter	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+647-V	906797	 	 	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+697	906800	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+769-P	910922	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+786-0	905947	p.?	c.1_316del316	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+8-MG-BA	687562	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+8305C	906795	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+8505C	924102	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+A101D	910921	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+A172	687563	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+A204	910784	 	 	soft_tissue	striated_muscle	NS	rhabdomyosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+A2058	906792	p.?	c.1_316del316	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+A253	906794	 	 	salivary_gland	submaxillary	NS	carcinoma	mucoepidermoid_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+A2780	906804	 	 	ovary	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+A3-KAW	910935	p.0?	c.1_522del522	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+A375	906793	p.?	c.1_316del316	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+A388	910697	 	 	NS	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+A4-Fuk	910934	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+A427	910851	p.0?	c.1_522del522	lung	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+A431	910925	p.?	c.1_316del316	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+A498	905948	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+A549	905949	p.0?	c.1_522del522	lung	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+A673	684052	p.0?	c.1_522del522	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+A704	910920	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ABC-1	906791	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ACHN	905950	p.?	c.317_522del206	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+ACN	906803	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+AGS	906790	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ALL-PO	910944	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+AM-38	910933	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+AML-193	949089	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+AN3-CA	910781	 	 	endometrium	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ARH-77	906765	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ATN-1	910687	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	L1	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+AU565	910704	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+AsPC-1	910702	p.H134fs*41	c.399_400delTC	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41695	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+BALL-1	910705	p.?	c.317_522del206	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	p.?	c.317_522del206	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BC-1	910919	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BC-3	910918	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+BCPAP	924104	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BE-13	906763	p.?	c.1_316del316	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+BEN	753534	 	 	lung	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BFTC-905	910926	p.0?	c.1_522del522	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	papillary_transitional_cell_carcinoma	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+BFTC-909	910698	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+BHT-101	906696	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BHY	753535	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BL-41	910706	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BL-70	910707	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BOKU	753536	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BONNA-12	906695	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	hairy_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BPH-1	924105	 	 	prostate	NS	NS	hyperplasia	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BT-20	906801	p.0?	c.1_522del522	breast	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+BT-474	946359	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BT-549	905951	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	papillary	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BV-173	910710	p.?	c.1_316del316	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+Becker	906746	p.?	c.317_522del206	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+BxPC-3	906693	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+C-33-A	687505	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+C-4-II	910553	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+C2BBe1	910700	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+C32	906830	p.?	c.317_522del206	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+C3A	910850	 	 	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+C8166	906829	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	adult_T_cell_lymphoma-leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CA46	910703	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CADO-ES1	753539	p.?	c.317_522del206	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+CAKI-1	905963	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CAL-120	906826	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAL-12T	753540	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAL-148	924106	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAL-27	910916	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAL-33	753541	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAL-39	924107	p.0?	c.1_522del522	vulva	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CAL-51	910927	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAL-54	910952	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CAL-62	906828	p.0?	c.1_522del522	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CAL-72	906827	p.0?	c.1_522del522	bone	NS	NS	osteosarcoma	osteoblastic	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CAL-85-1	910852	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAMA-1	946382	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CAPAN-1	753624	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CAS-1	910943	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CCF-STTG1	906823	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CCRF-CEM	905952	p.?	c.317_522del206	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+CESS	910688	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CFPAC-1	906821	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CGTH-W-1	910568	p.0?	c.1_522del522	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CHL-1	910853	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CHP-126	910567	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CHP-134	910941	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CHP-212	906820	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CMK	910566	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CML-T1	910951	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+COLO-205	905961	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-320-HSR	910569	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-668	910692	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-678	910689	p.0?	c.1_522del522	large_intestine	colon	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+COLO-679	906818	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+COLO-680N	906817	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+COLO-684	910691	 	 	endometrium	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-741	906815	p.0?	c.1_522del522	large_intestine	colon	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+COLO-792	906814	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-800	906813	p.?	c.317_522del206	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+COLO-824	906812	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-829	687448	p.G124fs*51	c.369_370delCG	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41693	Confirmed	Cultured Sample	Homozygous	 	 	 	 	 	 
+COR-L105	906805	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COR-L23	687780	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COR-L279	910937	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COR-L88	906808	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+COR-L96CAR	971776	p.0?	c.1_522del522	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CP67-MEL	949092	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CPC-N	753547	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CRO-AP2	906807	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CRO-AP5	906806	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CTB-1	949088	p.?	c.317_522del206	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+CTV-1	753548	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+CW-2	910554	 	 	large_intestine	colon	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Ca-Ski	906824	 	 	cervix	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Ca9-22	753538	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CaR-1	924108	p.0?	c.1_522del522	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+Calu-1	724858	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Calu-3	687777	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Calu-6	724859	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Caov-3	906825	 	 	ovary	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Caov-4	949090	 	 	ovary	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Capan-2	910915	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ChaGo-K-1	687596	 	 	lung	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+CoCM-1	910783	 	 	large_intestine	colon	descending	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-245MG	946366	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+D-247MG	946367	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+D-263MG	946368	p.?	c.1_316del316	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+D-283MED	906834	 	 	central_nervous_system	NS	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-336MG	946369	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+D-384MED	946379	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-392MG	946370	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+D-397MG	946371	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+D-423MG	946372	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-458MED	946381	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-502MG	946373	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+D-538MG	946376	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-556MED	946380	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-566MG	946377	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+DB	906832	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DBTRG-05MG	906835	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+DEL	906836	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DG-75	906838	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DJM-1	906841	p.0?	c.1_522del522	skin	NS	NS	adnexal_tumour	other	malignant_trichilemmal_cyst	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+DK-MG	906839	p.0?	c.1_522del522	central_nervous_system	parietal_lobe	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+DMS-114	687983	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DMS-153	687984	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DMS-273	687985	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DMS-53	907295	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DMS-79	753551	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DOHH-2	906842	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+DOK	910936	 	 	upper_aerodigestive_tract	mouth	tongue	other	dysplasia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DSH1	753552	p.0?	c.1_522del522	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+DU-145	905935	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DU-4475	906844	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+DV-90	753553	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Daoy	906833	p.0?	c.1_522del522	central_nervous_system	posterior_fossa	NS	primitive_neuroectodermal_tumour-medulloblastoma	desmoplastic	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+Daudi	906831	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Detroit562	906837	p.?	c.317_522del206	upper_aerodigestive_tract	pharynx	NS	carcinoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+DoTc2-4510	906843	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EB-3	906847	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EB2	906846	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EC-GI-10	753555	p.?	c.317_522del206	oesophagus	NS	NS	carcinoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+ECC10	906848	 	 	stomach	NS	NS	carcinoma	small_cell_adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ECC12	906849	 	 	stomach	NS	NS	carcinoma	small_cell_adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ECC4	906850	 	 	gastrointestinal_tract_(site_indeterminate)	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EFE-184	924109	 	 	endometrium	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EFM-19	906851	p.0?	c.1_522del522	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+EFO-21	911905	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EFO-27	906852	 	 	ovary	NS	NS	carcinoma	mucinous_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EGI-1	906853	p.0?	c.1_522del522	biliary_tract	bile_duct	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+EHEB	906854	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EKVX	905970	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EM-2	906855	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+EPLC-272H	753556	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ES1	949158	p.0?	c.1_522del522	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+ES3	684055	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ES4	949156	p.0?	c.1_522del522	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+ES5	684057	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ES6	949157	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ES7	684059	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ES8	949155	p.0?	c.1_522del522	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+ESS-1	907000	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ETK-1	906861	p.?	c.1_316del316	biliary_tract	bile_duct	NS	carcinoma	adenocarcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+EVSA-T	906862	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-1	949163	p.0?	c.1_522del522	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+EW-11	684062	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-12	949162	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-13	949166	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-16	949165	p.0?	c.1_522del522	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+EW-18	949164	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-22	949167	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-24	949168	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-3	949161	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EW-7	949160	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+EoL-1-cell	906856	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_eosinophilic_leukaemia-hypereosinophilic_syndrome	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+FADU	906863	 	 	upper_aerodigestive_tract	pharynx	hypopharynx	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+FTC-133	906864	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+G-361	906865	p.?	c.317_522del206	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+G-401	907299	 	 	soft_tissue	striated_muscle	kidney	rhabdoid_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+G-402	907298	 	 	soft_tissue	smooth_muscle	kidney	leiomyoblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GA-10-Clone-4	906867	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GAK	910932	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GAMG	906868	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+GB-1	687568	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+GCIY	906869	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GCT	906999	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	malignant_fibrous_histiocytoma-pleomorphic_sarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GDM-1	906870	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GI-1	906871	 	 	central_nervous_system	brain	NS	glioma	gliosarcoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GI-ME-N	906872	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GMS-10	906873	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GOTO	906875	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GP5d	907291	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GR-ST	906877	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+GT3TKB	907041	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+H-EMC-SS	907290	 	 	bone	extraskeletal	NS	chondrosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+H4	907042	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+H9	907043	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	skin	NS	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HA7-RCC	753558	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HAL-01	949153	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HC-1	907044	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	hairy_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	749712	p.0?	c.1_522del522	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HCC1419	907045	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1569	907046	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1806	907047	p.0?	c.1_522del522	breast	NS	NS	carcinoma	ductal_carcinoma	squamous_cell_carcinoma	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2998	905971	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	749717	p.0?	c.1_522del522	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HCC70	907048	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCE-4	753559	 	 	oesophagus	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCE-T	907049	 	 	upper_aerodigestive_tract	sinonasal_and_nasal_cavity	sinus	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCT-116	905936	p.E74fs*15	c.220_220delG	large_intestine	colon	NS	carcinoma	NS	NS	 	4	41687	Unknown	Cultured Sample	Heterozygous	 	 	 	 	 	 
+HCT-15	905937	 	 	large_intestine	colon	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HD-MY-Z	907050	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HDLM-2	924110	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HEC-1	907051	 	 	endometrium	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HEL	907053	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HGC-27	907055	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HH	907056	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	adult_T_cell_lymphoma-leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HL-60	905938	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M3	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HLE	907057	 	 	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HMV-II	907058	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HN	907059	p.0?	c.1_522del522	upper_aerodigestive_tract	mouth	mouth_roof	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HO-1-N-1	924111	 	 	salivary_gland	buccal_mucosa	NS	carcinoma	mucoepidermoid_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HOP-62	905972	p.?	c.317_522del206	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+HOP-92	905973	p.?	c.317_522del206	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+HOS	907060	p.0?	c.1_522del522	bone	NS	NS	osteosarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HPAF-II	724869	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HSC-2	753562	p.A80fs*22	c.238_242delGCGCC	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41691	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+HSC-3	907061	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HSC-4	907062	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HT	907063	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HT-1080	907064	p.0?	c.1_522del522	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	fibrosarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HT-1197	907065	 	 	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HT-1376	907066	 	 	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HT-144	907067	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HT-29	905939	 	 	large_intestine	colon	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HT-3	907068	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HT55	907287	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HTC-C3	924151	 	 	thyroid	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HUH-6-clone5	907070	 	 	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HUTU-80	907073	 	 	small_intestine	duodenum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HeLaSF	687509	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hs-578-T	905957	p.?	c.317_522del206	breast	NS	NS	carcinoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+HuCCT1	907069	 	 	biliary_tract	bile_duct	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HuH-7	907071	 	 	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HuO-3N1	909977	 	 	bone	NS	NS	osteosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HuO9	907072	 	 	bone	femur	NS	osteosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+HuP-T3	907285	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+HuP-T4	907286	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+IA-LM	910779	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+IGR-1	907169	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+IGROV-1	905968	 	 	ovary	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+IM-9	753563	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+IMR-5	907170	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+IPC-298	907171	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+IST-MEL1	907172	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+IST-MES1	907173	p.0?	c.1_522del522	pleura	NS	NS	mesothelioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+IST-SL1	753564	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+IST-SL2	753565	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ITO-II	924164	 	 	testis	NS	NS	germ_cell_tumour	embryonal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+J-RT3-T3-5	907391	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+JAR	907175	 	 	placenta	NS	NS	choriocarcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+JEG-3	907176	 	 	placenta	NS	NS	choriocarcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+JVM-2	907269	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+JVM-3	907270	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+JiyoyeP-2003	907268	 	 	haematopoietic_and_lymphoid_tissue	liver	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+K-562	905940	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+K052	907284	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+K5	924238	p.0?	c.1_522del522	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KALS-1	907271	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KARPAS-299	907273	 	 	haematopoietic_and_lymphoid_tissue	skin	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KARPAS-422	907274	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KARPAS-45	907272	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KASUMI-1	907275	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KATOIII	907276	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KE-37	907277	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KG-1	907278	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KGN	924186	p.0?	c.1_522del522	ovary	NS	NS	sex_cord-stromal_tumour	granulosa_cell_tumour	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KINGS-1	907279	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_III	anaplastic	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KLE	924187	 	 	endometrium	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KM-H2	909976	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KM12	905989	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KMOE-2	907280	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KMS-12-PE	753568	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KNS-42	907282	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KNS-62	753569	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KNS-81-FD	924188	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KOSC-2	753570	p.R122fs*49	c.360_372del13	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41692	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+KP-4	753572	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KP-N-RT-BM-1	924189	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KP-N-S19s	907315	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KP-N-YN	907314	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KP-N-YS	946363	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KS-1	907313	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KU-19-19	907312	p.0?	c.1_522del522	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KU812	907311	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	Ph_positive	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KURAMOCHI	909975	 	 	ovary	NS	NS	carcinoma	undifferentiated_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KY821	907300	p.?	c.1_316del316	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_leukaemia_of_ambiguous_lineage	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+KYSE-140	753573	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KYSE-150	907317	 	 	oesophagus	upper_third	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KYSE-180	907318	p.?	c.1_316del316	oesophagus	middle_third	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+KYSE-270	907319	 	 	oesophagus	middle_third	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KYSE-410	753574	 	 	oesophagus	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KYSE-450	907320	p.0?	c.1_522del522	oesophagus	middle_third	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+KYSE-510	907321	p.?	c.1_316del316	oesophagus	upper_third	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+KYSE-520	753575	 	 	oesophagus	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+KYSE-70	753576	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+L-363	924239	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+L-428	907322	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+L-540	907323	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LAMA-84	907783	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LAN-6	949170	p.0?	c.1_522del522	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LB1047-RCC	753577	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LB2241-RCC	753578	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LB2518-MEL	753579	p.?	c.317_522del206	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB771-HNC	753583	p.G150fs*25	c.447_447delT	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41697	Confirmed	Cultured Sample	Homozygous	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LC-1F	907785	p.0?	c.1_522del522	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LC-2-ad	907786	p.0?	c.1_522del522	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LC4-1	907787	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LCLC-103H	753586	p.0?	c.1_522del522	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LCLC-97TM1	946361	p.0?	c.1_522del522	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LK-2	687787	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LN-405	910694	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LNCaP-Clone-FGC	907788	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LOUCY	907789	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LOXIMVI	905974	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LP-1	907791	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-123	907792	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-174T	907793	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-411N	907794	 	 	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-513	907795	 	 	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LU-134-A	753588	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LU-135	713899	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LU-139	713878	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LU-165	753589	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LU-65	724863	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LU-99A	907796	p.0?	c.1_522del522	lung	NS	NS	carcinoma	giant_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+LXF-289	753592	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LoVo	907790	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+M059J	949094	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+M14	905975	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MC-1010	907798	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MC-CAR	683665	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MC-IXC	908118	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MC116	907799	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MCF7	905946	p.?	c.317_522del206	breast	NS	NS	carcinoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+MDA-MB-134-VI	908119	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MDA-MB-157	925338	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	medullary	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MDA-MB-175-VII	908120	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MDA-MB-231	905960	p.0?	c.1_522del522	breast	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MDA-MB-361	908121	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MDA-MB-415	924240	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MDA-MB-435	905988	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MDA-MB-453	908122	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MDA-MB-468	908123	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ME-180	687514	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MEG-01	908126	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MEL-HO	908124	p.?	c.317_522del206	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+MEL-JUSO	908125	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MES-SA	908127	p.0?	c.1_522del522	soft_tissue	fibrous_tissue_and_uncertain_origin	uterus	sarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MFE-280	908129	 	 	endometrium	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MFE-296	908130	 	 	endometrium	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MFH-ino	925343	p.0?	c.1_522del522	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	malignant_fibrous_histiocytoma-pleomorphic_sarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MFM-223	910948	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MG-63	908131	p.0?	c.1_522del522	bone	NS	NS	osteosarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MHH-CALL-2	908132	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MHH-CALL-4	908133	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MHH-ES-1	908134	 	 	bone	pelvis	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MHH-NB-11	908135	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MHH-PREB-1	908136	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MIA-PaCa-2	724870	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MJ	908137	 	 	haematopoietic_and_lymphoid_tissue	skin	NS	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MKN1	908138	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MKN28	908139	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MKN45	925340	p.0?	c.1_522del522	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MKN7	924250	 	 	stomach	NS	NS	carcinoma	tubular_adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ML-2	908141	p.?	c.317_522del206	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+MLMA	908142	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MMAC-SF	925339	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MN-60	908143	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MOLT-13	908146	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	L2	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MOLT-16	908147	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MOLT-4	905958	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MONO-MAC-6	908148	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MPP-89	908150	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MRK-nu-1	908151	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MS-1	753594	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MSTO-211H	908152	 	 	pleura	NS	NS	mesothelioma	biphasic	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MUTZ-1	908155	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MV-4-11	908156	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_leukaemia_of_ambiguous_lineage	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ2-MEL	971777	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+MZ7-mel	753596	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+Malme-3M	905953	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+Mewo	908128	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mo-T	908149	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	hairy_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NALM-1	908157	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NALM-6	908158	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NB1	949179	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB10	949171	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB12	949172	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB13	949177	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB14	949178	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB17	949175	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB5	949176	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB6	949173	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB69	908440	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NB7	949174	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NBsusSR	925342	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCCIT	908441	 	 	testis	NS	NS	germ_cell_tumour	mixed	teratocarcinoma	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-ADR-RES	905987	 	 	ovary	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1048	687995	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1092	687997	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1105	908468	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1155	908467	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	large_cell_variant	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1173	687999	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1184	688000	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1284	753598	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1299	724831	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1304	753599	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1355	724866	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1417	688001	p.0	c.1_471del471	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	51685	Unknown	Cultured Sample	Homozygous	 	 	 	9	21695714	22065339
+NCI-H1436	908469	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1437	687794	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H146	910899	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1522	908464	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1563	753600	p.0?	c.1_522del522	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H157	911847	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1573	908472	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1581	908471	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1618	753601	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1623	687798	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1648	687799	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H1650	687800	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H1651	910900	p.0?	c.1_522del522	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H1666	908473	p.0?	c.1_522del522	lung	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H1693	687802	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1694	688006	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1703	908474	 	 	lung	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1734	722058	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1755	908475	p.0?	c.1_522del522	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1792	724868	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1793	908463	p.0?	c.1_522del522	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H1838	687807	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H187	688007	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1882	753602	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1926	908477	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1930	924245	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1963	688010	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1975	924244	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1993	908476	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2029	688011	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2030	722045	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2052	688058	p.0?	c.1_522del522	pleura	NS	NS	mesothelioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H2081	908480	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2107	924246	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2122	722046	p.?	c.1_316del316	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+NCI-H2126	687814	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H2141	688014	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2170	687815	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2196	908481	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2227	688018	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2228	687816	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H226	905941	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2291	724874	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H23	905942	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2330	688019	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2342	687819	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2347	687820	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2405	687821	p.?	c.1_316del316	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+NCI-H2452	908462	p.0?	c.1_522del522	pleura	NS	NS	mesothelioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H250	924241	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H28	908470	p.0?	c.1_522del522	pleura	NS	NS	mesothelioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H292	753604	p.0?	c.1_522del522	lung	NS	NS	carcinoma	mucoepidermoid_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H295	908466	 	 	adrenal_gland	adrenal_gland	NS	adrenal_cortical_carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H322M	905967	p.0?	c.1_522del522	lung	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H345	688021	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H358	908465	 	 	lung	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H378	688022	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H441	908460	 	 	lung	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H446	688023	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H460	905943	p.0?	c.1_522del522	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H508	908442	p.R139*	c.415C>T	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	 	4	41696	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+NCI-H510A	753605	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H520	908443	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H522	905944	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H524	908483	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H526	688025	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H596	908459	 	 	lung	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H630	908482	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H64	688026	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H650	722066	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H661	687829	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H69	688027	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H711	910709	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H716	908458	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H719	924242	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H720	687600	 	 	lung	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H727	724855	 	 	lung	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H747	908457	 	 	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H748	909194	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H774	924243	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H810	925341	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H82	688031	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H835	753607	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H838	910399	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-H889	908456	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-N417	688033	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-N87	908461	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-SNU-1	908444	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-SNU-16	908446	p.0?	c.1_522del522	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NCI-SNU-5	908445	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NEC8	910942	 	 	testis	NS	NS	germ_cell_tumour	embryonal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NH-12	908447	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NH-6	925344	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NKM-1	908448	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NMC-G1	908449	p.?	c.317_522del206	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+NOMO-1	908451	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+NOS-1	925345	 	 	bone	NS	NS	osteosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NTERA-S-cl-D1	908454	 	 	testis	NS	NS	germ_cell_tumour	embryonal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NUGC-3	908455	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NY	910849	 	 	bone	NS	NS	osteosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OAW-28	946360	 	 	ovary	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OAW-42	910548	 	 	ovary	NS	NS	carcinoma	mucinous_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OC-314	909257	 	 	ovary	NS	NS	carcinoma	serous_micropapillary_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OCI-AML2	910947	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OCUB-M	909256	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OE19	910079	 	 	oesophagus	lower_third	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OE33	910549	p.R131fs*44	c.391_391delC	oesophagus	lower_third	NS	other	metaplasia	NS	 	4	41694	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+OMC-1	949154	 	 	cervix	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ONS-76	909248	p.?	c.317_522del206	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+OPM-2	909249	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OS-RC-2	909250	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+OVCAR-3	905933	 	 	ovary	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OVCAR-4	905990	 	 	ovary	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+OVCAR-5	905969	p.0?	c.1_522del522	ovary	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+OVCAR-8	905991	 	 	ovary	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+P12-ICHIKAWA	909251	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+P30-OHK	909252	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+P31-FUJ	909253	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+PA-1	909255	 	 	ovary	NS	NS	germ_cell_tumour	teratoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+PANC-03-27	925346	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+PANC-08-13	925347	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+PANC-10-05	925348	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+PC-14	753608	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+PC-3	905934	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+PF-382	909260	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+PFSK-1	683667	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+PLC-PRF-5	925349	 	 	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+PSN1	910546	p.?	c.317_522del206	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+QIMR-WIL	910545	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RCC10RGB	909974	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+RCM-1	909263	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RD	909264	 	 	soft_tissue	striated_muscle	NS	rhabdomyosarcoma	embryonal	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+REH	909696	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+RERF-LC-FM	930081	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RERF-LC-MS	910931	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RF-48	909697	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RH-1	971773	 	 	soft_tissue	striated_muscle	NS	rhabdomyosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RH-18	971774	 	 	soft_tissue	striated_muscle	abdomen	rhabdomyosarcoma	embryonal	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RKO	909698	 	 	large_intestine	colon	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RL	910861	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RL95-2	930082	 	 	endometrium	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RMG-I	909699	p.?	c.317_522del206	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+RO82-W-1	930083	p.0?	c.1_522del522	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+RPMI-2650	909700	 	 	upper_aerodigestive_tract	sinonasal_and_nasal_cavity	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RPMI-6666	909701	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RPMI-7951	910903	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RPMI-8226	905964	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RPMI-8402	909702	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+RPMI-8866	910544	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RS4-11	909703	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+RT-112	909704	p.0?	c.1_522del522	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+RT4	687455	p.0?	c.1_522del522	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+RTSG	909705	 	 	ovary	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+RVH-421	909706	p.?	c.317_522del206	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+RXF393	905978	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+Raji	909262	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+Ramos-2G6-4C10	910401	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+S-117	910946	p.0?	c.1_522del522	soft_tissue	fibrous_tissue_and_uncertain_origin	thyroid	sarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SAS	909708	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SBC-1	713885	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SBC-5	713880	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SCC-15	910911	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SCC-25	910701	p.?	c.317_522del206	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+SCC-3	910930	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SCC-4	910904	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SCC-9	909709	p.?	c.1_316del316	upper_aerodigestive_tract	mouth	tongue	carcinoma	squamous_cell_carcinoma	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+SCCH-26	909710	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SCH	909711	 	 	stomach	NS	NS	other	choriocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SCLC-21H	753611	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SF126	909712	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SF268	905986	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SF295	905985	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SF539	905984	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SH-4	909713	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SHP-77	724872	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SIG-M5	909715	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5a	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SIMA	753620	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SJRH30	909716	 	 	soft_tissue	striated_muscle	NS	rhabdomyosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SJSA-1	909717	 	 	bone	femur	NS	other	multipotential_sarcoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-CO-1	909718	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-HEP-1	909719	p.0?	c.1_522del522	liver	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SK-LMS-1	909720	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	vulva	sarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-LU-1	909721	p.0?	c.1_522del522	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SK-MEL-1	909723	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-MEL-2	905955	 	 	skin	upper_leg	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-MEL-24	909725	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SK-MEL-28	905954	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-MEL-3	909724	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-MEL-30	909726	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-MEL-5	905956	p.0?	c.1_522del522	skin	axilla	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SK-MES-1	909728	p.0?	c.1_522del522	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SK-MG-1	909729	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SK-MM-2	753612	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-N-AS	724828	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-N-DZ	688086	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-N-FI	688087	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-NEP-1	909730	p.0?	c.1_522del522	kidney	NS	NS	Wilms_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SK-OV-3	905959	p.?	c.317_522del206	ovary	NS	NS	carcinoma	adenocarcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+SK-PN-DW	909731	 	 	bone	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SK-UT-1	909732	 	 	soft_tissue	smooth_muscle	uterus	leiomyosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SKG-IIIa	930298	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SKM-1	909722	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SN12C	905979	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SNB19	905966	p.0?	c.1_522del522	central_nervous_system	cerebrum	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SNB75	905982	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SNG-M	909735	 	 	endometrium	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SNU-387	909736	p.0?	c.1_522del522	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SNU-423	909737	 	 	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SNU-449	909738	p.0?	c.1_522del522	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SNU-475	909739	 	 	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SNU-C1	910905	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SNU-C2B	909740	 	 	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SR	905965	p.?	c.317_522del206	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+ST486	910906	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SU-DHL-1	909742	 	 	haematopoietic_and_lymphoid_tissue	skin	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SUP-B8	910209	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SUP-T1	909743	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SW1088	909745	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SW1116	909746	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW13	909744	 	 	adrenal_gland	adrenal_gland	NS	adrenal_cortical_carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW1417	909747	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW1463	909748	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW1573	724878	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SW1710	909749	p.?	c.317_522del206	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+SW1783	909750	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_III	anaplastic	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW1990	910907	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SW48	909751	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW620	905962	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW626	909753	 	 	ovary	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW684	909754	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	fibrosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW756	724839	 	 	cervix	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW780	687457	p.0?	c.1_522del522	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SW837	909755	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW872	909756	 	 	soft_tissue	fat	NS	liposarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW900	724879	p.0?	c.1_522del522	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+SW948	909757	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW954	924247	 	 	vulva	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW962	909758	 	 	vulva	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW982	909759	p.0?	c.1_522del522	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	synovial_sarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+Saos-2	909707	 	 	bone	NS	NS	osteosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+SiHa	930297	 	 	cervix	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+T-24	724812	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+T47D	905945	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+T84	909761	 	 	large_intestine	colon	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+T98G	687586	p.?	c.317_522del206	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+TALL-1	909762	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TC-YIK	946357	 	 	cervix	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TCCSUP	687459	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TE-1	753621	 	 	oesophagus	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TE-10	753622	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TE-11	946354	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TE-12	946356	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TE-15	753614	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TE-161-T	909765	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TE-206-T	909766	 	 	NS	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TE-441-T	924248	 	 	soft_tissue	striated_muscle	NS	rhabdomyosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TE-5	735784	p.?	c.317_522del206	oesophagus	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+TE-6	946355	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TE-8	753623	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TE-9	946353	p.0?	c.1_522del522	oesophagus	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TGBC11TKB	909770	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TGBC1TKB	909769	 	 	biliary_tract	gallbladder	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TGBC24TKB	910695	 	 	biliary_tract	gallbladder	NS	carcinoma	undifferentiated_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TGW	910780	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+THP-1	909771	p.0?	c.1_522del522	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+TI-73	910696	 	 	bone	NS	NS	osteosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TK10	905980	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TT	930299	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TUR	909773	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+TYK-nu	909774	p.0?	c.1_522del522	ovary	NS	NS	carcinoma	undifferentiated_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+U-118-MG	687588	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+U-2-OS	909776	 	 	bone	tibia	NS	osteosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+U-266	753615	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+U-698-M	909777	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+U-87-MG	687590	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+U031	905981	p.?	c.317_522del206	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41688	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+U251	905983	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+UACC-257	905977	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+UACC-62	905976	p.0?	c.1_522del522	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+UACC-812	910910	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+UACC-893	909778	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+UM-UC-3	724838	p.0?	c.1_522del522	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+UMC-11	909779	p.0?	c.1_522del522	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+VA-ES-BJ	688121	p.0?	c.1_522del522	bone	NS	NS	sarcoma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+VM-CUB-1	909780	 	 	urinary_tract	bladder	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+VMRC-MELG	930301	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+VMRC-RCZ	909781	p.0?	c.1_522del522	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+WERI-Rb-1	909782	 	 	eye	retina	NS	retinoblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+WM-115	909784	p.?	c.1_316del316	skin	NS	NS	malignant_melanoma	NS	NS	 	4	41689	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
+WSU-NHL	909785	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	follicular_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+YAPC	909904	p.0?	c.1_522del522	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+YH-13	909905	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+YKG-1	687592	p.0?	c.1_522del522	central_nervous_system	brain	NS	glioma	NS	NS	 	4	41690	Unknown	Cultured Sample	Homozygous	9	21957751	21984490	9	21967751	21994490
+YT	946358	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	NK-T_cell_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+ZR-75-30	909907	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+no-10	908452	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_III	anaplastic	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
+no-11	908450	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_III	anaplastic	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 

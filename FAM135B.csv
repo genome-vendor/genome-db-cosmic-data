@@ -1,0 +1,15 @@
+
+Gene : FAM135B
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0760	1474815	p.I398I	c.1194C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81162	Confirmed	Tumour Sample	Heterozygous	8	139249384	139249384	8	139180202	139180202
+TCGA-13-0897	1474917	p.R892G	c.2674A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74583	Confirmed	Tumour Sample	Heterozygous	8	139233226	139233226	8	139164044	139164044
+TCGA-13-1492	1474977	p.P1065P	c.3195C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79816	Confirmed	Tumour Sample	Heterozygous	8	139232705	139232705	8	139163523	139163523
+TCGA-13-2060	1474963	p.N485N	c.1455T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79818	Confirmed	Tumour Sample	Heterozygous	8	139234445	139234445	8	139165263	139165263
+TCGA-23-1022	1474814	p.F1392S	c.4175T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74581	Confirmed	Tumour Sample	Heterozygous	8	139214064	139214064	8	139144882	139144882
+TCGA-24-1103	1474853	p.T1259T	c.3777C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81160	Confirmed	Tumour Sample	Homozygous	8	139222636	139222636	8	139153454	139153454
+TCGA-24-1422	1474849	p.V12L	c.34G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70692	Confirmed	Tumour Sample	Heterozygous	8	139449375	139449375	8	139380193	139380193

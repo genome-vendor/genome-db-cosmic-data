@@ -1,0 +1,12 @@
+
+Gene : TGFBI
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+1432464	1432464	p.E576K	c.1726G>A	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20393555	317	51626	Confirmed	Tumour Sample	Homozygous	5	135422725	135422725	5	135394826	135394826
+1432465	1432465	p.E576K	c.1726G>A	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20393555	317	51626	Confirmed	Cultured Sample	Heterozygous	5	135422725	135422725	5	135394826	135394826
+1432466	1432466	p.E576K	c.1726G>A	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20393555	317	51626	Confirmed	Tumour Sample	Heterozygous	5	135422725	135422725	5	135394826	135394826
+TCGA-59-2350	1475113	p.A384A	c.1152A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80633	Confirmed	Tumour Sample	Heterozygous	5	135417556	135417556	5	135389657	135389657

@@ -1,0 +1,9 @@
+
+Gene : CREM_ENST00000395887
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+HX5T	1473092	p.E16G	c.47A>G	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	323	53483	Confirmed	Tumour Sample	Heterozygous	 	 	 	10	35456700	35456700

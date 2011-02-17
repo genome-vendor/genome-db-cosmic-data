@@ -1,0 +1,10 @@
+
+Gene : FLT4_ENST00000261937
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+16686	1473024	p.Y1333H	c.3997T>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85723	Confirmed	Tumour Sample	Heterozygous	 	 	 	5	180030287	180030287
+16953	1473108	p.Y1333H	c.3997T>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85723	Confirmed	Tumour Sample	Heterozygous	 	 	 	5	180030287	180030287

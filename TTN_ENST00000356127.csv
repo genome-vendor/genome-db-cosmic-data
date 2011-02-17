@@ -1,0 +1,85 @@
+
+Gene : TTN_ENST00000356127
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br15X	1473139	p.A5502T	c.16504G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54462	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179591856	179591856
+Br27P	1473023	p.V6096I	c.18286G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54461	Confirmed	Tumour Sample	Heterozygous	 	 	 	2	179587608	179587608
+PD2127a	948147	p.G19157V	c.57470G>T	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	51904	Confirmed	Tumour Sample	 	 	 	 	2	179449098	179449098
+Pa03C	1473117	p.P29193P	c.87579A>G	pancreas	NS	NS	NS	NS	NS	 	327	84649	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179410674	179410674
+Pa05X	1473088	p.C12484Y	c.37451G>A	pancreas	NS	NS	NS	NS	NS	 	327	84657	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179486396	179486396
+Pa08C	1473125	p.D14716N	c.44146G>A	pancreas	NS	NS	NS	NS	NS	 	327	84653	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179474187	179474187
+Pa09C	1473090	p.R4814C	c.14440C>T	pancreas	NS	NS	NS	NS	NS	 	327	84659	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179594955	179594955
+Pa14C	1473126	p.R27897C	c.83689C>T	pancreas	NS	NS	NS	NS	NS	 	327	84651	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179415859	179415859
+Pa20C	1473061	p.G2370G	c.7110T>C	pancreas	NS	NS	NS	NS	NS	 	327	84662	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179638785	179638785
+Pa37X	1473102	p.V13207V	c.39621C>G	pancreas	NS	NS	NS	NS	NS	 	327	84655	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179482753	179482753
+Pa39X	1473103	p.A1914V	c.5741C>T	pancreas	NS	NS	NS	NS	NS	 	327	84665	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	179640850	179640850
+TCGA-04-1331	1474885	p.P17267S	c.51799C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73142	Confirmed	Tumour Sample	Heterozygous	2	179165469	179165469	2	179457223	179457223
+TCGA-04-1332	1475009	p.K14141R	c.42422A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76880	Confirmed	Tumour Sample	Heterozygous	2	179185371	179185371	2	179477126	179477126
+TCGA-04-1332	1475009	p.R21828H	c.65483G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76873	Confirmed	Tumour Sample	Heterozygous	2	179145912	179145912	2	179437666	179437666
+TCGA-04-1338	1474824	p.R22679S	c.68035C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78712	Confirmed	Tumour Sample	Heterozygous	2	179143360	179143360	2	179435114	179435114
+TCGA-04-1343	1474875	p.L2975V	c.8923C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76894	Confirmed	Tumour Sample	Heterozygous	2	179341885	179341885	2	179633640	179633640
+TCGA-04-1365	1475079	p.Y1132*	c.3396C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79426	Confirmed	Tumour Sample	Heterozygous	2	179354220	179354220	2	179645975	179645975
+TCGA-04-1542	1474866	p.P32661L	c.97982C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76859	Confirmed	Tumour Sample	Heterozygous	2	179103896	179103896	2	179395650	179395650
+TCGA-09-0369	1474883	p.G12175V	c.36524G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76882	Confirmed	Tumour Sample	Homozygous	2	179203266	179203266	2	179495021	179495021
+TCGA-09-2050	1474830	p.T3676M	c.11027C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73154	Confirmed	Tumour Sample	Heterozygous	2	179308659	179308659	2	179600414	179600414
+TCGA-09-2056	1474870	p.H815D	c.2443C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73158	Confirmed	Tumour Sample	Heterozygous	2	179358642	179358642	2	179650397	179650397
+TCGA-10-0935	1474926	p.P32064P	c.96192A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76861	Confirmed	Tumour Sample	Heterozygous	2	179105686	179105686	2	179397440	179397440
+TCGA-13-0717	1475078	p.I15448V	c.46342A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78718	Confirmed	Tumour Sample	Heterozygous	2	179178103	179178103	2	179469858	179469858
+TCGA-13-0755	1474836	p.T17019R	c.51056C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76875	Confirmed	Tumour Sample	Heterozygous	2	179166415	179166415	2	179458169	179458169
+TCGA-13-0760	1474815	p.V11647D	c.34940T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76886	Confirmed	Tumour Sample	Heterozygous	2	179206827	179206827	2	179498582	179498582
+TCGA-13-0760	1474815	p.D12839D	c.38517C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81862	Confirmed	Tumour Sample	Heterozygous	2	179193272	179193272	2	179485027	179485027
+TCGA-13-0792	1474938	p.R15131C	c.45391C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78720	Confirmed	Tumour Sample	Heterozygous	2	179180565	179180565	2	179472320	179472320
+TCGA-13-0795	1474864	p.L5389R	c.16166T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76891	Confirmed	Tumour Sample	Heterozygous	2	179300652	179300652	2	179592407	179592407
+TCGA-13-0795	1474864	p.Y5390D	c.16168T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76890	Confirmed	Tumour Sample	Heterozygous	2	179300650	179300650	2	179592405	179592405
+TCGA-13-0801	1475076	p.G20867C	c.62599G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78714	Confirmed	Tumour Sample	Heterozygous	2	179148796	179148796	2	179440550	179440550
+TCGA-13-0807	1474889	p.Q32007E	c.96019C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76863	Confirmed	Tumour Sample	Heterozygous	2	179105859	179105859	2	179397613	179397613
+TCGA-13-0885	1474816	p.E1972D	c.5916A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76897	Confirmed	Tumour Sample	Heterozygous	2	179348920	179348920	2	179640675	179640675
+TCGA-13-0885	1474816	p.E29896K	c.89686G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81855	Confirmed	Tumour Sample	Heterozygous	2	179115333	179115333	2	179407087	179407087
+TCGA-13-0887	1474827	p.Q7912H	c.23736G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76889	Confirmed	Tumour Sample	Heterozygous	2	179285426	179285426	2	179577181	179577181
+TCGA-13-0893	1474856	p.K20854E	c.62560A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81857	Confirmed	Tumour Sample	Heterozygous	2	179148835	179148835	2	179440589	179440589
+TCGA-13-0894	1474894	p.I9213V	c.27637A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76888	Confirmed	Tumour Sample	Heterozygous	2	179267628	179267628	2	179559383	179559383
+TCGA-13-0904	1474835	p.N8026S	c.24077A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73151	Confirmed	Tumour Sample	Heterozygous	2	179284993	179284993	2	179576748	179576748
+TCGA-13-0920	1474823	p.P16144L	c.48431C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76877	Confirmed	Tumour Sample	Heterozygous	2	179172732	179172732	2	179464487	179464487
+TCGA-13-1403	1474915	p.V15155I	c.45463G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76878	Confirmed	Tumour Sample	Heterozygous	2	179180493	179180493	2	179472248	179472248
+TCGA-13-1404	1474896	p.A1384A	c.4152T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81865	Confirmed	Tumour Sample	Heterozygous	2	179351902	179351902	2	179643657	179643657
+TCGA-13-1408	1475040	p.D7159H	c.21475G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78724	Confirmed	Tumour Sample	Heterozygous	2	179290639	179290639	2	179582394	179582394
+TCGA-13-1412	1474993	p.K24102N	c.72306G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76869	Confirmed	Tumour Sample	Heterozygous	2	179139089	179139089	2	179430843	179430843
+TCGA-13-1496	1474899	p.R6745H	c.20234G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73152	Confirmed	Tumour Sample	Heterozygous	2	179292396	179292396	2	179584151	179584151
+TCGA-13-1497	1474820	p.K3558N	c.10674G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76892	Confirmed	Tumour Sample	Homozygous	2	179309012	179309012	2	179600767	179600767
+TCGA-13-1505	1474928	p.S17564T	c.52690T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73140	Confirmed	Tumour Sample	Heterozygous	2	179164298	179164298	2	179456052	179456052
+TCGA-13-1505	1474928	p.R32024C	c.96070C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73122	Confirmed	Tumour Sample	Heterozygous	2	179105808	179105808	2	179397562	179397562
+TCGA-23-1021	1474841	p.V17918V	c.53754G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81859	Confirmed	Tumour Sample	Heterozygous	2	179163234	179163234	2	179454988	179454988
+TCGA-23-1022	1474814	p.G16021G	c.48063C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81861	Confirmed	Tumour Sample	Heterozygous	2	179174109	179174109	2	179465864	179465864
+TCGA-23-1032	1474876	p.A6451V	c.19352C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73153	Confirmed	Tumour Sample	Heterozygous	2	179293907	179293907	2	179585662	179585662
+TCGA-23-1110	1474834	p.Y25072H	c.75214T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73128	Confirmed	Tumour Sample	Heterozygous	2	179136181	179136181	2	179427935	179427935
+TCGA-23-1117	1474828	p.F1558L	c.4674T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76900	Confirmed	Tumour Sample	Heterozygous	2	179350261	179350261	2	179642016	179642016
+TCGA-23-1119	1475096	p.A18577V	c.55730C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78716	Confirmed	Tumour Sample	Heterozygous	2	179160940	179160940	2	179452694	179452694
+TCGA-23-1122	1474843	p.K12765M	c.38294A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73148	Confirmed	Tumour Sample	Heterozygous	2	179193495	179193495	2	179485250	179485250
+TCGA-23-1122	1474843	p.H12788P	c.38363A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73146	Confirmed	Tumour Sample	Heterozygous	2	179193426	179193426	2	179485181	179485181
+TCGA-24-0980	1474968	p.K32723I	c.98168A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79311	Confirmed	Tumour Sample	Heterozygous	2	179103710	179103710	2	179395464	179395464
+TCGA-24-1423	1474907	p.R18244T	c.54731G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73138	Confirmed	Tumour Sample	Heterozygous	2	179162257	179162257	2	179454011	179454011
+TCGA-24-1427	1474900	p.D22353E	c.67059C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76871	Confirmed	Tumour Sample	Heterozygous	2	179144336	179144336	2	179436090	179436090
+TCGA-24-1463	1474947	p.V31604V	c.94812C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76865	Confirmed	Tumour Sample	Heterozygous	2	179107066	179107066	2	179398820	179398820
+TCGA-24-1464	1474905	p.F7526F	c.22578C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81864	Confirmed	Tumour Sample	Heterozygous	2	179287436	179287436	2	179579191	179579191
+TCGA-24-1469	1474819	p.S11895L	c.35684C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76884	Confirmed	Tumour Sample	Heterozygous	2	179205590	179205590	2	179497345	179497345
+TCGA-24-1469	1474819	p.G26048G	c.78144A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76867	Confirmed	Tumour Sample	Heterozygous	2	179133251	179133251	2	179425005	179425005
+TCGA-24-1614	1475043	p.M13581I	c.40743G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78722	Confirmed	Tumour Sample	Homozygous	2	179188626	179188626	2	179480381	179480381
+TCGA-24-2290	1474902	p.T3356T	c.10068T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80704	Confirmed	Tumour Sample	Heterozygous	2	179337195	179337195	2	179628950	179628950
+TCGA-24-2293	1474984	p.R24646C	c.73936C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73130	Confirmed	Tumour Sample	Heterozygous	2	179137459	179137459	2	179429213	179429213
+TCGA-25-1318	1474960	p.N31304N	c.93912C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82436	Confirmed	Tumour Sample	Heterozygous	2	179107966	179107966	2	179399720	179399720
+TCGA-25-1326	1474831	p.I24636T	c.73907T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73132	Confirmed	Tumour Sample	Heterozygous	2	179137488	179137488	2	179429242	179429242
+TCGA-25-1329	1475000	p.R1683*	c.5047C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79086	Confirmed	Tumour Sample	Heterozygous	2	179349789	179349789	2	179641544	179641544
+TCGA-25-2392	1474848	p.V14266G	c.42797T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73144	Confirmed	Tumour Sample	Heterozygous	2	179184780	179184780	2	179476535	179476535
+TCGA-25-2399	1474990	p.I20355V	c.61063A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73134	Confirmed	Tumour Sample	Heterozygous	2	179150626	179150626	2	179442380	179442380
+TCGA-25-2404	1474989	p.P10866L	c.32597C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73150	Confirmed	Tumour Sample	Heterozygous	2	179218999	179218999	2	179510754	179510754
+TCGA-29-2427	1474908	p.V911I	c.2731G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73155	Confirmed	Tumour Sample	Heterozygous	2	179357086	179357086	2	179648841	179648841
+TCGA-29-2427	1474908	p.R30139*	c.90415A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79083	Confirmed	Tumour Sample	Heterozygous	2	179112913	179112913	2	179404667	179404667
+TCGA-59-2351	1474860	p.K32990T	c.98969A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73120	Confirmed	Tumour Sample	Heterozygous	2	179102045	179102045	2	179393799	179393799
+TCGA-59-2354	1474922	p.R31516T	c.94547G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73124	Confirmed	Tumour Sample	Heterozygous	2	179107331	179107331	2	179399085	179399085
+TCGA-61-2002	1474975	p.T27989S	c.83965A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73126	Confirmed	Tumour Sample	Heterozygous	2	179123136	179123136	2	179414890	179414890
+TCGA-61-2012	1474845	p.A18280T	c.54838G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73136	Confirmed	Tumour Sample	Heterozygous	2	179162150	179162150	2	179453904	179453904
+TCGA-61-2095	1475104	p.Q23538Q	c.70614G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80702	Confirmed	Tumour Sample	Heterozygous	2	179140781	179140781	2	179432535	179432535

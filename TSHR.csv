@@ -1,0 +1,1178 @@
+
+Gene : TSHR
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+1098019	1098019	p.D619_T620>S	c.1854_1858AGATA>GT	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	26414	Confirmed	Tumour Sample	 	14	80680009	80680013	14	81610256	81610260
+1098020	1098020	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098021	1098021	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098022	1098022	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098023	1098023	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098024	1098024	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098025	1098025	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098026	1098026	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098027	1098027	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098028	1098028	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098029	1098029	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098030	1098030	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098031	1098031	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098032	1098032	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098033	1098033	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098034	1098034	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098035	1098035	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098036	1098036	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098037	1098037	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098038	1098038	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098039	1098039	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098040	1098040	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098041	1098041	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098042	1098042	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098043	1098043	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098044	1098044	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098045	1098045	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098046	1098046	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098047	1098047	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098048	1098048	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098049	1098049	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098050	1098050	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098051	1098051	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098052	1098052	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098053	1098053	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098054	1098054	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098055	1098055	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098056	1098056	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098057	1098057	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098058	1098058	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098059	1098059	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098060	1098060	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098061	1098061	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098062	1098062	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098063	1098063	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7673402	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098064	1098064	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26415	Confirmed	Tumour Sample	Heterozygous	14	80680011	80680011	14	81610258	81610258
+1098065	1098065	p.A623S	c.1867G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1098066	1098066	p.A623S	c.1867G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1098067	1098067	p.A623S	c.1867G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1098068	1098068	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1098069	1098069	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1098070	1098070	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1098071	1098071	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1098072	1098072	p.D633H	c.1897G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	26420	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1098073	1098073	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098074	1098074	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098075	1098075	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098076	1098076	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098077	1098077	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098078	1098078	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098079	1098079	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098080	1098080	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098081	1098081	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098082	1098082	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098083	1098083	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098084	1098084	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098085	1098085	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098086	1098086	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098087	1098087	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098088	1098088	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098089	1098089	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098090	1098090	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098091	1098091	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098092	1098092	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098093	1098093	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098094	1098094	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098095	1098095	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098096	1098096	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098097	1098097	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098098	1098098	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098099	1098099	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098100	1098100	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098101	1098101	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098102	1098102	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098103	1098103	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098104	1098104	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098105	1098105	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098106	1098106	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098107	1098107	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8636365	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098108	1098108	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	26431	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1098109	1098109	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	26432	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1098110	1098110	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1098111	1098111	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1098112	1098112	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098113	1098113	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098114	1098114	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	26431	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1098115	1098115	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098116	1098116	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098117	1098117	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098118	1098118	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098119	1098119	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098120	1098120	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9398745	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098121	1098121	p.D633E	c.1899C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26424	Confirmed	Tumour Sample	Heterozygous	14	80680054	80680054	14	81610301	81610301
+1098122	1098122	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098123	1098123	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098124	1098124	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1098125	1098125	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1098126	1098126	p.I486M	c.1458C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26421	Confirmed	Tumour Sample	Heterozygous	14	80679613	80679613	14	81609860	81609860
+1098127	1098127	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1098128	1098128	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098129	1098129	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1098130	1098130	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1098131	1098131	p.L629F	c.1887G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26422	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1098132	1098132	p.D633E	c.1899C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26424	Confirmed	Tumour Sample	Heterozygous	14	80680054	80680054	14	81610301	81610301
+1098133	1098133	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26415	Confirmed	Tumour Sample	Heterozygous	14	80680011	80680011	14	81610258	81610258
+1098134	1098134	p.L629F	c.1887G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26422	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1098135	1098135	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1098136	1098136	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098137	1098137	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098138	1098138	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098139	1098139	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098140	1098140	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098141	1098141	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098142	1098142	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098143	1098143	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098144	1098144	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098145	1098145	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098146	1098146	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098147	1098147	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098148	1098148	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098149	1098149	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098150	1098150	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10566665	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098151	1098151	p.S281N	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26426	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098152	1098152	p.I568T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26427	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098153	1098153	p.Y613_K621del	c.1837_1863del27	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26428	Confirmed	Tumour Sample	Heterozygous	14	80679992	80680018	14	81610239	81610265
+1098154	1098154	p.D619G	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26429	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098155	1098155	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098156	1098156	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098157	1098157	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098158	1098158	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098159	1098159	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26431	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098160	1098160	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26431	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098161	1098161	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098162	1098162	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098163	1098163	p.D633E	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26433	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098164	1098164	p.D633E	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26433	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1098165	1098165	p.V656F	c.1966G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	26425	Confirmed	Tumour Sample	Heterozygous	14	80680121	80680121	14	81610368	81610368
+1098166	1098166	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098166	1101728	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098167	1098167	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098167	1101729	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098168	1098168	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098168	1101730	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098169	1098169	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098169	1101731	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098170	1098170	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098170	1101732	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098171	1098171	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098171	1101733	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098172	1098172	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098172	1101734	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098173	1098173	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098173	1101735	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098174	1098174	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098174	1101736	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098175	1098175	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098175	1101737	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098176	1098176	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098176	1101738	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098177	1098177	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098177	1101739	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098178	1098178	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098178	1101740	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098179	1098179	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098179	1101741	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098180	1098180	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098180	1101742	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098181	1098181	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9360556	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1098181	1101743	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9848712	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099500	1099500	p.L512Q	c.1535T>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	17018437	 	26448	Confirmed	Tumour Sample	Heterozygous	14	80679690	80679690	14	81609937	81609937
+1099501	1099501	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1099502	1099502	p.I486F	c.1456A>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26450	Confirmed	Tumour Sample	Heterozygous	14	80679611	80679611	14	81609858	81609858
+1099503	1099503	p.L512Q	c.1535T>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26448	Confirmed	Tumour Sample	Heterozygous	14	80679690	80679690	14	81609937	81609937
+1099504	1099504	p.I568T	c.1703T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26451	Confirmed	Tumour Sample	Heterozygous	14	80679858	80679858	14	81610105	81610105
+1099505	1099505	p.I568T	c.1703T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26451	Confirmed	Tumour Sample	Heterozygous	14	80679858	80679858	14	81610105	81610105
+1099506	1099506	p.A593N	c.1777_1778GC>AA	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26452	Confirmed	Tumour Sample	Heterozygous	14	80679932	80679933	14	81610179	81610180
+1099507	1099507	p.?	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26454	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1099508	1099508	p.L629F	c.1887G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26453	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1099509	1099509	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1099510	1099510	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1099511	1099511	p.D633E	c.1899C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	26424	Confirmed	Tumour Sample	Heterozygous	14	80680054	80680054	14	81610301	81610301
+1099512	1099512	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099513	1099513	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099514	1099514	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099515	1099515	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099516	1099516	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099517	1099517	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099518	1099518	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099519	1099519	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099520	1099520	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099521	1099521	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099522	1099522	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099523	1099523	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099524	1099524	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099525	1099525	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099526	1099526	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099527	1099527	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099528	1099528	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	14514342	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1099529	1099529	p.D633Y	c.1897G>T	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	14713269	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1099530	1099530	p.F631I	c.1891T>A	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	14713269	 	26455	Confirmed	Tumour Sample	Heterozygous	14	80680046	80680046	14	81610293	81610293
+1099531	1099531	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	14713269	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101617	1101617	p.D633Y	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26461	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101618	1101618	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101619	1101619	p.V656F	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26462	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101620	1101620	p.M453T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26463	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101621	1101621	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101622	1101622	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101623	1101623	p.L629F	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26464	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101624	1101624	p.L629F	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26464	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101625	1101625	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101626	1101626	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101627	1101627	p.P639S	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26465	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101628	1101628	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101629	1101629	p.I568T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26427	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101630	1101630	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101631	1101631	p.I630L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26466	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101632	1101632	p.A627V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26467	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101633	1101633	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101634	1101634	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101635	1101635	p.L512R	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26468	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101636	1101636	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26431	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101637	1101637	p.D633Y	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26461	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101638	1101638	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101639	1101639	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101640	1101640	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101641	1101641	p.M453T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26463	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101642	1101642	p.L512Q	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26469	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101643	1101643	p.T632A	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26470	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101644	1101644	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26431	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101645	1101645	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101646	1101646	p.T632A	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26470	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101647	1101647	p.M453T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26463	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101648	1101648	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101649	1101649	p.A428V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26471	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101650	1101650	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101651	1101651	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101652	1101652	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101653	1101653	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101654	1101654	p.D619G	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26429	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101655	1101655	p.D619G	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26429	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101656	1101656	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101657	1101657	p.L512Q	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26469	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101658	1101658	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101659	1101659	p.I486F	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26472	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101660	1101660	p.D633Y	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26461	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101661	1101661	p.D619G	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26429	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101662	1101662	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101663	1101663	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101664	1101664	p.S505N	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26473	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101665	1101665	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101666	1101666	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101667	1101667	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101668	1101668	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101669	1101669	p.D633H	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26474	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101670	1101670	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101671	1101671	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101672	1101672	p.D619G	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26429	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101673	1101673	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101674	1101674	p.M453T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26463	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101675	1101675	p.M453T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26463	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101676	1101676	p.L629F	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26464	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101677	1101677	p.I486N	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26475	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101678	1101678	p.I486F	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26472	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101679	1101679	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101680	1101680	p.A623V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26430	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101681	1101681	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101682	1101682	p.I640K	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26476	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101683	1101683	p.A428V	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26471	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101684	1101684	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101685	1101685	p.M453T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26463	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101686	1101686	p.S281N	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26426	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101687	1101687	p.D619G	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26429	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101688	1101688	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101689	1101689	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101690	1101690	p.S281N	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16990652	 	26426	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101691	1101691	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101692	1101692	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101693	1101693	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101694	1101694	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101695	1101695	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101696	1101696	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101697	1101697	p.A623S	c.1867G>T	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1101698	1101698	p.A623S	c.1867G>T	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	7478621	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1101699	1101699	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101700	1101700	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101701	1101701	p.A623S	c.1867G>T	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	7478621	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1101702	1101702	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101703	1101703	p.A623S	c.1867G>T	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	7478621	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1101704	1101704	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101705	1101705	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	7478621	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101706	1101706	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101707	1101707	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101708	1101708	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101709	1101709	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101710	1101710	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101711	1101711	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101712	1101712	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101713	1101713	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101714	1101714	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101715	1101715	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101716	1101716	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101717	1101717	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101718	1101718	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101719	1101719	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101720	1101720	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101721	1101721	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101722	1101722	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101723	1101723	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101724	1101724	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101725	1101725	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101726	1101726	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101727	1101727	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	10342361	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101744	1101744	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	26418	Confirmed	NS	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1101745	1101745	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	26418	Confirmed	NS	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1101746	1101746	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	26418	Confirmed	NS	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1101747	1101747	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	26419	Confirmed	NS	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1101748	1101748	p.D633E	c.1899C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	26477	Confirmed	NS	Heterozygous	14	80680054	80680054	14	81610301	81610301
+1101749	1101749	p.D633E	c.1899C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	26477	Confirmed	NS	Heterozygous	14	80680054	80680054	14	81610301	81610301
+1101750	1101750	p.F631C	c.1892T>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	26478	Confirmed	NS	Heterozygous	14	80680047	80680047	14	81610294	81610294
+1101751	1101751	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	 	 	NS	 	 	 	 	 	 	 
+1101752	1101752	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	 	 	NS	 	 	 	 	 	 	 
+1101753	1101753	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	 	 	NS	 	 	 	 	 	 	 
+1101754	1101754	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8045989	 	 	 	NS	 	 	 	 	 	 	 
+1101755	1101755	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1101756	1101756	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1101757	1101757	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101758	1101758	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101759	1101759	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101760	1101760	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101761	1101761	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101762	1101762	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101763	1101763	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7989485	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101764	1101764	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101765	1101765	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101766	1101766	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101767	1101767	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101768	1101768	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101769	1101769	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101770	1101770	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101771	1101771	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101772	1101772	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101773	1101773	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101774	1101774	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101775	1101775	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101776	1101776	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101777	1101777	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101778	1101778	 	 	thyroid	NS	NS	other	Graves_disease	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101779	1101779	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1101780	1101780	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1101781	1101781	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101782	1101782	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101783	1101783	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101784	1101784	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101785	1101785	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101786	1101786	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101787	1101787	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101788	1101788	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101789	1101789	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101790	1101790	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101791	1101791	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101792	1101792	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101793	1101793	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101794	1101794	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101795	1101795	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101796	1101796	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101797	1101797	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101798	1101798	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101799	1101799	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101800	1101800	p.F631V	c.1891T>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	26479	Confirmed	Tumour Sample	Heterozygous	14	80680046	80680046	14	81610293	81610293
+1101801	1101801	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1101802	1101802	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101803	1101803	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101804	1101804	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101805	1101805	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101806	1101806	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16235153	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101807	1101807	p.S281N	c.842G>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26480	Confirmed	Tumour Sample	Heterozygous	14	80675925	80675925	14	81606172	81606172
+1101808	1101808	p.S425I	c.1274G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26481	Confirmed	Tumour Sample	Heterozygous	14	80679429	80679429	14	81609676	81609676
+1101809	1101809	p.S425I	c.1274G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26481	Confirmed	Tumour Sample	Heterozygous	14	80679429	80679429	14	81609676	81609676
+1101810	1101810	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1101811	1101811	p.M453T	c.1358_1359TG>CC	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26482	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679514	14	81609760	81609761
+1101812	1101812	p.M453T	c.1358_1359TG>CC	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26482	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679514	14	81609760	81609761
+1101813	1101813	p.I486F	c.1456A>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26450	Confirmed	Tumour Sample	Heterozygous	14	80679611	80679611	14	81609858	81609858
+1101814	1101814	p.I486F	c.1456A>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26450	Confirmed	Tumour Sample	Heterozygous	14	80679611	80679611	14	81609858	81609858
+1101815	1101815	p.S505N	c.1514G>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26483	Confirmed	Tumour Sample	Heterozygous	14	80679669	80679669	14	81609916	81609916
+1101816	1101816	p.L512Q	c.1535T>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26448	Confirmed	Tumour Sample	Heterozygous	14	80679690	80679690	14	81609937	81609937
+1101817	1101817	p.L512Q	c.1535T>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26448	Confirmed	Tumour Sample	Heterozygous	14	80679690	80679690	14	81609937	81609937
+1101818	1101818	p.L512R	c.1535T>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26484	Confirmed	Tumour Sample	Heterozygous	14	80679690	80679690	14	81609937	81609937
+1101819	1101819	p.I568T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26427	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101820	1101820	p.I568T	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26427	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101821	1101821	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26415	Confirmed	Tumour Sample	Heterozygous	14	80680011	80680011	14	81610258	81610258
+1101822	1101822	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26431	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101823	1101823	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26431	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101824	1101824	p.F631L	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26431	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101825	1101825	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101826	1101826	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101827	1101827	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101828	1101828	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26432	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1101829	1101829	p.T632A	c.1894A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26485	Confirmed	Tumour Sample	Heterozygous	14	80680049	80680049	14	81610296	81610296
+1101830	1101830	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1101831	1101831	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1101832	1101832	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1101833	1101833	p.D633H	c.1897G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26420	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1101834	1101834	p.P639A	c.1915C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	26486	Confirmed	Tumour Sample	Heterozygous	14	80680070	80680070	14	81610317	81610317
+1101835	1101835	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101836	1101836	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101837	1101837	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101838	1101838	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101839	1101839	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101840	1101840	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101841	1101841	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101842	1101842	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101843	1101843	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101844	1101844	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101845	1101845	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101846	1101846	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101847	1101847	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101848	1101848	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101849	1101849	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101850	1101850	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101851	1101851	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101852	1101852	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101853	1101853	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101854	1101854	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101855	1101855	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101856	1101856	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101857	1101857	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101858	1101858	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101859	1101859	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101860	1101860	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101861	1101861	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101862	1101862	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101863	1101863	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101864	1101864	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101865	1101865	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1101866	1101866	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11434721	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102010	1102010	p.D633H	c.1897G>C	thyroid	NS	NS	carcinoma	insular_carcinoma	NS	9062474	 	26420	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1102011	1102011	p.D633H	c.1897G>C	thyroid	NS	NS	carcinoma	insular_carcinoma	NS	9062474	 	26420	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1102016	1102016	p.T632A	c.1894A>G	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	26485	Confirmed	Tumour Sample	Heterozygous	14	80680049	80680049	14	81610296	81610296
+1102017	1102017	p.T632I	c.1895C>T	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1102018	1102018	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102019	1102019	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102020	1102020	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102021	1102021	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102022	1102022	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102023	1102023	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102024	1102024	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102025	1102025	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102026	1102026	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102027	1102027	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102028	1102028	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102029	1102029	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102030	1102030	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102031	1102031	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102034	1102034	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102035	1102035	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102036	1102036	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102037	1102037	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102038	1102038	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102040	1102040	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	follicular_variant	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102041	1102041	 	 	thyroid	NS	NS	carcinoma	Hurthle_cell_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102042	1102042	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102043	1102043	p.L677V	c.2029C>G	thyroid	NS	NS	carcinoma	Hurthle_cell_carcinoma	NS	10037070	 	26489	Confirmed	Tumour Sample	Heterozygous	14	80680184	80680184	14	81610431	81610431
+1102044	1102044	p.I486F	c.1456A>T	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	11128715	 	26450	Confirmed	Tumour Sample	Heterozygous	14	80679611	80679611	14	81609858	81609858
+1102045	1102045	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	26415	Confirmed	Tumour Sample	Heterozygous	14	80680011	80680011	14	81610258	81610258
+1102046	1102046	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	26415	Confirmed	Tumour Sample	Heterozygous	14	80680011	80680011	14	81610258	81610258
+1102047	1102047	p.A623I	c.1867_1868GC>AT	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	26490	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680023	14	81610269	81610270
+1102048	1102048	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102049	1102049	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102050	1102050	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102051	1102051	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102052	1102052	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102053	1102053	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102054	1102054	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102055	1102055	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8413627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102056	1102056	p.M453T	c.1358T>C	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	11035845	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1102657	1102657	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8989278	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1102658	1102658	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8989278	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1102659	1102659	p.S281T	c.842G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	26495	Confirmed	NS	Heterozygous	14	80675925	80675925	14	81606172	81606172
+1102660	1102660	p.S281T	c.842G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	26495	Confirmed	NS	Heterozygous	14	80675925	80675925	14	81606172	81606172
+1102661	1102661	p.S281N	c.842G>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	26480	Confirmed	NS	Heterozygous	14	80675925	80675925	14	81606172	81606172
+1102662	1102662	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	 	 	NS	 	 	 	 	 	 	 
+1102663	1102663	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	 	 	NS	 	 	 	 	 	 	 
+1102664	1102664	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	 	 	NS	 	 	 	 	 	 	 
+1102665	1102665	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	 	 	NS	 	 	 	 	 	 	 
+1102666	1102666	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	 	 	NS	 	 	 	 	 	 	 
+1102667	1102667	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9224711	 	 	 	NS	 	 	 	 	 	 	 
+1102668	1102668	p.S281I	c.842G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9294132	 	26496	Confirmed	Tumour Sample	Heterozygous	14	80675925	80675925	14	81606172	81606172
+1102669	1102669	p.L512R	c.1535T>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11022192	 	26484	Confirmed	Tumour Sample	Heterozygous	14	80679690	80679690	14	81609937	81609937
+1102670	1102670	p.D633E	c.1899C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26424	Confirmed	Tumour Sample	Heterozygous	14	80680054	80680054	14	81610301	81610301
+1102671	1102671	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102672	1102672	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102673	1102673	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1102674	1102674	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1102675	1102675	p.I486M	c.1458C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26421	Confirmed	Tumour Sample	Heterozygous	14	80679613	80679613	14	81609860	81609860
+1102676	1102676	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1102677	1102677	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102678	1102678	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1102679	1102679	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1102680	1102680	p.L629F	c.1887G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26422	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1102681	1102681	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1102682	1102682	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1102683	1102683	p.L629F	c.1887G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26422	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1102684	1102684	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102685	1102685	p.P639S	c.1915C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26497	Confirmed	Tumour Sample	Heterozygous	14	80680070	80680070	14	81610317	81610317
+1102686	1102686	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9467563	 	26415	Confirmed	Tumour Sample	Heterozygous	14	80680011	80680011	14	81610258	81610258
+1102687	1102687	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7800007	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102688	1102688	p.F631L	c.1893C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7800007	 	26499	Confirmed	Tumour Sample	 	14	80680048	80680048	14	81610295	81610295
+1102689	1102689	p.F631L	c.1893C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7800007	 	26499	Confirmed	Tumour Sample	 	14	80680048	80680048	14	81610295	81610295
+1102690	1102690	p.L629F	c.1887G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26422	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1102691	1102691	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1102692	1102692	p.L629F	c.1887G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26453	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1102693	1102693	p.D633H	c.1897G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26420	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1102694	1102694	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1102695	1102695	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1102696	1102696	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1102697	1102697	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1102698	1102698	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1102699	1102699	p.L629F	c.1887G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	26453	Confirmed	Tumour Sample	Heterozygous	14	80680042	80680042	14	81610289	81610289
+1102700	1102700	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102701	1102701	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102702	1102702	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102703	1102703	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102704	1102704	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102705	1102705	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102706	1102706	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102707	1102707	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102708	1102708	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102709	1102709	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102710	1102710	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102711	1102711	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102712	1102712	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102713	1102713	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102714	1102714	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102715	1102715	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102716	1102716	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102717	1102717	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102718	1102718	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102719	1102719	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102720	1102720	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102721	1102721	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102722	1102722	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102723	1102723	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102724	1102724	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102725	1102725	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102726	1102726	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102727	1102727	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102728	1102728	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102729	1102729	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102730	1102730	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102731	1102731	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102732	1102732	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102733	1102733	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102734	1102734	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102735	1102735	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102736	1102736	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102737	1102737	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102738	1102738	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102739	1102739	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102740	1102740	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102741	1102741	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102742	1102742	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102743	1102743	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102744	1102744	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102745	1102745	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102746	1102746	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1102747	1102747	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	16284436	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1103538	1103538	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103539	1103539	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103540	1103540	p.D619G	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	26429	Previously Observed	NS	 	 	 	 	 	 	 
+1103541	1103541	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	26432	Previously Observed	NS	 	 	 	 	 	 	 
+1103542	1103542	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	26432	Previously Observed	NS	 	 	 	 	 	 	 
+1103543	1103543	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	26432	Previously Observed	NS	 	 	 	 	 	 	 
+1103544	1103544	p.T632I	c.?	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	26432	Previously Observed	NS	 	 	 	 	 	 	 
+1103545	1103545	p.F666L	c.1996T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	26505	Unknown	NS	 	14	80680151	80680151	14	81610398	81610398
+1103546	1103546	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103547	1103547	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103548	1103548	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103549	1103549	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103550	1103550	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103551	1103551	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103552	1103552	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103553	1103553	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103554	1103554	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103555	1103555	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103556	1103556	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103557	1103557	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103558	1103558	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103559	1103559	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103560	1103560	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103561	1103561	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103562	1103562	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103563	1103563	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103564	1103564	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103565	1103565	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103566	1103566	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103567	1103567	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103568	1103568	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103569	1103569	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103570	1103570	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103571	1103571	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103572	1103572	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103573	1103573	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103574	1103574	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103575	1103575	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10319940	 	 	 	NS	 	 	 	 	 	 	 
+1103576	1103576	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10595453	 	26415	Confirmed	Tumour Sample	Heterozygous	14	80680011	80680011	14	81610258	81610258
+1103577	1103577	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10595453	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1103578	1103578	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10595453	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1103579	1103579	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10595453	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1103580	1103580	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10595453	 	26417	Confirmed	Tumour Sample	Heterozygous	14	80680023	80680023	14	81610270	81610270
+1103581	1103581	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10595453	 	26419	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1103582	1103582	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	10595453	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136571	1136571	p.S281T	c.842G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26495	Previously Observed	Tumour Sample	 	14	80675925	80675925	14	81606172	81606172
+1136572	1136572	p.S281N	c.842G>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26480	Previously Observed	Tumour Sample	 	14	80675925	80675925	14	81606172	81606172
+1136573	1136573	p.S425I	c.1274G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26481	Previously Observed	Tumour Sample	 	14	80679429	80679429	14	81609676	81609676
+1136574	1136574	p.S425I	c.1274G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26481	Previously Observed	Tumour Sample	 	14	80679429	80679429	14	81609676	81609676
+1136575	1136575	p.G431S	c.1291G>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27548	Unknown	Tumour Sample	 	14	80679446	80679446	14	81609693	81609693
+1136576	1136576	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136577	1136577	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136578	1136578	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136579	1136579	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136580	1136580	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136581	1136581	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136582	1136582	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136583	1136583	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136584	1136584	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136585	1136585	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26449	Previously Observed	Tumour Sample	 	14	80679513	80679513	14	81609760	81609760
+1136586	1136586	p.M463V	c.1387A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27549	Unknown	Tumour Sample	 	14	80679542	80679542	14	81609789	81609789
+1136587	1136587	p.I486F	c.1456A>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26450	Previously Observed	Tumour Sample	 	14	80679611	80679611	14	81609858	81609858
+1136588	1136588	p.I486F	c.1456A>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26450	Previously Observed	Tumour Sample	 	14	80679611	80679611	14	81609858	81609858
+1136589	1136589	p.I486F	c.1456A>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26450	Previously Observed	Tumour Sample	 	14	80679611	80679611	14	81609858	81609858
+1136590	1136590	p.L512Q	c.1535T>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26448	Previously Observed	Tumour Sample	 	14	80679690	80679690	14	81609937	81609937
+1136591	1136591	p.L512R	c.1535T>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26484	Previously Observed	Tumour Sample	 	14	80679690	80679690	14	81609937	81609937
+1136592	1136592	p.L512R	c.1535T>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26484	Previously Observed	Tumour Sample	 	14	80679690	80679690	14	81609937	81609937
+1136593	1136593	p.L512R	c.1535T>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26484	Previously Observed	Tumour Sample	 	14	80679690	80679690	14	81609937	81609937
+1136594	1136594	p.I568T	c.1703T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26451	Previously Observed	Tumour Sample	 	14	80679858	80679858	14	81610105	81610105
+1136595	1136595	p.I568T	c.1703T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26451	Previously Observed	Tumour Sample	 	14	80679858	80679858	14	81610105	81610105
+1136596	1136596	p.I568T	c.1703T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26451	Previously Observed	Tumour Sample	 	14	80679858	80679858	14	81610105	81610105
+1136597	1136597	p.I568T	c.1703T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26451	Previously Observed	Tumour Sample	 	14	80679858	80679858	14	81610105	81610105
+1136598	1136598	p.V597L	c.1789G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27565	Unknown	Tumour Sample	 	14	80679944	80679944	14	81610191	81610191
+1136599	1136599	p.V597F	c.1789G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27550	Unknown	Tumour Sample	 	14	80679944	80679944	14	81610191	81610191
+1136600	1136600	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26415	Previously Observed	Tumour Sample	 	14	80680011	80680011	14	81610258	81610258
+1136601	1136601	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26415	Previously Observed	Tumour Sample	 	14	80680011	80680011	14	81610258	81610258
+1136602	1136602	p.D619G	c.1856A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26415	Previously Observed	Tumour Sample	 	14	80680011	80680011	14	81610258	81610258
+1136603	1136603	p.D619del	c.1855_1857delGAT	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27552	Unknown	Tumour Sample	 	14	80680010	80680012	14	81610257	81610259
+1136604	1136604	p.A623V	c.1868C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26417	Previously Observed	Tumour Sample	 	14	80680023	80680023	14	81610270	81610270
+1136605	1136605	p.A623I	c.1867_1868GC>AT	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26490	Previously Observed	Tumour Sample	 	14	80680022	80680023	14	81610269	81610270
+1136606	1136606	p.A623F	c.1867_1868GC>TT	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27553	Unknown	Tumour Sample	 	14	80680022	80680023	14	81610269	81610270
+1136607	1136607	p.L629F	c.1887G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26453	Previously Observed	Tumour Sample	 	14	80680042	80680042	14	81610289	81610289
+1136608	1136608	p.L629F	c.1887G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26453	Previously Observed	Tumour Sample	 	14	80680042	80680042	14	81610289	81610289
+1136609	1136609	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26423	Previously Observed	Tumour Sample	 	14	80680043	80680043	14	81610290	81610290
+1136610	1136610	p.F631L	c.1891T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27554	Unknown	Tumour Sample	 	14	80680046	80680046	14	81610293	81610293
+1136611	1136611	p.F631L	c.1891T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27554	Unknown	Tumour Sample	 	14	80680046	80680046	14	81610293	81610293
+1136612	1136612	p.F631L	c.1891T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27554	Unknown	Tumour Sample	 	14	80680046	80680046	14	81610293	81610293
+1136613	1136613	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26418	Previously Observed	Tumour Sample	 	14	80680050	80680050	14	81610297	81610297
+1136614	1136614	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26418	Previously Observed	Tumour Sample	 	14	80680050	80680050	14	81610297	81610297
+1136615	1136615	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26418	Previously Observed	Tumour Sample	 	14	80680050	80680050	14	81610297	81610297
+1136616	1136616	p.D633E	c.1899C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26477	Previously Observed	Tumour Sample	 	14	80680054	80680054	14	81610301	81610301
+1136617	1136617	p.D633E	c.1899C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26477	Previously Observed	Tumour Sample	 	14	80680054	80680054	14	81610301	81610301
+1136618	1136618	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26419	Previously Observed	Tumour Sample	 	14	80680052	80680052	14	81610299	81610299
+1136619	1136619	p.D633H	c.1897G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26420	Previously Observed	Tumour Sample	 	14	80680052	80680052	14	81610299	81610299
+1136620	1136620	p.D633H	c.1897G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26420	Previously Observed	Tumour Sample	 	14	80680052	80680052	14	81610299	81610299
+1136621	1136621	p.I635V	c.1903A>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	27555	Unknown	Tumour Sample	 	14	80680058	80680058	14	81610305	81610305
+1136622	1136622	p.V656F	c.1966G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	26425	Previously Observed	Tumour Sample	 	14	80680121	80680121	14	81610368	81610368
+1136623	1136623	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136624	1136624	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136625	1136625	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136626	1136626	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136627	1136627	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136628	1136628	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136629	1136629	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136630	1136630	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136631	1136631	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136632	1136632	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136633	1136633	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136634	1136634	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136635	1136635	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136636	1136636	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136637	1136637	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136638	1136638	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136639	1136639	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136640	1136640	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136641	1136641	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136642	1136642	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136643	1136643	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136644	1136644	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136645	1136645	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136646	1136646	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136647	1136647	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136648	1136648	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136649	1136649	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136650	1136650	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136651	1136651	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136652	1136652	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136653	1136653	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136654	1136654	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1136655	1136655	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	18694911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157145	1157145	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	9685222	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157446	1157446	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157447	1157447	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157448	1157448	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157449	1157449	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157450	1157450	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157451	1157451	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157452	1157452	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157453	1157453	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157454	1157454	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157455	1157455	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157456	1157456	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157457	1157457	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157458	1157458	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157459	1157459	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157460	1157460	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157461	1157461	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157462	1157462	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157463	1157463	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157464	1157464	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157465	1157465	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157466	1157466	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157467	1157467	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157468	1157468	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157469	1157469	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157470	1157470	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157471	1157471	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157472	1157472	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157473	1157473	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157474	1157474	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157475	1157475	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157476	1157476	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157477	1157477	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157478	1157478	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157479	1157479	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157480	1157480	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157481	1157481	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1157482	1157482	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	11407651	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161615	1161615	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161616	1161616	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161617	1161617	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161618	1161618	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161619	1161619	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161620	1161620	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161621	1161621	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161622	1161622	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161623	1161623	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161624	1161624	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161625	1161625	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161626	1161626	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161627	1161627	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161628	1161628	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161629	1161629	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161630	1161630	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161631	1161631	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161632	1161632	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161633	1161633	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161634	1161634	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161635	1161635	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161636	1161636	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161637	1161637	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161638	1161638	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161639	1161639	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161640	1161640	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161641	1161641	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161642	1161642	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161643	1161643	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161644	1161644	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161645	1161645	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161646	1161646	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161647	1161647	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161648	1161648	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161649	1161649	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161650	1161650	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161651	1161651	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161652	1161652	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161653	1161653	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161654	1161654	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161655	1161655	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161656	1161656	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161657	1161657	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161658	1161658	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161659	1161659	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161660	1161660	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161661	1161661	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161662	1161662	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161663	1161663	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161664	1161664	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161665	1161665	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161666	1161666	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161667	1161667	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161668	1161668	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161669	1161669	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161670	1161670	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161671	1161671	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161672	1161672	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161673	1161673	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161674	1161674	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161675	1161675	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161676	1161676	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161677	1161677	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161678	1161678	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161679	1161679	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161680	1161680	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161681	1161681	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161682	1161682	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161683	1161683	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161684	1161684	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161685	1161685	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161686	1161686	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161687	1161687	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161688	1161688	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161689	1161689	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161690	1161690	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161691	1161691	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161692	1161692	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161693	1161693	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161694	1161694	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161695	1161695	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161696	1161696	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161697	1161697	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161698	1161698	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161699	1161699	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161700	1161700	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161701	1161701	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161702	1161702	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161703	1161703	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161704	1161704	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161705	1161705	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1161706	1161706	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	8501149	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1170050	1170050	p.A623S	c.1867G>T	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	19082310	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1170051	1170051	p.A623S	c.1867G>T	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	19082310	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+1345449	1345449	p.D633Y	c.1897G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19191749	 	26419	Confirmed	Tumour Sample	 	14	80680052	80680052	14	81610299	81610299
+1345450	1345450	p.S281N	c.842G>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26480	Confirmed	Tumour Sample	Heterozygous	14	80675925	80675925	14	81606172	81606172
+1345451	1345451	p.D403del	c.1206_1208delCGA	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	43353	Confirmed	Tumour Sample	Heterozygous	14	80679361	80679363	14	81609608	81609610
+1345452	1345452	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345453	1345453	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345454	1345454	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345455	1345455	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345456	1345456	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345457	1345457	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345458	1345458	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345459	1345459	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345460	1345460	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345461	1345461	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1345462	1345462	p.I486M	c.1458C>G	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26421	Confirmed	Tumour Sample	Heterozygous	14	80679613	80679613	14	81609860	81609860
+1345463	1345463	p.S505N	c.1514G>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26483	Confirmed	Tumour Sample	Heterozygous	14	80679669	80679669	14	81609916	81609916
+1345464	1345464	p.I568T	c.1703T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26451	Confirmed	Tumour Sample	Heterozygous	14	80679858	80679858	14	81610105	81610105
+1345465	1345465	p.I630L	c.1888A>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26423	Confirmed	Tumour Sample	Heterozygous	14	80680043	80680043	14	81610290	81610290
+1345466	1345466	p.F631L	c.1893C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26499	Confirmed	Tumour Sample	Heterozygous	14	80680048	80680048	14	81610295	81610295
+1345467	1345467	p.F631I	c.1891T>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26455	Confirmed	Tumour Sample	Heterozygous	14	80680046	80680046	14	81610293	81610293
+1345468	1345468	p.T632I	c.1895C>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26418	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680050	14	81610297	81610297
+1345469	1345469	p.T632I	c.1895_1896CC>TT	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	43354	Confirmed	Tumour Sample	Heterozygous	14	80680050	80680051	14	81610297	81610298
+1345470	1345470	p.D633H	c.1897G>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26420	Confirmed	Tumour Sample	Heterozygous	14	80680052	80680052	14	81610299	81610299
+1345471	1345471	p.D633E	c.1899C>A	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	26477	Confirmed	Tumour Sample	Heterozygous	14	80680054	80680054	14	81610301	81610301
+1345472	1345472	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345473	1345473	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345474	1345474	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345475	1345475	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345476	1345476	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345477	1345477	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345478	1345478	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345479	1345479	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345480	1345480	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345481	1345481	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345482	1345482	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345483	1345483	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345484	1345484	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345485	1345485	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345486	1345486	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345487	1345487	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345488	1345488	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345489	1345489	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345490	1345490	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345491	1345491	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345492	1345492	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345493	1345493	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1345494	1345494	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19550078	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1432370	1432370	p.M453T	c.1358T>C	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	19492584	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+1445193	1445193	p.M453T	c.1358T>C	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	20427420	 	26449	Confirmed	Tumour Sample	Heterozygous	14	80679513	80679513	14	81609760	81609760
+16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16594	1423676	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16596	1423677	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16600	1423678	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16606	1423679	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16608	1423680	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16612	1423681	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16614	1423682	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16616	1423683	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16626	1423684	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16628	1423685	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16630	1423686	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16632	1423687	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16636	1423688	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16638	1423689	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16640	1423690	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16646	1423691	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16648	1423692	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16660	1423693	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16664	1423694	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16668	1423695	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16670	1423696	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16674	1423697	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16678	1423698	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16684	1423699	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16686	1423700	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16688	1423701	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16696	1423702	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16698	1423703	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16706	1423704	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16710	1423705	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16712	1423706	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16720	1423707	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16722	1423708	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16724	1423709	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16730	1423710	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16734	1423711	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16740	1423712	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16742	1423713	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16746	1423714	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16748	1423715	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16750	1423716	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16754	1423717	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16758	1423718	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16760	1423719	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16766	1423720	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16768	1423721	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16770	1423722	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16772	1423723	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16774	1423724	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16780	1423725	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16784	1423726	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16786	1423727	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16792	1423728	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16800	1423729	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16802	1423730	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16804	1423731	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16810	1423732	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16814	1423733	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16821	1423734	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16823	1423735	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16825	1423736	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16827	1423737	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16835	1423738	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16839	1423739	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16841	1423740	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16845	1423741	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16857	1423742	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16859	1423743	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16861	1423744	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16863	1423745	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16875	1423746	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16879	1423747	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16881	1423748	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16883	1423749	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16889	1423750	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16901	1423751	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16905	1423752	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16907	1423753	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16909	1423754	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16913	1423755	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16915	1423756	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16917	1423757	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16919	1423758	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16921	1423759	p.R519S	c.1555C>A	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	48830	Confirmed	NS	Heterozygous	14	80679710	80679710	14	81609957	81609957
+16925	1423760	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16927	1423761	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16929	1423762	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16937	1423763	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16947	1423764	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16949	1423765	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16951	1423766	p.V656I	c.1966G>A	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	48831	Confirmed	NS	Heterozygous	14	80680121	80680121	14	81610368	81610368
+16953	1423767	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16963	1423768	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16965	1423769	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16973	1423770	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16975	1423771	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16979	1423772	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16993	1423773	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16997	1423774	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17042	1423775	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17054	1423776	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17055	1423777	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17060	1423778	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17144	1423779	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17146	1423780	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17148	1423781	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17150	1423782	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17152	1423783	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17154	1423784	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17156	1423785	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17158	1423786	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17170	1423787	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17172	1423788	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17174	1423789	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17176	1423790	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17182	1423791	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17184	1423792	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17186	1423793	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17190	1423794	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17194	1423795	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17202	1423796	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17206	1423797	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17208	1423798	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17210	1423799	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17216	1423800	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17218	1423801	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17222	1423802	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17226	1423803	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17228	1423804	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17234	1423805	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17238	1423806	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17240	1423807	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17242	1423808	p.L6F	c.18G>T	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	48829	Confirmed	NS	Heterozygous	14	80491795	80491795	14	81422042	81422042
+17248	1423809	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17250	1423810	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17252	1423811	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17258	1423812	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17260	1423813	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17262	1423814	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17264	1423815	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17268	1423816	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17272	1423817	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17280	1423818	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17282	1423819	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17286	1423820	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17288	1423821	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17290	1423822	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17292	1423823	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17294	1423824	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17298	1423825	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17302	1423826	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17304	1423827	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17306	1423828	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17308	1423829	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17316	1423830	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17320	1423831	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17324	1423832	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17326	1423833	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17328	1423834	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17330	1423835	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17726	1423836	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17727	1423837	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17728	1423838	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17730	1423839	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17731	1423840	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17733	1423841	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17735	1423842	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17737	1423843	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17738	1423844	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17739	1423845	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17741	1423846	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17743	1423847	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17745	1423848	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17746	1423849	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17747	1423850	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17750	1423851	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17754	1423852	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17759	1423853	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17760	1423854	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17763	1423855	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17766	1423856	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17769	1423857	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17776	1423858	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17777	1423859	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17778	1423860	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17781	1423861	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17784	1423862	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+B14	1102012	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+B15	1102013	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+B16	1102014	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+B17	1102015	 	 	thyroid	NS	NS	carcinoma	follicular_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+B18	1102039	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	follicular_variant	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+B19	1102032	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+B25	1102033	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	8923835	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br06X	1312968	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br07X	1312969	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br08X	1312970	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br09P	1312971	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br10P	1312972	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br11P	1312973	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br12P	1312974	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br13X	1312975	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br14X	1312976	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br15X	1312977	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br16X	1312978	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br17X	1312979	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br20P	1312980	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br23X	1312981	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br27P	1312984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx32	1235045	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+NPA	1161613	 	 	thyroid	NS	NS	carcinoma	NS	NS	8501149	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+PD2147a	948187	p.L270L	c.810T>G	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	51933	Confirmed	Tumour Sample	 	 	 	 	14	81606140	81606140
+S19443	698351	p.A623S	c.1867G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+S19444	698352	p.A623S	c.1867G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+S19445	698353	p.A623S	c.1867G>T	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	26416	Confirmed	Tumour Sample	Heterozygous	14	80680022	80680022	14	81610269	81610269
+S19446	698354	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19447	698355	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19448	698356	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19449	698357	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19450	698359	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19451	698360	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19452	698361	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19453	698362	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19454	698363	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19455	698364	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19456	698365	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19457	698366	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19458	698367	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19459	698368	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19460	698370	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19461	698371	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19462	698372	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19463	698373	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19464	698374	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19465	698375	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19466	698376	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19467	698377	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19468	698378	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19469	698379	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19470	698381	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19471	698382	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19472	698383	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19473	698384	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19474	698385	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19475	698386	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19476	698387	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19477	698388	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+S19478	698389	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-24-1426	1475064	p.R312T	c.935G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76844	Confirmed	Tumour Sample	Heterozygous	14	80679090	80679090	14	81609337	81609337
+TCGA-36-1576	1475105	p.V315V	c.945G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82432	Confirmed	Tumour Sample	Heterozygous	14	80679100	80679100	14	81609347	81609347
+TCGA-36-1576	1475105	p.G336E	c.1007G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78707	Confirmed	Tumour Sample	Heterozygous	14	80679162	80679162	14	81609409	81609409
+TCGA-36-1576	1475105	p.D382H	c.1144G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78708	Confirmed	Tumour Sample	Heterozygous	14	80679299	80679299	14	81609546	81609546
+TCGA-36-1576	1475105	p.L417L	c.1251G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82433	Confirmed	Tumour Sample	Heterozygous	14	80679406	80679406	14	81609653	81609653
+WRO	1161614	 	 	thyroid	NS	NS	carcinoma	NS	NS	8501149	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+rus-1	710335	 	 	thyroid	NS	NS	adenoma-nodule-goitre	NS	NS	7714109	 	 	 	Tumour Sample	 	 	 	 	 	 	 

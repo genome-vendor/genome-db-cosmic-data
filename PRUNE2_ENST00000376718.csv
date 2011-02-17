@@ -1,0 +1,14 @@
+
+Gene : PRUNE2_ENST00000376718
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br03X	1473034	p.G1354G	c.4062G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54556	Confirmed	Cultured Sample	Heterozygous	 	 	 	9	79323128	79323128
+Pa14C	1473126	p.G2774G	c.8322C>T	pancreas	NS	NS	NS	NS	NS	 	327	85165	Confirmed	Cultured Sample	Heterozygous	 	 	 	9	79270373	79270373
+TCGA-13-0904	1474835	p.K1733N	c.5199G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72319	Confirmed	Tumour Sample	Heterozygous	9	78511811	78511811	9	79321991	79321991
+TCGA-13-1483	1474887	p.A1525P	c.4573G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76077	Confirmed	Tumour Sample	Heterozygous	9	78512437	78512437	9	79322617	79322617
+TCGA-24-2298	1474925	p.A802S	c.2404G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72320	Confirmed	Tumour Sample	Heterozygous	9	78514606	78514606	9	79324786	79324786
+TCGA-61-1995	1475083	p.R2151Q	c.6452G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72318	Confirmed	Tumour Sample	Heterozygous	9	78510558	78510558	9	79320738	79320738

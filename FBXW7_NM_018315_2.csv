@@ -1,0 +1,36 @@
+
+Gene : FBXW7_NM_018315_2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+PD3176a	1089998	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3177a	1089999	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3178a	1090016	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3179a	1090002	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3180a	1089997	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3181a	1090023	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3182a	1090001	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3183a	1090032	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3184a	1090036	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3185a	1090035	 	 	upper_aerodigestive_tract	mouth	mouth_roof	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3186a	1090033	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3187a	1090030	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3188a	1090026	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3189a	1090025	 	 	upper_aerodigestive_tract	head_neck	orbit	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3190a	1090027	 	 	upper_aerodigestive_tract	lymph_node	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3192a	1089992	 	 	upper_aerodigestive_tract	head_neck	orbit	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3195a	1090021	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3196a	1089991	 	 	upper_aerodigestive_tract	mouth	mouth_floor	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3197a	1090009	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3198a	1090004	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3199a	1090013	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3200a	1089987	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3208a	1090174	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3216a	1090149	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3226a	1090183	 	 	salivary_gland	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+Pa34X	1473048	p.I483T	c.1448T>C	pancreas	NS	NS	NS	NS	NS	 	327	84873	Confirmed	Cultured Sample	Heterozygous	 	 	 	4	153245503	153245503
+TCGA-24-1565	1475020	p.L571*	c.1712T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78945	Confirmed	Tumour Sample	Heterozygous	4	153463655	153463655	4	153244205	153244205
+TCGA-25-1316	1475065	p.R425C	c.1273C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74637	Confirmed	Tumour Sample	Heterozygous	4	153466739	153466739	4	153247289	153247289

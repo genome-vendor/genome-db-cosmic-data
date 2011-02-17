@@ -1,0 +1,10 @@
+
+Gene : GPR82_ENST00000302548
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa04C	1473011	p.L294I	c.880C>A	pancreas	NS	NS	NS	NS	NS	 	327	85211	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	41587159	41587159
+TCGA-24-2024	1474857	p.L110F	c.330A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70965	Confirmed	Tumour Sample	Heterozygous	23	41471553	41471553	23	41586609	41586609

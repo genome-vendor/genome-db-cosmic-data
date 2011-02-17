@@ -1,0 +1,79 @@
+
+Gene : PFKFB3
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br06X	1312968	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br07X	1312969	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br08X	1312970	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br09P	1312971	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br10P	1312972	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br11P	1312973	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br12P	1312974	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br13X	1312975	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br14X	1312976	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br15X	1312977	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br16X	1312978	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br17X	1312979	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br20P	1312980	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br23X	1312981	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br27P	1312984	p.A78T	c.232G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	40459	Confirmed	Tumour Sample	Heterozygous	10	6297219	6297219	10	6257213	6257213
+Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx32	1235045	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+PD3176a	1089998	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3177a	1089999	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3178a	1090016	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3179a	1090002	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3180a	1089997	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3181a	1090023	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3182a	1090001	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3183a	1090032	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3184a	1090036	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3185a	1090035	 	 	upper_aerodigestive_tract	mouth	mouth_roof	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3186a	1090033	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3187a	1090030	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3188a	1090026	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3189a	1090025	 	 	upper_aerodigestive_tract	head_neck	orbit	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3190a	1090027	 	 	upper_aerodigestive_tract	lymph_node	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3192a	1089992	 	 	upper_aerodigestive_tract	head_neck	orbit	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3195a	1090021	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3196a	1089991	 	 	upper_aerodigestive_tract	mouth	mouth_floor	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3197a	1090009	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3198a	1090004	 	 	upper_aerodigestive_tract	mouth	maxilla	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3199a	1090013	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3200a	1089987	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3208a	1090174	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3216a	1090149	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD3226a	1090183	 	 	salivary_gland	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-13-0726	1474871	p.S197R	c.591C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75913	Confirmed	Tumour Sample	Heterozygous	10	6301630	6301630	10	6261624	6261624
+TCGA-13-1410	1474901	p.P173P	c.519G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80329	Confirmed	Tumour Sample	Heterozygous	10	6301558	6301558	10	6261552	6261552

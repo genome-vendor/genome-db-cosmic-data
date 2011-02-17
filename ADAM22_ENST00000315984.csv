@@ -1,0 +1,13 @@
+
+Gene : ADAM22_ENST00000315984
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+HX5T	1473092	p.R852W	c.2554A>T	liver	NS	NS	carcinoma	hepatocellular_carcinoma	NS	 	323	53526	Confirmed	Tumour Sample	Heterozygous	 	 	 	7	87816015	87816015
+TCGA-23-1122	1474843	p.I378T	c.1133T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69531	Confirmed	Tumour Sample	Heterozygous	7	87601635	87601635	7	87763699	87763699
+TCGA-24-0970	1475041	p.S350S	c.1050G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79467	Confirmed	Tumour Sample	Heterozygous	7	87600175	87600175	7	87762239	87762239
+TCGA-25-1313	1474833	p.V327V	c.981T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79465	Confirmed	Tumour Sample	Heterozygous	7	87598675	87598675	7	87760739	87760739
+TCGA-25-1318	1474960	p.G577R	c.1729G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77215	Confirmed	Tumour Sample	Heterozygous	7	87620519	87620519	7	87782583	87782583

@@ -1,0 +1,11 @@
+
+Gene : ACTBL2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-24-1416	1475090	p.L294L	c.882C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80823	Confirmed	Tumour Sample	Heterozygous	5	56813410	56813410	5	56777653	56777653
+TCGA-57-1993	1474951	p.H162N	c.484C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69523	Confirmed	Tumour Sample	Heterozygous	5	56813808	56813808	5	56778051	56778051
+TCGA-57-1993	1474951	p.F201L	c.603C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69522	Confirmed	Tumour Sample	Heterozygous	5	56813689	56813689	5	56777932	56777932

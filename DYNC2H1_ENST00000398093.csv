@@ -1,0 +1,13 @@
+
+Gene : DYNC2H1_ENST00000398093
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+1432464	1432464	p.R1300Q	c.3899G>A	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20393555	317	51627	Confirmed	Tumour Sample	Heterozygous	11	102687902	102687902	11	103182692	103182692
+1432465	1432465	p.R1300Q	c.3899G>A	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20393555	317	51627	Confirmed	Cultured Sample	Heterozygous	11	102687902	102687902	11	103182692	103182692
+1432466	1432466	p.R1300Q	c.3899G>A	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20393555	317	51627	Confirmed	Tumour Sample	Heterozygous	11	102687902	102687902	11	103182692	103182692
+TCGA-24-1469	1474819	p.F222F	c.666C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81117	Confirmed	Tumour Sample	Heterozygous	11	102580816	102580816	11	103075606	103075606
+TCGA-25-1313	1474833	p.G117G	c.351A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79765	Confirmed	Tumour Sample	Heterozygous	11	102575379	102575379	11	103070169	103070169

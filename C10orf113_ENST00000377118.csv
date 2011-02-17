@@ -1,0 +1,11 @@
+
+Gene : C10orf113_ENST00000377118
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1517	1475092	p.G113R	c.337G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77355	Confirmed	Tumour Sample	Heterozygous	10	21454859	21454859	10	21414853	21414853
+TCGA-13-0893	1474856	p.Q72H	c.216A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73876	Confirmed	Tumour Sample	Heterozygous	10	21454980	21454980	10	21414974	21414974
+TCGA-23-1031	1474850	p.C35S	c.104G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69865	Confirmed	Tumour Sample	Heterozygous	10	21475310	21475310	10	21435304	21435304

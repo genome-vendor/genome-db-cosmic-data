@@ -1,0 +1,15 @@
+
+Gene : ALPK2_ENST00000361673
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br16X	1473003	p.T337T	c.1011G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54435	Confirmed	Cultured Sample	Heterozygous	 	 	 	18	56246997	56246997
+TCGA-04-1364	1475046	p.T514T	c.1542G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81994	Confirmed	Tumour Sample	Heterozygous	18	54397446	54397446	18	56246466	56246466
+TCGA-09-1665	1474852	p.A1869V	c.5606C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77249	Confirmed	Tumour Sample	Heterozygous	18	54342170	54342170	18	56191190	56191190
+TCGA-10-0930	1474817	p.E675Q	c.2023G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73644	Confirmed	Tumour Sample	Heterozygous	18	54356376	54356376	18	56205396	56205396
+TCGA-13-0916	1474880	p.S1143C	c.3428C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69625	Confirmed	Tumour Sample	Heterozygous	18	54354971	54354971	18	56203991	56203991
+TCGA-24-1562	1475030	p.Q1102Q	c.3306G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80858	Confirmed	Tumour Sample	Heterozygous	18	54355093	54355093	18	56204113	56204113
+TCGA-25-2398	1474986	p.A1289A	c.3867C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79490	Confirmed	Tumour Sample	Heterozygous	18	54354532	54354532	18	56203552	56203552

@@ -1,0 +1,415 @@
+
+Gene : BAP1
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+1459119	1459119	 	 	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459120	1459120	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459121	1459121	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459122	1459122	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459123	1459123	 	 	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459124	1459124	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459125	1459125	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459126	1459126	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459127	1459127	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459128	1459128	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459129	1459129	 	 	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459130	1459130	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459131	1459131	 	 	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459132	1459132	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459133	1459133	 	 	eye	uveal_tract	NS	malignant_melanoma	NS	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459134	1459134	p.?	c.376-9_416del50	eye	uveal_tract	NS	malignant_melanoma	NS	NS	21051595	 	52519	Confirmed	Tumour Sample	 	3	52416476	52416525	3	52441436	52441485
+1459135	1459135	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459136	1459136	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459137	1459137	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459138	1459138	 	 	eye	uveal_tract	NS	malignant_melanoma	NS	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459139	1459139	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459140	1459140	 	 	eye	uveal_tract	NS	malignant_melanoma	NS	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459141	1459141	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459142	1459142	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459143	1459143	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459144	1459144	 	 	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459145	1459145	p.K637_C638>N	c.1911_1913delGTG	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51975	Confirmed	Tumour Sample	Homozygous	3	52411905	52411907	3	52436865	52436867
+1459146	1459146	p.?	c.376-7_418del50	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	52914	Confirmed	Tumour Sample	Homozygous	3	52416474	52416523	3	52441434	52441483
+1459147	1459147	p.H169Q	c.507C>G	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51976	Confirmed	Tumour Sample	Homozygous	3	52416303	52416303	3	52441263	52441263
+1459148	1459148	p.W196*	c.588G>A	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51977	Confirmed	Tumour Sample	Homozygous	3	52415956	52415956	3	52440916	52440916
+1459149	1459149	p.Q253*	c.757C>T	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51978	Confirmed	Tumour Sample	Homozygous	3	52415335	52415335	3	52440295	52440295
+1459150	1459150	p.E283_S285del	c.845_853del9	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	51979	Confirmed	Tumour Sample	Homozygous	3	52414899	52414907	3	52439859	52439867
+1459151	1459151	p.A323fs*71	c.968_978del11	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51980	Confirmed	Tumour Sample	Homozygous	3	52414304	52414314	3	52439264	52439274
+1459152	1459152	p.D672G	c.2015A>G	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	51981	Confirmed	Tumour Sample	Homozygous	3	52411699	52411699	3	52436659	52436659
+1459153	1459153	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459154	1459154	p.?	c.573_580+15delTGACCATGGTAGGCACCATGAGC	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	52915	Confirmed	Tumour Sample	Homozygous	3	52416215	52416237	3	52441175	52441197
+1459155	1459155	p.R208fs*18	c.621_636del16	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51982	Confirmed	Tumour Sample	Homozygous	3	52415908	52415923	3	52440868	52440883
+1459156	1459156	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459157	1459157	p.F118fs*1	c.353_372del20	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	52923	Confirmed	Tumour Sample	Homozygous	3	52417017	52417036	3	52441977	52441996
+1459158	1459158	p.T254fs*3	c.759_759delG	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	51983	Confirmed	Tumour Sample	Homozygous	3	52415333	52415333	3	52440293	52440293
+1459159	1459159	p.?	c.38-25_47del35	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	52916	Confirmed	Tumour Sample	Homozygous	3	52418790	52418824	3	52443750	52443784
+1459160	1459160	p.*730?	c.2188T>A	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	51984	Confirmed	Tumour Sample	Homozygous	3	52411346	52411346	3	52436306	52436306
+1459161	1459161	p.P572fs*69	c.1714_1718delCCCCT	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51985	Confirmed	Tumour Sample	Homozygous	3	52412483	52412487	3	52437443	52437447
+1459162	1459162	p.L49fs*23	c.144_144delC	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	51986	Confirmed	Tumour Sample	Homozygous	3	52417641	52417641	3	52442601	52442601
+1459163	1459163	p.G128R	c.382G>C	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	51972	Confirmed	Tumour Sample	Homozygous	3	52416510	52416510	3	52441470	52441470
+1459164	1459164	p.H169Q	c.507C>G	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	51976	Confirmed	Tumour Sample	Homozygous	3	52416303	52416303	3	52441263	52441263
+1459165	1459165	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459166	1459166	p.R666_H669>N	c.1997_2005del9	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	51987	Confirmed	Tumour Sample	Homozygous	3	52411709	52411717	3	52436669	52436677
+1459167	1459167	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459168	1459168	 	 	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459169	1459169	p.C91W	c.273T>G	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	51988	Confirmed	Tumour Sample	Homozygous	3	52417116	52417116	3	52442076	52442076
+1459170	1459170	p.E631_A634del	c.1891_1902del12	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51989	Confirmed	Tumour Sample	 	3	52411916	52411927	3	52436876	52436887
+1459171	1459171	p.E166fs*13	c.495_519del25	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	51990	Confirmed	Tumour Sample	 	3	52416291	52416315	3	52441251	52441275
+1459172	1459172	p.?	c.38-12_63del38	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	52917	Confirmed	Tumour Sample	 	3	52418774	52418811	3	52443734	52443771
+1459173	1459173	p.?	c.1984-1G>T	eye	uveal_tract	NS	malignant_melanoma	mixed	NS	21051595	 	52918	Confirmed	Tumour Sample	 	3	52411731	52411731	3	52436691	52436691
+1459174	1459174	p.S172R	c.516C>G	eye	uveal_tract	NS	malignant_melanoma	spindle	NS	21051595	 	51991	Confirmed	Tumour Sample	 	3	52416294	52416294	3	52441254	52441254
+1459175	1459175	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459176	1459176	p.Q694fs*14	c.2080_2105del26	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51992	Confirmed	Tumour Sample	 	3	52411429	52411454	3	52436389	52436414
+1459177	1459177	p.Q36*	c.106C>T	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	51993	Confirmed	Tumour Sample	Homozygous	3	52418626	52418626	3	52443586	52443586
+1459178	1459178	 	 	eye	uveal_tract	NS	malignant_melanoma	epithelioid	NS	21051595	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459259	1459259	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459260	1459260	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459261	1459261	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459262	1459262	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459263	1459263	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459264	1459264	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459265	1459265	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459266	1459266	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459267	1459267	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459268	1459268	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459269	1459269	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459270	1459270	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459271	1459271	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459272	1459272	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459273	1459273	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459274	1459274	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459275	1459275	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459276	1459276	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459277	1459277	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459278	1459278	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459279	1459279	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459280	1459280	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459281	1459281	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459282	1459282	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459283	1459283	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459284	1459284	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459285	1459285	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459286	1459286	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459287	1459287	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459288	1459288	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459289	1459289	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459290	1459290	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459291	1459291	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459292	1459292	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459293	1459293	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459294	1459294	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459295	1459295	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459296	1459296	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459297	1459297	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459298	1459298	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459299	1459299	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459300	1459300	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459301	1459301	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459302	1459302	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459303	1459303	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459304	1459304	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1459305	1459305	 	 	breast	NS	NS	carcinoma	NS	NS	16341802	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16594	1423676	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16596	1423677	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16600	1423678	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16606	1423679	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16608	1423680	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16612	1423681	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16614	1423682	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16616	1423683	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16626	1423684	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16628	1423685	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16630	1423686	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16632	1423687	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16636	1423688	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16638	1423689	p.E136*	c.406G>T	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	48860	Confirmed	NS	Heterozygous	3	52416486	52416486	3	52441446	52441446
+16640	1423690	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16646	1423691	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16648	1423692	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16660	1423693	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16664	1423694	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16668	1423695	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16670	1423696	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16674	1423697	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16678	1423698	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16684	1423699	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16686	1423700	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16688	1423701	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16696	1423702	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16698	1423703	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16706	1423704	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16710	1423705	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16712	1423706	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16720	1423707	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16722	1423708	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16724	1423709	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16730	1423710	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16734	1423711	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16740	1423712	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16742	1423713	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16746	1423714	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16748	1423715	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16750	1423716	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16754	1423717	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16758	1423718	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16760	1423719	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16766	1423720	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16768	1423721	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16770	1423722	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16772	1423723	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16774	1423724	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16780	1423725	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16784	1423726	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16786	1423727	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16792	1423728	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16800	1423729	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16802	1423730	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16804	1423731	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16810	1423732	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16814	1423733	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16821	1423734	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16823	1423735	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16825	1423736	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16827	1423737	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16835	1423738	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16839	1423739	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16841	1423740	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16845	1423741	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16857	1423742	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16859	1423743	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16861	1423744	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16863	1423745	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16875	1423746	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16879	1423747	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16881	1423748	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16883	1423749	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16889	1423750	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16901	1423751	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16905	1423752	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16907	1423753	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16909	1423754	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16913	1423755	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16915	1423756	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16917	1423757	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16919	1423758	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16921	1423759	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16925	1423760	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16927	1423761	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16929	1423762	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16937	1423763	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16947	1423764	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16949	1423765	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16951	1423766	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16953	1423767	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16963	1423768	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16965	1423769	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16973	1423770	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16975	1423771	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16979	1423772	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+16993	1423773	p.R385*	c.1153C>T	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	48859	Confirmed	NS	Homozygous	3	52413606	52413606	3	52438566	52438566
+16997	1423774	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17042	1423775	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17054	1423776	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17055	1423777	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17060	1423778	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17144	1423779	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17146	1423780	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17148	1423781	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17150	1423782	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17152	1423783	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17154	1423784	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17156	1423785	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17158	1423786	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17170	1423787	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17172	1423788	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17174	1423789	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17176	1423790	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17182	1423791	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17184	1423792	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17186	1423793	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17190	1423794	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17194	1423795	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17202	1423796	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17206	1423797	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17208	1423798	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17210	1423799	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17216	1423800	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17218	1423801	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17222	1423802	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17226	1423803	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17228	1423804	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17234	1423805	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17238	1423806	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17240	1423807	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17242	1423808	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17248	1423809	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17250	1423810	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17252	1423811	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17258	1423812	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17260	1423813	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17262	1423814	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17264	1423815	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17268	1423816	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17272	1423817	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17280	1423818	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17282	1423819	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17286	1423820	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17288	1423821	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17290	1423822	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17292	1423823	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17294	1423824	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17298	1423825	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17302	1423826	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17304	1423827	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17306	1423828	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17308	1423829	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17316	1423830	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17320	1423831	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17324	1423832	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17326	1423833	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17328	1423834	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17330	1423835	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17726	1423836	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17727	1423837	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17728	1423838	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17730	1423839	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17731	1423840	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17733	1423841	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17735	1423842	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17737	1423843	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17738	1423844	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17739	1423845	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17741	1423846	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17743	1423847	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17745	1423848	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17746	1423849	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17747	1423850	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17750	1423851	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17754	1423852	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17759	1423853	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17760	1423854	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17763	1423855	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17766	1423856	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17769	1423857	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17776	1423858	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17777	1423859	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17778	1423860	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17781	1423861	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+17784	1423862	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+B14C	1430412	 	 	breast	NS	NS	NS	NS	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB12T	1430363	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB13T	1430364	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB14T	1430365	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB15T	1430366	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB16T	1430367	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB18T	1430368	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB20T	1430369	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB22T	1430370	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB24T	1430371	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB27T	1430372	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB29T	1430373	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB31T	1430374	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB32T	1430375	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB33T	1430376	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB34T	1430377	 	 	breast	NS	NS	carcinoma	ductolobular_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB43T	1430378	 	 	breast	NS	NS	carcinoma	ductolobular_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB5T	1430379	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB61T	1430411	 	 	breast	NS	NS	NS	NS	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB7T	1430380	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB9T	1430381	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br06X	1312968	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br07X	1312969	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br08X	1312970	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br09P	1312971	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br10P	1312972	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br11P	1312973	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br12P	1312974	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br13X	1312975	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br14X	1312976	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br15X	1312977	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br16X	1312978	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br17X	1312979	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br20P	1312980	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br23X	1312981	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Br27P	1312984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co108	1430352	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co109	1430413	 	 	large_intestine	colon	NS	NS	NS	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Co110	1430414	 	 	large_intestine	colon	NS	NS	NS	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Co111	1430415	 	 	large_intestine	colon	NS	NS	NS	NS	17932254	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co74	1430353	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co82	1430382	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co84	1430383	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Co92	1430354	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1008	1430344	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	1430347	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	1430348	p.Q261*	c.781C>T	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	50881	Confirmed	Cultured Sample	Homozygous	3	52415311	52415311	3	52440271	52440271
+HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	1430349	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	1430350	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	1430351	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	1430345	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	1430341	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	1430342	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	1430346	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hs578T	1430343	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx005	1430394	 	 	large_intestine	colon	descending	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx169	1430384	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx172	1430385	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx174	1430386	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx185	1430387	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx188	1430388	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx189	1430389	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx206	1430390	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx218	1430391	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx219	1430392	 	 	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Hx220	1430393	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx22	1430355	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx26	1430395	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx27	1430356	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx29	1430396	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx3	1430397	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx30	1430357	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx31	1430398	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx32	1235045	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx32	1430358	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx34	1430399	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx35	1430400	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx38	1430359	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx40	1430401	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx41	1430360	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx42	1430361	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx43	1430362	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Mx8	1430402	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+TCGA-13-0714	1474912	p.R227C	c.679C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77329	Confirmed	Tumour Sample	Heterozygous	3	52415413	52415413	3	52440373	52440373

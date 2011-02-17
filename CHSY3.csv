@@ -1,0 +1,11 @@
+
+Gene : CHSY3
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa18C	1473038	p.L410L	c.1230C>T	pancreas	NS	NS	NS	NS	NS	 	327	84924	Confirmed	Cultured Sample	Heterozygous	 	 	 	5	129520065	129520065
+TCGA-04-1517	1475092	p.G629R	c.1885G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77474	Confirmed	Tumour Sample	Heterozygous	5	129548619	129548619	5	129520720	129520720
+TCGA-09-2049	1474825	p.L851F	c.2553A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70186	Confirmed	Tumour Sample	Heterozygous	5	129549287	129549287	5	129521388	129521388

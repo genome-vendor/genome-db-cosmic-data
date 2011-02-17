@@ -1,0 +1,12 @@
+
+Gene : NWD1
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa37X	1473102	p.T737T	c.2211C>T	pancreas	NS	NS	NS	NS	NS	 	327	84504	Confirmed	Cultured Sample	Heterozygous	 	 	 	19	16890161	16890161
+Pa37X	1473102	p.G1046R	c.3136G>A	pancreas	NS	NS	NS	NS	NS	 	327	84505	Confirmed	Cultured Sample	Heterozygous	 	 	 	19	16910778	16910778
+TCGA-23-1124	1474818	p.T106S	c.317C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75679	Confirmed	Tumour Sample	Heterozygous	19	16721175	16721175	19	16860175	16860175
+TCGA-25-1628	1475073	p.?	c.1568+1G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69443	Confirmed	Tumour Sample	Heterozygous	19	16731240	16731240	19	16870240	16870240

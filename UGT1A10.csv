@@ -1,0 +1,10 @@
+
+Gene : UGT1A10
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-09-2044	1474844	p.F219L	c.655T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73194	Confirmed	Tumour Sample	Heterozygous	2	234210562	234210562	2	234545823	234545823
+TCGA-13-0887	1474827	p.H37Q	c.111C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76942	Confirmed	Tumour Sample	Heterozygous	2	234210018	234210018	2	234545279	234545279

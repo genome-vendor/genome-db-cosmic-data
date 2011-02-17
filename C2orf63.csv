@@ -1,0 +1,11 @@
+
+Gene : C2orf63
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Br17X	1473082	p.G519S	c.1555G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54451	Confirmed	Cultured Sample	Heterozygous	 	 	 	2	55404747	55404747
+TCGA-24-1470	1474846	p.G275R	c.823G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73935	Confirmed	Tumour Sample	Heterozygous	2	55289342	55289342	2	55435838	55435838
+TCGA-24-2035	1474888	p.T156S	c.467C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69941	Confirmed	Tumour Sample	Heterozygous	2	55293345	55293345	2	55439841	55439841

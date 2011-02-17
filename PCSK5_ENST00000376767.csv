@@ -1,0 +1,10 @@
+
+Gene : PCSK5_ENST00000376767
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+NCI-H209	688013	p.N667I	c.2000A>T	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20016488	312	41563	Confirmed	Cultured Sample	Heterozygous	9	77979965	77979965	9	78790145	78790145
+TCGA-24-1419	1475026	p.E562Q	c.1684G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72118	Confirmed	Tumour Sample	Heterozygous	9	77974504	77974504	9	78784684	78784684

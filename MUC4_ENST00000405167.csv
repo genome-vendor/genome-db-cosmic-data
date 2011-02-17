@@ -1,0 +1,10 @@
+
+Gene : MUC4_ENST00000405167
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+COLO-829	687448	p.T672P	c.2014A>C	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36791	Confirmed	Cultured Sample	Heterozygous	3	197000832	197000832	3	195516437	195516437
+TCGA-23-1031	1474850	p.S733S	c.2199C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80194	Confirmed	Tumour Sample	Heterozygous	3	197000647	197000647	3	195516252	195516252

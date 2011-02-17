@@ -1,0 +1,10 @@
+
+Gene : DOCK10_ENST00000373702
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+NCI-H209	688013	p.S671S	c.2013T>C	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20016488	312	41557	Confirmed	Cultured Sample	Heterozygous	2	225341861	225341861	2	225633617	225633617
+TCGA-24-2261	1474981	p.R471W	c.1411C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70510	Confirmed	Tumour Sample	Heterozygous	2	225347989	225347989	2	225639745	225639745

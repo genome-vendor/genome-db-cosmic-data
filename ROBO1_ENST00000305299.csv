@@ -1,0 +1,12 @@
+
+Gene : ROBO1_ENST00000305299
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+16879	1473007	p.V308L	c.922G>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85733	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	78763601	78763601
+17156	1473039	p.G185A	c.554G>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85734	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	78795927	78795927
+17210	1473064	p.G1337fs*32	c.4008_4009insT	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85742	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	78666989	78666990
+17733	1473087	p.P1461R	c.4382C>G	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85732	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	78656176	78656176

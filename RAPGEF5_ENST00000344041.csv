@@ -1,0 +1,10 @@
+
+Gene : RAPGEF5_ENST00000344041
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-25-1322	1474940	p.G70G	c.210C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81639	Confirmed	Tumour Sample	Heterozygous	7	22314494	22314494	7	22347969	22347969
+TCGA-61-2009	1474891	p.R565Q	c.1694G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72379	Confirmed	Tumour Sample	Heterozygous	7	22151226	22151226	7	22184701	22184701

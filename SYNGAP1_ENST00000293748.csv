@@ -1,0 +1,12 @@
+
+Gene : SYNGAP1_ENST00000293748
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1336	1474886	p.K793*	c.2377A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79293	Confirmed	Tumour Sample	Heterozygous	6	33518684	33518684	6	33410706	33410706
+TCGA-13-1484	1474983	p.D974N	c.2920G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72879	Confirmed	Tumour Sample	Heterozygous	6	33519227	33519227	6	33411249	33411249
+TCGA-25-2404	1474989	p.I1039T	c.3116T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72881	Confirmed	Tumour Sample	Heterozygous	6	33519423	33519423	6	33411445	33411445
+TCGA-59-2354	1474922	p.F126F	c.378C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80600	Confirmed	Tumour Sample	Heterozygous	6	33507998	33507998	6	33400020	33400020

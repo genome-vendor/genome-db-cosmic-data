@@ -1,0 +1,10 @@
+
+Gene : DLC1_ENST00000316609
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+Pa39X	1473103	p.A450V	c.1349C>T	pancreas	NS	NS	NS	NS	NS	 	327	85106	Confirmed	Cultured Sample	Heterozygous	 	 	 	8	13072283	13072283
+TCGA-04-1346	1474923	p.?	c.1174-1G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69339	Confirmed	Tumour Sample	Heterozygous	8	13295574	13295574	8	13251203	13251203

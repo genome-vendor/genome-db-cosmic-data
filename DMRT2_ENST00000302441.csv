@@ -1,0 +1,10 @@
+
+Gene : DMRT2_ENST00000302441
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+COLO-829	687448	p.P470S	c.1408C>T	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36855	Confirmed	Cultured Sample	Homozygous	9	1046995	1046995	9	1056995	1056995
+TCGA-13-1509	1474839	p.P295A	c.883C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74383	Confirmed	Tumour Sample	Heterozygous	9	1046470	1046470	9	1056470	1056470

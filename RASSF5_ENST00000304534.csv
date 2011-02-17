@@ -1,0 +1,10 @@
+
+Gene : RASSF5_ENST00000304534
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+COLO-829	687448	p.E16E	c.48G>A	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36818	Confirmed	Cultured Sample	Homozygous	1	204797572	204797572	1	206730949	206730949
+TCGA-10-0937	1475015	p.I221I	c.663C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78398	Confirmed	Tumour Sample	Heterozygous	1	204826798	204826798	1	206760175	206760175

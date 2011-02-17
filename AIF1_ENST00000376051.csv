@@ -1,0 +1,10 @@
+
+Gene : AIF1_ENST00000376051
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+COLO-829	687448	p.R52K	c.155G>A	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311	36822	Confirmed	Cultured Sample	Heterozygous	6	31692022	31692022	6	31584043	31584043
+TCGA-04-1356	1474920	p.D78V	c.233A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	69589	Confirmed	Tumour Sample	Heterozygous	6	31692100	31692100	6	31584121	31584121

@@ -1,0 +1,12 @@
+
+Gene : KRT6A
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1331	1474885	p.R260H	c.779G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71377	Confirmed	Tumour Sample	Heterozygous	12	51171200	51171200	12	52884933	52884933
+TCGA-04-1336	1474886	p.S31C	c.92C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75188	Confirmed	Tumour Sample	Heterozygous	12	51173148	51173148	12	52886881	52886881
+TCGA-13-0919	1475027	p.A403A	c.1209C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82223	Confirmed	Tumour Sample	Heterozygous	12	51168594	51168594	12	52882327	52882327
+TCGA-13-1501	1474878	p.S540I	c.1619G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71376	Confirmed	Tumour Sample	Heterozygous	12	51167847	51167847	12	52881580	52881580

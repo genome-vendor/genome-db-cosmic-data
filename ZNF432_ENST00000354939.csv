@@ -1,0 +1,12 @@
+
+Gene : ZNF432_ENST00000354939
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0916	1474880	p.F656I	c.1966T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	73466	Confirmed	Tumour Sample	Heterozygous	19	57188208	57188208	19	52496396	52496396
+TCGA-24-1436	1474937	p.H270Y	c.808C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77151	Confirmed	Tumour Sample	Heterozygous	19	57189366	57189366	19	52497554	52497554
+TCGA-25-1325	1475024	p.A727G	c.2180C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78848	Confirmed	Tumour Sample	Heterozygous	19	57187994	57187994	19	52496182	52496182
+TCGA-57-1584	1475036	p.R717K	c.2150G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78850	Confirmed	Tumour Sample	Heterozygous	19	57188024	57188024	19	52496212	52496212

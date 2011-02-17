@@ -1,0 +1,13 @@
+
+Gene : MAGI2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1336	1474886	p.R627R	c.1881G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81404	Confirmed	Tumour Sample	Heterozygous	7	77723362	77723362	7	77885426	77885426
+TCGA-09-2050	1474830	p.T137P	c.409A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71545	Confirmed	Tumour Sample	Heterozygous	7	78474351	78474351	7	78636415	78636415
+TCGA-13-1482	1474873	p.G616R	c.1846G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75341	Confirmed	Tumour Sample	Heterozygous	7	77723397	77723397	7	77885461	77885461
+TCGA-13-1496	1474899	p.G930G	c.2790C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80141	Confirmed	Tumour Sample	Heterozygous	7	77627333	77627333	7	77789397	77789397
+TCGA-25-2398	1474986	p.R564Q	c.1691G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71544	Confirmed	Tumour Sample	Heterozygous	7	77723552	77723552	7	77885616	77885616
