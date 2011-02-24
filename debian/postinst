@@ -1,0 +1,20 @@
+#!/bin/sh
+
+DBPATH=/var/lib/genome/db/cosmic
+LINK=$DBPATH/latest
+LATEST=$DBPATH/`ls -1v $DBPATH | tail -n1`
+
+die () {
+  echo "$@"
+  exit 1
+}
+
+[ -d "$LATEST" ] || \
+  die "Failed to determine latest cosmic DB dir"
+
+if [ -l "$LINK" -o ! -f "$LINK" ]; then
+  ln -sf $LATEST $LINK || \
+    die "Failed to link $LATEST to $LINK"
+else
+  echo "Cannot link $LATEST to existing file $LINK"
+fi
