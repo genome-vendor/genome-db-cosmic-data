@@ -12,7 +12,7 @@ die () {
 [ -d "$LATEST" ] || \
   die "Failed to determine latest cosmic DB dir"
 
-if [ -l "$LINK" -o ! -f "$LINK" ]; then
+if [ -L "$LINK" -o ! -f "$LINK" ]; then
   ln -sf $LATEST $LINK || \
     die "Failed to link $LATEST to $LINK"
 else
