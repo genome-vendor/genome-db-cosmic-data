@@ -1,0 +1,16 @@
+#!/usr/bin/make -f
+
+PACKAGE=$(shell dh_listpackages)
+VERSION=$(shell dpkg-parsechangelog -c1 | awk '/^Version:/{print $$2}')
+DBPATH=/var/lib/genome/db/cosmic
+
+test:
+	echo $(VERSION)
+
+%:
+	dh $@
+
+override_dh_install:
+	install -d debian/$(PACKAGE)$(DBPATH)/$(VERSION)/
+	install -m 644 *.tsv debian/$(PACKAGE)$(DBPATH)/$(VERSION)/
+	install -m 644 *.csv debian/$(PACKAGE)$(DBPATH)/$(VERSION)/
