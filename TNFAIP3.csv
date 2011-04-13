@@ -174,7 +174,7 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1296814	1296814	 	 	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1296815	1296815	p.Q593*	c.1777C>T	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	36193	Unknown	Tumour Sample	Homozygous	6	138242052	138242052	6	138200359	138200359
 1296816	1296816	 	 	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1296817	1296817	p.R271*	c.811C>T	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	35978	Unknown	Tumour Sample	 	6	138239911	138239911	6	138198218	138198218
+1296817	1296817	p.R271*	c.811C>T	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	35978	Previously Observed	Tumour Sample	 	6	138239911	138239911	6	138198218	138198218
 1296818	1296818	 	 	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1296819	1296819	 	 	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1296820	1296820	p.E154*	c.460G>T	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19907439	 	36194	Unknown	Tumour Sample	 	6	138237839	138237839	6	138196146	138196146
@@ -384,6 +384,77 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1432980	1432980	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	20533286	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1432981	1432981	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	20533286	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1432982	1432982	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	20533286	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482134	1482134	p.C627fs*44	c.1880_1881delGT	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85871	Confirmed	Tumour Sample	Homozygous	6	138242155	138242156	6	138200462	138200463
+1482135	1482135	p.P450fs*21	c.1347_1423del77	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85872	Confirmed	Tumour Sample	 	6	138241622	138241698	6	138199929	138200005
+1482135	1482135	p.M476I	c.1428G>A	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85873	Confirmed	Tumour Sample	 	6	138241703	138241703	6	138200010	138200010
+1482136	1482136	p.L126fs*87	c.373_382del10	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85874	Confirmed	Tumour Sample	 	6	138237752	138237761	6	138196059	138196068
+1482137	1482137	p.V288fs*4	c.861_861delA	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85879	Confirmed	Tumour Sample	 	6	138239961	138239961	6	138198268	138198268
+1482137	1482137	p.?	c.294_295+4delCGGTAA	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85880	Confirmed	Tumour Sample	 	6	138234351	138234356	6	138192658	138192663
+1482138	1482138	p.A764fs*28	c.2290_2290delG	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85875	Confirmed	Tumour Sample	 	6	138244066	138244066	6	138202373	138202373
+1482139	1482139	p.?fs	c.106_107ins10	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85877	Confirmed	Tumour Sample	Homozygous	6	138234163	138234164	6	138192470	138192471
+1482140	1482140	p.T133fs*7	c.397_398insA	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85878	Confirmed	Tumour Sample	 	6	138237776	138237777	6	138196083	138196084
+1482141	1482141	p.?	c.295+1G>T	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85881	Confirmed	Tumour Sample	 	6	138234353	138234353	6	138192660	138192660
+1482142	1482142	p.?	c.295+1G>T	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85881	Confirmed	Tumour Sample	Homozygous	6	138234353	138234353	6	138192660	138192660
+1482143	1482143	p.R271*	c.811C>T	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	35978	Confirmed	Tumour Sample	 	6	138239911	138239911	6	138198218	138198218
+1482144	1482144	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482145	1482145	p.D117V	c.350A>T	haematopoietic_and_lymphoid_tissue	large_intestine	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85869	Confirmed	Tumour Sample	 	6	138237729	138237729	6	138196036	138196036
+1482146	1482146	p.P574L	c.1721C>T	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	85870	Confirmed	Tumour Sample	 	6	138241996	138241996	6	138200303	138200303
+1482147	1482147	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482148	1482148	 	 	haematopoietic_and_lymphoid_tissue	large_intestine	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482149	1482149	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482150	1482150	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482151	1482151	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482152	1482152	 	 	haematopoietic_and_lymphoid_tissue	large_intestine	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482153	1482153	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482154	1482154	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482155	1482155	 	 	haematopoietic_and_lymphoid_tissue	small_intestine	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482156	1482156	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482157	1482157	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482158	1482158	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482159	1482159	 	 	haematopoietic_and_lymphoid_tissue	stomach	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482160	1482160	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482161	1482161	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482162	1482162	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482163	1482163	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482164	1482164	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482165	1482165	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482166	1482166	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482167	1482167	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482168	1482168	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482169	1482169	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482170	1482170	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482171	1482171	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482172	1482172	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482173	1482173	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482174	1482174	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482175	1482175	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482176	1482176	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482177	1482177	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482178	1482178	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482179	1482179	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482180	1482180	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482181	1482181	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482182	1482182	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482183	1482183	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482184	1482184	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482185	1482185	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482186	1482186	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482187	1482187	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482188	1482188	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482189	1482189	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482190	1482190	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482191	1482191	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482192	1482192	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482193	1482193	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482194	1482194	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482195	1482195	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482196	1482196	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482197	1482197	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482198	1482198	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482199	1482199	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482200	1482200	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482201	1482201	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1482202	1482202	 	 	haematopoietic_and_lymphoid_tissue	gastrointestinal_tract_(site_indeterminate)	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	21266526	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 15	1289717	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	19380639	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 15-C	1290163	 	 	haematopoietic_and_lymphoid_tissue	salivary_gland	NS	lymphoid_neoplasm	marginal_zone_lymphoma	NS	19258598	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 16	1289718	p.W85*	c.254G>A	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	Hodgkin_lymphoma	nodular_sclerosing	19380639	 	35909	Confirmed	Tumour Sample	Homozygous	6	138234311	138234311	6	138192618	138192618
@@ -770,7 +841,7 @@ MALT082	1290207	p.0?	c.1_2373del2373	haematopoietic_and_lymphoid_tissue	eye	NS	l
 MALT083	1290416	 	 	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19412163	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 MALT084	1290208	p.0?	c.1_2373del2373	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19412163	 	36093	Unknown	Tumour Sample	Homozygous	6	138234058	138244149	6	138192365	138202456
 MALT085	1290209	p.P457fs*16	c.1368_1369insG	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19412163	 	35977	Unknown	Tumour Sample	Homozygous	6	138241643	138241644	6	138199950	138199951
-MALT086	1290210	p.R271*	c.811C>T	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19412163	 	35978	Unknown	Tumour Sample	Homozygous	6	138239911	138239911	6	138198218	138198218
+MALT086	1290210	p.R271*	c.811C>T	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19412163	 	35978	Previously Observed	Tumour Sample	Homozygous	6	138239911	138239911	6	138198218	138198218
 MALT087	1290211	p.A747fs*4	c.2238_2239delGG	haematopoietic_and_lymphoid_tissue	eye	NS	lymphoid_neoplasm	MALT_lymphoma	NS	19412163	 	35979	Unknown	Tumour Sample	Homozygous	6	138244014	138244015	6	138202321	138202322
 MCL001	1290332	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	mantle_cell_lymphoma	NS	19412163	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 MCL002	1290333	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	mantle_cell_lymphoma	NS	19412163	 	 	 	Tumour Sample	 	 	 	 	 	 	 

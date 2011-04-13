@@ -211,7 +211,7 @@ BB27T	1235107	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumo
 BB28T	1235108	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BB29T	1235109	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BB2T	1235089	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB30T	1235110	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BB31T	1235111	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BB32T	1235112	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -276,9 +276,9 @@ HCC1395	749712	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	
 HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 

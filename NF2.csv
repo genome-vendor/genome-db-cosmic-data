@@ -6,6 +6,8 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+100_2	1429881	p.Q407*	c.1219C>T	meninges	NS	NS	meningioma	NS	NS	20682713	 	23855	Previously Observed	Tumour Sample	Homozygous	22	28399354	28399354	22	30069354	30069354
+100_3	1429882	p.Q407*	c.1219C>T	meninges	NS	NS	meningioma	NS	NS	20682713	 	23855	Previously Observed	Tumour Sample	Homozygous	22	28399354	28399354	22	30069354	30069354
 1020980	1020980	p.Y144*	c.432C>G	central_nervous_system	spinal_cord	NS	glioma	ependymoma_Grade_II	NS	11275983	 	23902	Confirmed	Tumour Sample	Homozygous	22	28368259	28368259	22	30038259	30038259
 1020981	1020981	 	 	central_nervous_system	spinal_cord	NS	glioma	ependymoma_Grade_II	NS	11275983	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1020982	1020982	 	 	central_nervous_system	spinal_cord	NS	glioma	ependymoma_Grade_II	NS	11275983	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1233,6 +1235,8 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1037207	1037207	 	 	soft_tissue	nerve_sheath	vestibular	schwannoma	NS	NS	12011146	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1037208	1037208	p.E89fs*15	c.264_265insG	soft_tissue	nerve_sheath	vestibular	schwannoma	NS	NS	12011146	 	22464	Confirmed	Tumour Sample	Homozygous	22	28365102	28365103	22	30035102	30035103
 1037209	1037209	 	 	soft_tissue	nerve_sheath	vestibular	schwannoma	NS	NS	12011146	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+103_2	1429883	p.?	c.1341-?_1446+?del	meninges	NS	NS	meningioma	NS	NS	20682713	 	49114	Unknown	Tumour Sample	Homozygous	22	28400825	28400930	22	30070825	30070930
+103_3	1429884	 	 	meninges	NS	NS	meningioma	NS	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1048375	1048375	 	 	central_nervous_system	posterior_fossa	NS	glioma	ependymoma_Grade_II	NS	8889505	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1048376	1048376	 	 	central_nervous_system	occipital_lobe	NS	glioma	ependymoma_Grade_I	NS	8889505	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1048377	1048377	 	 	central_nervous_system	parietal_lobe	NS	glioma	ependymoma_Grade_II	NS	8889505	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -2295,10 +2299,20 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1107581	1107581	p.M39_K80del	c.115_240del126	soft_tissue	nerve_sheath	NS	schwannoma	NS	NS	18285426	 	22417	Confirmed	Tumour Sample	Homozygous	22	28362740	28362865	22	30032740	30032865
 1107582	1107582	p.Y177*	c.531T>A	soft_tissue	nerve_sheath	NS	schwannoma	NS	NS	18285426	 	26682	Confirmed	Tumour Sample	Homozygous	22	28381597	28381597	22	30051597	30051597
 1107583	1107583	p.K525fs*16	c.1571_1572delAA	soft_tissue	nerve_sheath	NS	schwannoma	NS	NS	18285426	 	26683	Confirmed	Tumour Sample	Homozygous	22	28404309	28404310	22	30074309	30074310
+111_2	1429885	 	 	meninges	NS	NS	meningioma	NS	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+111_3	1429886	 	 	meninges	NS	NS	meningioma	NS	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+115_2	1429887	p.M77fs*9	c.225_226insA	meninges	NS	NS	meningioma	NS	NS	20682713	 	49111	Unknown	Tumour Sample	Homozygous	22	28362850	28362851	22	30032850	30032851
+115_3	1429888	p.M77fs*9	c.225_226insA	meninges	NS	NS	meningioma	NS	NS	20682713	 	49111	Unknown	Tumour Sample	Homozygous	22	28362850	28362851	22	30032850	30032851
+117_1	1429864	p.W184*	c.552G>A	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	23845	Previously Observed	Tumour Sample	Homozygous	22	28381618	28381618	22	30051618	30051618
+117_3	1429865	p.W184*	c.552G>A	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	23845	Previously Observed	Tumour Sample	Homozygous	22	28381618	28381618	22	30051618	30051618
+119_2	1429889	p.E422*	c.1264G>T	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	86033	Unknown	Tumour Sample	Homozygous	22	28399399	28399399	22	30069399	30069399
+119_3	1429890	p.E422*	c.1264G>T	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	86033	Unknown	Tumour Sample	Homozygous	22	28399399	28399399	22	30069399	30069399
 1245696	1245696	p.W191R	c.571T>A	soft_tissue	nerve_sheath	stomach	schwannoma	NS	NS	19691769	 	33781	Unknown	Tumour Sample	Heterozygous	22	28381637	28381637	22	30051637	30051637
 1280423	1280423	p.?	c.1122+2T>A	soft_tissue	nerve_sheath	vestibular	schwannoma	NS	NS	19772601	 	34116	Confirmed	Tumour Sample	Homozygous	22	28397939	28397939	22	30067939	30067939
 1453597	1453597	p.L141R	c.422T>G	meninges	NS	NS	meningioma	NS	NS	20930055	 	51528	Confirmed	Tumour Sample	Homozygous	22	28368249	28368249	22	30038249	30038249
 1453598	1453598	p.W258*	c.773G>A	meninges	NS	NS	meningioma	psammomatous	NS	20930055	 	23909	Confirmed	Tumour Sample	Homozygous	22	28387291	28387291	22	30057291	30057291
+146_2	1429891	p.R353fs*9	c.1058_1064delGGGATGA	meninges	NS	NS	meningioma	NS	NS	20682713	 	49108	Unknown	Tumour Sample	Homozygous	22	28397873	28397879	22	30067873	30067879
+146_3	1429892	p.R353fs*9	c.1058_1064delGGGATGA	meninges	NS	NS	meningioma	NS	NS	20682713	 	49108	Unknown	Tumour Sample	Homozygous	22	28397873	28397879	22	30067873	30067879
 16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16594	1423676	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16596	1423677	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
@@ -2403,6 +2417,8 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 17054	1423776	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17055	1423777	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17060	1423778	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+170_1	1429875	p.D201fs*3	c.602_603delAT	meninges	NS	NS	meningioma	transitional	NS	20682713	 	49109	Unknown	Tumour Sample	Homozygous	22	28384180	28384181	22	30054180	30054181
+170_2	1429876	p.D201fs*3	c.602_603delAT	meninges	NS	NS	meningioma	transitional	NS	20682713	 	49109	Unknown	Tumour Sample	Homozygous	22	28384180	28384181	22	30054180	30054181
 17144	1423779	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17146	1423780	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17148	1423781	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
@@ -2460,6 +2476,8 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 17326	1423833	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17328	1423834	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17330	1423835	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+175_2	1429893	p.?	c.1340+1G>A	meninges	NS	NS	meningioma	NS	NS	20682713	 	22301	Previously Observed	Tumour Sample	Homozygous	22	28399476	28399476	22	30069476	30069476
+175_3	1429894	p.?	c.1340+1G>A	meninges	NS	NS	meningioma	NS	NS	20682713	 	22301	Previously Observed	Tumour Sample	Homozygous	22	28399476	28399476	22	30069476	30069476
 17726	1423836	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17727	1423837	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17728	1423838	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
@@ -2487,9 +2505,17 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 17778	1423860	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17781	1423861	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17784	1423862	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
+177_1	1429873	p.?	c.517-1G>A	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	49112	Unknown	Tumour Sample	Homozygous	22	28381582	28381582	22	30051582	30051582
+177_2	1429874	p.?	c.517-1G>A	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	49112	Unknown	Tumour Sample	Homozygous	22	28381582	28381582	22	30051582	30051582
+179_2	1429895	 	 	meninges	NS	NS	meningioma	NS	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+179_3	1429896	 	 	meninges	NS	NS	meningioma	NS	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+207_2	1429897	p.K69fs*17	c.203_204insA	meninges	NS	NS	meningioma	NS	NS	20682713	 	49110	Unknown	Tumour Sample	Homozygous	22	28362828	28362829	22	30032828	30032829
+207_3	1429898	p.K69fs*17	c.203_204insA	meninges	NS	NS	meningioma	NS	NS	20682713	 	49110	Unknown	Tumour Sample	Homozygous	22	28362828	28362829	22	30032828	30032829
 22RV1	924100	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 23132-87	910924	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 28A	1032145	 	 	soft_tissue	nerve_sheath	NS	schwannoma	NS	NS	8379998	 	 	 	NS	 	 	 	 	 	 	 
+295_1	1429877	 	 	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+295_2	1429878	 	 	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 380	924101	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	L2	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 5637	687452	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 639-V	906798	 	 	urinary_tract	ureter	NS	carcinoma	transitional_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -2500,6 +2526,17 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 8-MG-BA	687562	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 8305C	906795	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 8505C	924102	p.E129*	c.385G>T	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	 	4	26895	Unknown	Cultured Sample	Homozygous	22	28368212	28368212	22	30038212	30038212
+86_1	1429866	p.Q165fs*9	c.493delC	meninges	NS	NS	meningioma	fibroblastic	NS	20682713	 	22201	Previously Observed	Tumour Sample	Homozygous	22	28380691	28380691	22	30050691	30050691
+86_2	1429867	p.Q165fs*9	c.493delC	meninges	NS	NS	meningioma	fibroblastic	NS	20682713	 	22201	Previously Observed	Tumour Sample	Homozygous	22	28380691	28380691	22	30050691	30050691
+86_3	1429868	p.Q165fs*9	c.493delC	meninges	NS	NS	meningioma	fibroblastic	NS	20682713	 	22201	Previously Observed	Tumour Sample	Homozygous	22	28380691	28380691	22	30050691	30050691
+89_2	1429879	p.Q319*	c.955C>T	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	49113	Unknown	Tumour Sample	Homozygous	22	28394391	28394391	22	30064391	30064391
+89_3	1429880	 	 	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+91_1	1429869	p.N248fs*3	c.743_743delA	meninges	NS	NS	meningioma	transitional	NS	20682713	 	86032	Unknown	Tumour Sample	Homozygous	22	28387261	28387261	22	30057261	30057261
+91_2	1429870	p.N248fs*3	c.743_743delA	meninges	NS	NS	meningioma	transitional	NS	20682713	 	86032	Unknown	Tumour Sample	Homozygous	22	28387261	28387261	22	30057261	30057261
+93_1	1429862	p.?	c.448-1G>A	meninges	NS	NS	meningioma	fibroblastic	NS	20682713	 	24209	Previously Observed	Tumour Sample	Homozygous	22	28380645	28380645	22	30050645	30050645
+93_3	1429863	p.?	c.448-1G>A	meninges	NS	NS	meningioma	fibroblastic	NS	20682713	 	24209	Previously Observed	Tumour Sample	Homozygous	22	28380645	28380645	22	30050645	30050645
+95_1	1429871	 	 	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+95_2	1429872	 	 	meninges	NS	NS	meningioma	meningothelial	NS	20682713	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 A101D	910921	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 A172	687563	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 A204	910784	 	 	soft_tissue	striated_muscle	NS	rhabdomyosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -2565,7 +2602,7 @@ BB44T	1235123	 	 	breast	NS	NS	carcinoma	ductolobular_carcinoma	NS	16959974	 	 	
 BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB4T	1235091	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BB5T	1235092	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB7T	1235093	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BB9T	1235094	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BC-1	910919	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -2700,7 +2737,7 @@ D-423MG	946372	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 
 D-458MED	946381	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-502MG	946373	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-538MG	946376	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-556MED	946380	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-566MG	946377	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 DB	906832	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -2786,7 +2823,7 @@ HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,131	 	 	Cu
 HAL-01	949153	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HC-1	907044	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	hairy_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -2799,7 +2836,7 @@ HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cu
 HCC1806	907047	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	squamous_cell_carcinoma	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -2944,13 +2981,13 @@ LAN-6	949170	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sa
 LB1047-RCC	753577	p.?	c.115-1G>T	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	131	29741	Confirmed	Cultured Sample	Heterozygous	22	28362739	28362739	22	30032739	30032739
 LB1047-RCC	753577	p.?	c.115-1G>T	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4	29741	Confirmed	Cultured Sample	Homozygous	22	28362739	28362739	22	30032739	30032739
 LB2241-RCC	753578	p.?	c.241-6_-2CTGCA>G	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,131	34050	Confirmed	Cultured Sample	Homozygous	22	28365073	28365077	22	30035073	30035077
-LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB831-BLC	753584	p.?	c.115-1G>C	urinary_tract	bladder	NS	carcinoma	NS	NS	 	131	29726	Confirmed	Cultured Sample	Homozygous	22	28362739	28362739	22	30032739	30032739
 LB831-BLC	753584	p.?	c.1575-1G>C	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,131	34051	Confirmed	Cultured Sample	Homozygous	22	28407427	28407427	22	30077427	30077427
-LB996-RCC	753585	p.A105fs*20	c.314_327delCTGAAGAGGAGCTG	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,131	26891	Confirmed	Cultured Sample	Homozygous	22	28365150	28365163	22	30035150	30035163
+LB996-RCC	753585	p.A105fs*20	c.314_327delCTGAAGAGGAGCTG	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	131,4	26891	Confirmed	Cultured Sample	Homozygous	22	28365150	28365163	22	30035150	30035163
 LC-1F	907785	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC-2-ad	907786	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC4-1	907787	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -3196,7 +3233,7 @@ NCI-H1184	688000	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultur
 NCI-H1184	1032412	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1238	1032413	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H125	1032431	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H128	1032394	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1284	753598	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1284	1032414	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -3277,12 +3314,12 @@ NCI-H2081	908480	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultur
 NCI-H2081	1032426	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	1032463	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2107	924246	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2107	1032427	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H211	1032396	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	7882313	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	131,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2141	688014	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2170	687815	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,131	 	 	Cultured Sample	 	 	 	 	 	 	 

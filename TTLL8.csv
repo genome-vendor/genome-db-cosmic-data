@@ -1,0 +1,10 @@
+
+Gene : TTLL8
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0904	1474835	p.V374V	c.1122G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86404	 	Tumour Sample	Heterozygous	 	 	 	22	50471792	50471792
+TCGA-13-1509	1474839	p.I288V	c.862A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86405	 	Tumour Sample	Heterozygous	 	 	 	22	50479675	50479675

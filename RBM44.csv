@@ -1,0 +1,12 @@
+
+Gene : RBM44
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0807	1474889	p.G221E	c.662G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86900	 	Tumour Sample	Heterozygous	 	 	 	2	238726221	238726221
+TCGA-20-0991	1474881	p.G13R	c.37G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86899	 	Tumour Sample	Heterozygous	 	 	 	2	238722286	238722286
+TCGA-24-1422	1474849	p.W786R	c.2356T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86901	 	Tumour Sample	Heterozygous	 	 	 	2	238732966	238732966
+TCGA-25-2042	1474961	p.V902A	c.2705T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86902	 	Tumour Sample	Heterozygous	 	 	 	2	238737961	238737961

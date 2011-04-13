@@ -48,5 +48,6 @@ NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	
 NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
 TCGA-04-1343	1474875	p.G389D	c.1166G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75130	Confirmed	Tumour Sample	Heterozygous	23	118107527	118107527	23	118223499	118223499
 TCGA-04-1361	1474877	p.L189M	c.565T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75131	Confirmed	Tumour Sample	Heterozygous	23	118123066	118123066	23	118239038	118239038
+TCGA-09-2044	1474844	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-24-1564	1475006	p.C25G	c.73T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71309	Confirmed	Tumour Sample	Heterozygous	23	118134644	118134644	23	118250616	118250616
 TCGA-25-1321	1475002	p.Q1115Q	c.3345G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80059	Confirmed	Tumour Sample	Heterozygous	23	118105348	118105348	23	118221320	118221320

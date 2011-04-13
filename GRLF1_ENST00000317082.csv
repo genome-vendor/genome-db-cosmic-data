@@ -1,0 +1,14 @@
+
+Gene : GRLF1_ENST00000317082
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1337	1475084	p.T409T	c.1227C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86381	 	Tumour Sample	Heterozygous	 	 	 	19	47423159	47423159
+TCGA-04-1356	1474920	p.L671Q	c.2012T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86383	 	Tumour Sample	Heterozygous	 	 	 	19	47423944	47423944
+TCGA-13-0727	1475054	p.P976P	c.2928G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86385	 	Tumour Sample	Heterozygous	 	 	 	19	47424860	47424860
+TCGA-23-1123	1474840	p.S752I	c.2255G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86384	 	Tumour Sample	Heterozygous	 	 	 	19	47424187	47424187
+TCGA-24-2024	1474857	p.S985*	c.2954C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86386	 	Tumour Sample	Heterozygous	 	 	 	19	47424886	47424886
+TCGA-25-2398	1474986	p.Q586*	c.1756C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86382	 	Tumour Sample	Heterozygous	 	 	 	19	47423688	47423688

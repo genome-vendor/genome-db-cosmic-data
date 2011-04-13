@@ -6,6 +6,9 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+10	1481427	p.D17fs*101	c.50_53delACGA	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	85833	Confirmed	Tumour Sample	Homozygous	11	64334105	64334108	11	64577529	64577532
+100	1481446	p.R218fs*13	c.652_653delCG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85852	Confirmed	Tumour Sample	Homozygous	11	64331940	64331941	11	64575364	64575365
+102	1481457	p.A164V	c.491C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85853	Confirmed	Tumour Sample	 	11	64332102	64332102	11	64575526	64575526
 1020056	1020056	 	 	parathyroid	NS	NS	adenoma	NS	NS	10993646	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1020057	1020057	 	 	parathyroid	NS	NS	adenoma	NS	NS	10993646	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1020058	1020058	 	 	parathyroid	NS	NS	adenoma	NS	NS	10993646	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1209,6 +1212,7 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1024681	1024681	 	 	parathyroid	NS	NS	adenoma-hyperplasia_NS	NS	NS	9709922	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1024682	1024682	 	 	parathyroid	NS	NS	adenoma-hyperplasia_NS	NS	NS	9709922	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1024683	1024683	 	 	parathyroid	NS	NS	adenoma-hyperplasia_NS	NS	NS	9709922	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+103	1481458	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1030027	1030027	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1030028	1030028	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1030029	1030029	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1507,6 +1511,7 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1032112	1032112	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	non_functioning	NS	9458074	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1032113	1032113	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	non_functioning	NS	9458074	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1032114	1032114	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	non_functioning	NS	9458074	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+104	1481459	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1041985	1041985	 	 	gastrointestinal_tract_(site_indeterminate)	NS	NS	carcinoid-endocrine_tumour	NS	NS	9652567	 	 	 	NS	 	 	 	 	 	 	 
 1041986	1041986	p.W265fs*16	c.794delG	gastrointestinal_tract_(site_indeterminate)	NS	NS	carcinoid-endocrine_tumour	NS	NS	9652567	 	22639	Unknown	NS	Heterozygous	11	64331257	64331257	11	64574681	64574681
 1041987	1041987	p.?	c.1050_1051delCT	gastrointestinal_tract_(site_indeterminate)	NS	NS	carcinoid-endocrine_tumour	NS	NS	9652567	 	22641	Confirmed	NS	Heterozygous	11	64329817	64329823	11	64573241	64573247
@@ -1606,7 +1611,7 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1045690	1045690	 	 	gastrointestinal_tract_(site_indeterminate)	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	10634374	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1045691	1045691	 	 	gastrointestinal_tract_(site_indeterminate)	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	10634374	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1045692	1045692	 	 	gastrointestinal_tract_(site_indeterminate)	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	10634374	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1046007	1046007	p.I85fs*33	c.249_252delGTCT	pancreas	NS	NS	carcinoid-endocrine_tumour	vipoma	NS	12144911	 	23398	Unknown	Tumour Sample	Heterozygous	11	64333906	64333909	11	64577330	64577333
+1046007	1046007	p.I85fs*33	c.249_252delGTCT	pancreas	NS	NS	carcinoid-endocrine_tumour	vipoma	NS	12144911	 	23398	Previously Observed	Tumour Sample	Heterozygous	11	64333906	64333909	11	64577330	64577333
 1046008	1046008	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	somatostatinoma	NS	12144911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1046009	1046009	 	 	small_intestine	duodenum	NS	carcinoid-endocrine_tumour	NS	NS	12144911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1046010	1046010	 	 	pancreas	ampulla_of_Vater	NS	carcinoid-endocrine_tumour	somatostatinoma	NS	12144911	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1661,6 +1666,7 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1078277	1078277	 	 	autonomic_ganglia	NS	NS	paraganglioma	NS	NS	17526943	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1078278	1078278	 	 	autonomic_ganglia	NS	NS	paraganglioma	NS	NS	17526943	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1078279	1078279	 	 	autonomic_ganglia	NS	NS	paraganglioma	NS	NS	17526943	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+108	1481460	p.L267fs*42	c.800_822del23	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85854	Confirmed	Tumour Sample	Homozygous	11	64331229	64331251	11	64574653	64574675
 1084226	1084226	 	 	parathyroid	NS	NS	carcinoma	NS	NS	17555500	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1084227	1084227	 	 	parathyroid	NS	NS	carcinoma	NS	NS	17555500	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1084228	1084228	 	 	parathyroid	NS	NS	carcinoma	NS	NS	17555500	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1687,10 +1693,14 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1089708	1089708	 	 	parathyroid	NS	NS	adenoma	NS	NS	17639062	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1089709	1089709	 	 	parathyroid	NS	NS	adenoma	NS	NS	17639062	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1089710	1089710	 	 	parathyroid	NS	NS	adenoma	NS	NS	17639062	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+109	1481472	p.L22R	c.65T>G	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85829	Confirmed	Tumour Sample	 	11	64334093	64334093	11	64577517	64577517
+112	1481447	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 12	1024371	p.?	c.806_824del19	pituitary	NS	NS	adenoma	GH-PRL	NS	9709923	 	22652	Confirmed	Tumour Sample	Homozygous	11	64331224	64331245	11	64574648	64574669
 1230432	1230432	p.P245fs*36	c.734delC	pancreas	NS	NS	carcinoid-endocrine_tumour	glucagonoma	NS	19525592	 	30752	Unknown	NS	 	11	64331649	64331649	11	64575073	64575073
 1231262	1231262	p.D406fs*39	c.1217delA	retroperitoneum	NS	NS	carcinoid-endocrine_tumour	NS	NS	19564705	 	30787	Confirmed	Tumour Sample	Heterozygous	11	64329215	64329215	11	64572639	64572639
+13	1481438	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1302214	1302214	 	 	stomach	NS	NS	carcinoid-endocrine_tumour	NS	NS	19966355	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+133	1481461	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1334536	1334536	p.P32R	c.95C>G	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	20403035	 	23019	Confirmed	Tumour Sample	 	11	64334063	64334063	11	64577487	64577487
 1334537	1334537	p.V80fs*39	c.237_237delC	pituitary	NS	NS	adenoma	GH-PRL	NS	20403035	 	42092	Confirmed	Tumour Sample	 	11	64333921	64333921	11	64577345	64577345
 1345259	1345259	 	 	parathyroid	NS	NS	adenoma	NS	NS	16728578	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1757,6 +1767,25 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1458876	1458876	 	 	parathyroid	NS	NS	carcinoma	NS	NS	20480190	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1458877	1458877	 	 	parathyroid	NS	NS	carcinoma	NS	NS	20480190	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1458878	1458878	 	 	parathyroid	NS	NS	carcinoma	NS	NS	20480190	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481476	1481476	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481477	1481477	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481478	1481478	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481479	1481479	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481480	1481480	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481481	1481481	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481482	1481482	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481483	1481483	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481484	1481484	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481485	1481485	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481486	1481486	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481487	1481487	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481488	1481488	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481489	1481489	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481490	1481490	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481491	1481491	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481492	1481492	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481493	1481493	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481494	1481494	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 14T	1030018	p.L13fs*86	c.37_97del61	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22613	Confirmed	Tumour Sample	Homozygous	11	64334061	64334121	11	64577485	64577545
 152T	1030026	p.R330P	c.989G>C	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22620	Confirmed	Tumour Sample	Homozygous	11	64330340	64330340	11	64573764	64573764
 16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
@@ -1948,16 +1977,55 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 17781	1423861	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 17784	1423862	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 1T	1030015	p.D70fs*44	c.210_225del16	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22610	Confirmed	Tumour Sample	 	11	64333933	64333948	11	64577357	64577372
+2	1481474	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+21	1481428	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+23	1481429	p.L273fs*43	c.817_818delCT	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	85834	Confirmed	Tumour Sample	Homozygous	11	64331233	64331234	11	64574657	64574658
+24	1481430	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+25	1481431	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 25T	1030019	p.E387fs*58	c.1159delG	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22614	Confirmed	Tumour Sample	Homozygous	11	64329709	64329709	11	64573133	64573133
+27	1481439	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+29	1481463	p.E30*	c.88G>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85835	Confirmed	Tumour Sample	Homozygous	11	64334070	64334070	11	64577494	64577494
 2T	1030016	p.Q141R	c.422A>G	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22611	Confirmed	Tumour Sample	 	11	64333736	64333736	11	64577160	64577160
+3	1481432	p.G225V	c.674G>T	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	85830	Confirmed	Tumour Sample	Homozygous	11	64331709	64331709	11	64575133	64575133
+31	1481433	p.S543*	c.1628C>A	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	85836	Confirmed	Tumour Sample	 	11	64328587	64328587	11	64572011	64572011
+35	1481440	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+36	1481434	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+39	1481464	p.I54fs*63	c.159_165delCATCCCT	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85837	Confirmed	Tumour Sample	Homozygous	11	64333993	64333999	11	64577417	64577423
 43T	1030020	p.A138fs*47	c.412delG	pancreas	NS	NS	carcinoid-endocrine_tumour	vipoma	NS	9766672	 	22615	Confirmed	Tumour Sample	Homozygous	11	64333746	64333746	11	64577170	64577170
+44	1481448	p.D70fs*49	c.203_203delC	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85838	Confirmed	Tumour Sample	 	11	64333955	64333955	11	64577379	64577379
+45	1481465	p.P320R	c.959C>G	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85839	Confirmed	Tumour Sample	 	11	64330370	64330370	11	64573794	64573794
+5	1481437	p.W183R	c.547T>C	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85831	Confirmed	Tumour Sample	Homozygous	11	64332046	64332046	11	64575470	64575470
+52	1481441	p.A95fs*24	c.282_282delC	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85840	Confirmed	Tumour Sample	 	11	64333876	64333876	11	64577300	64577300
+56	1481449	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+57	1481466	p.V53fs*66	c.156_156delC	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85841	Confirmed	Tumour Sample	Homozygous	11	64334002	64334002	11	64577426	64577426
+59	1481442	p.Q400*	c.1198C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85842	Confirmed	Tumour Sample	 	11	64329234	64329234	11	64572658	64572658
+6	1481462	p.G111fs*63	c.330_346del17	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85832	Confirmed	Tumour Sample	 	11	64333812	64333828	11	64577236	64577252
+61	1481467	p.M1fs*82	c.1_109del109	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85843	Confirmed	Tumour Sample	Homozygous	11	64334049	64334157	11	64577473	64577581
+64	1481468	p.W126fs*1	c.377_377delG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85844	Confirmed	Tumour Sample	 	11	64333781	64333781	11	64577205	64577205
 66T	1030021	p.L221_L223del	c.660_668del9	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22616	Confirmed	Tumour Sample	 	11	64331715	64331723	11	64575139	64575147
 67T	1030022	p.V162C	c.484_485GT>TG	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22617	Confirmed	Tumour Sample	Homozygous	11	64332108	64332109	11	64575532	64575533
+69	1481469	p.V347fs*21	c.1038_1038delT	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85845	Confirmed	Tumour Sample	 	11	64330291	64330291	11	64573715	64573715
+7	1481435	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+70	1481475	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+77	1481450	p.L27fs*84	c.79_95del17	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85846	Confirmed	Tumour Sample	 	11	64334063	64334079	11	64577487	64577503
+78	1481443	p.W183*	c.548G>A	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85847	Confirmed	Tumour Sample	 	11	64332045	64332045	11	64575469	64575469
+83	1481470	p.Y321fs*47	c.960_960delC	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85848	Confirmed	Tumour Sample	 	11	64330369	64330369	11	64573793	64573793
 83T	1030023	p.S145R	c.435C>G	pancreas	NS	NS	carcinoid-endocrine_tumour	non_functioning	NS	9766672	 	22618	Confirmed	Tumour Sample	Homozygous	11	64333723	64333723	11	64577147	64577147
+84	1481451	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+85	1481444	p.E195fs*2	c.581_582insACAG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85850	Confirmed	Tumour Sample	 	11	64332011	64332012	11	64575435	64575436
+87	1481452	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 8T	1030017	p.G73fs*41	c.218_228>CCT	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22621	Confirmed	Tumour Sample	Homozygous	11	64333930	64333940	11	64577354	64577364
 8T	1030017	p.I147del	c.440_442delTCA	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22612	Confirmed	Tumour Sample	Homozygous	11	64333716	64333718	11	64577140	64577142
+91	1481473	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+93	1481436	p.I85fs*33	c.249_252delGTCT	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	23398	Confirmed	Tumour Sample	 	11	64333906	64333909	11	64577330	64577333
 93T	1030024	p.I85fs*33	c.248_251delTGTC	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22619	Confirmed	Tumour Sample	 	11	64333907	64333910	11	64577331	64577334
+94	1481453	p.I85fs*33	c.249_252delGTCT	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	23398	Confirmed	Tumour Sample	 	11	64333906	64333909	11	64577330	64577333
 94T	1030025	p.R330P	c.989G>C	pancreas	NS	NS	carcinoid-endocrine_tumour	gastrinoma	NS	9766672	 	22620	Confirmed	Tumour Sample	Homozygous	11	64330340	64330340	11	64573764	64573764
+95	1481454	p.N189fs*35	c.561_561delG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85851	Confirmed	Tumour Sample	Homozygous	11	64332032	64332032	11	64575456	64575456
+96	1481455	p.?	c.784-2A>G	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85855	Confirmed	Tumour Sample	 	11	64331269	64331269	11	64574693	64574693
+97	1481456	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+98	1481445	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+99	1481471	p.?	c.654+1G>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85856	Confirmed	Tumour Sample	 	11	64331938	64331938	11	64575362	64575362
 Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 

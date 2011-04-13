@@ -247,8 +247,8 @@ HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cu
 HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	152,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	152,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 

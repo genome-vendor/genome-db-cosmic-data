@@ -80,17 +80,17 @@ Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	1695997
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1184	688000	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,15	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,152,15	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,15,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152,11,15	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152,11,15	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152,11,15	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152,11,15	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	152,15,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152,15,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	152,11,15	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,15,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152,15,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	11,152,15	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,15,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152,11,15	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,152,15	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152,15,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 PD1579a	753464	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1580a	753465	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1582a	753467	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 

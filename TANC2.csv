@@ -1,0 +1,10 @@
+
+Gene : TANC2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-1407	1475048	p.A270T	c.808G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86478	 	Tumour Sample	Heterozygous	 	 	 	17	61315435	61315435
+TCGA-24-1431	1475014	p.R1349K	c.4046G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86479	 	Tumour Sample	Heterozygous	 	 	 	17	61495768	61495768

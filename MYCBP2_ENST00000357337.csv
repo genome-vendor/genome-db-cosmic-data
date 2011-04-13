@@ -1,0 +1,10 @@
+
+Gene : MYCBP2_ENST00000357337
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-1483	1474887	p.A4183G	c.12548C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86547	 	Tumour Sample	Heterozygous	 	 	 	13	77638760	77638760
+TCGA-23-1124	1474818	p.M4469I	c.13407G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86546	 	Tumour Sample	Heterozygous	 	 	 	13	77629819	77629819

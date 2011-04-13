@@ -1,0 +1,11 @@
+
+Gene : ENSG00000226807
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0717	1475078	p.T798N	c.2393C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86780	 	Tumour Sample	Heterozygous	 	 	 	8	142476593	142476593
+TCGA-13-0791	1474859	p.R471H	c.1412G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86781	 	Tumour Sample	Heterozygous	 	 	 	8	142487536	142487536
+TCGA-13-1501	1474878	p.?	c.?	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86779	 	Tumour Sample	Heterozygous	 	 	 	8	142445324	142445324

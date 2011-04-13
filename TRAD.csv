@@ -114,17 +114,17 @@ Hx219	1235073	 	 	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	16959974
 Hx220	1235074	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Hx223	1235075	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	30,24,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	24,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,24,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	24,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34,24	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	24,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	24,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	30,34,24	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	30,24,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	24,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	30,34,24	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34,24	 	 	Cultured Sample	 	 	 	 	 	 	 
-LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,24,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,24,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34,24	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	30,24,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,24,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34,24	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx26	1235056	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -337,7 +337,7 @@ PD1755a	919184	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	200
 PD1756a	919185	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1757a	919186	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1758a	919187	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1759a	919189	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297,20054297	185,33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1759a	919189	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297,20054297	185,34,33	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1762a	919191	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1763a	919192	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1764a	919193	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297,20054297	185,34,33	 	 	Tumour Sample	 	 	 	 	 	 	 

@@ -6,7 +6,7 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
-PD2127a	948147	p.I2374V	c.7120A>G	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	51906	Confirmed	Tumour Sample	 	 	 	 	6	56471673	56471673
+PD2127a	948147	p.I2374V	c.7120A>G	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	51906	Confirmed	Tumour Sample	 	 	 	 	6	56471673	56471673
 TCGA-09-2049	1474825	p.Q2278K	c.6832C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70540	Confirmed	Tumour Sample	Heterozygous	6	56579920	56579920	6	56471961	56471961
 TCGA-13-0760	1474815	p.R1015H	c.3044G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	74451	Confirmed	Tumour Sample	Heterozygous	6	56605739	56605739	6	56497780	56497780
 TCGA-13-0760	1474815	p.K3597K	c.10791A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81112	Confirmed	Tumour Sample	Heterozygous	6	56574323	56574323	6	56466364	56466364

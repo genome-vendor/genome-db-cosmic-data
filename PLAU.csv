@@ -50,7 +50,7 @@ Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	
 Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-PD2127a	948147	p.T357A	c.1069A>G	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	51887	Confirmed	Tumour Sample	 	 	 	 	10	75675107	75675107
+PD2127a	948147	p.T357A	c.1069A>G	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	51887	Confirmed	Tumour Sample	 	 	 	 	10	75675107	75675107
 PD3176a	1089998	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD3177a	1089999	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD3178a	1090016	 	 	upper_aerodigestive_tract	mouth	tongue	carcinoma	adenoid_cystic_carcinoma	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 

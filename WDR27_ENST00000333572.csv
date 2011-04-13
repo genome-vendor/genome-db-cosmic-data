@@ -7,3 +7,4 @@ Histology subtype 1 : None Selected
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
 Pa41X	1473141	p.S9*	c.26C>A	pancreas	NS	NS	NS	NS	NS	 	327	85020	Confirmed	Cultured Sample	Heterozygous	 	 	 	6	170089076	170089076
+TCGA-61-2008	1474914	p.?	c.1130-2A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86840	 	Tumour Sample	Heterozygous	 	 	 	6	170059616	170059616

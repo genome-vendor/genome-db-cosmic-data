@@ -80,7 +80,7 @@ Mx41	1430360	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	1793225
 Mx42	1430361	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1430362	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	17932254	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1395	684681	p.L474R	c.1421T>G	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,36,34,34	21211	Confirmed	Cultured Sample	Heterozygous	 	 	 	 	 	 
+NCI-H1395	684681	p.L474R	c.1421T>G	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,34,36	21211	Confirmed	Cultured Sample	Heterozygous	 	 	 	 	 	 
 NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 

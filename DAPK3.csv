@@ -82,7 +82,7 @@ Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959
 NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1770	687804	p.P216S	c.646C>T	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,36,34	21216	Confirmed	Cultured Sample	Heterozygous	19	3912143	3912143	19	3961143	3961143
+NCI-H1770	687804	p.P216S	c.646C>T	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	34,22,36,34	21216	Confirmed	Cultured Sample	Heterozygous	19	3912143	3912143	19	3961143	3961143
 NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 

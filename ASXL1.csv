@@ -820,6 +820,7 @@ Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tu
 Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCA7	1486131	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	85923	Unknown	Cultured Sample	Heterozygous	20	30486110	30486110	20	31022449	31022449
 HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -830,6 +831,7 @@ HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cu
 HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCT-116	1486132	p.G646fs*12	c.1934_1935insG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	34210	Previously Observed	Cultured Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
 HD-0001	1295661	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5a	19865112	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 HD-0003	1295662	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5a	19865112	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 HD-0008	1295663	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myelomonocytic_leukaemia	NS	19865112	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1042,6 +1044,15 @@ HD-0702	1295723	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neop
 HD-0747	1429747	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	20678218	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 HD-0790	1429790	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia_associated_with_MDS	NS	20678218	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+LIM-1215	1486135	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+LIM-1899	1486136	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+LIM-2405	1486137	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+LIM-2408	1486138	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+LIM-2537	1486139	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	85923	Unknown	Cultured Sample	Heterozygous	20	30486110	30486110	20	31022449	31022449
+LIM-2550	1486140	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	85923	Unknown	Cultured Sample	Heterozygous	20	30486110	30486110	20	31022449	31022449
+LIM-2551	1486141	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-174T	1486134	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	85923	Unknown	Cultured Sample	Heterozygous	20	30486110	30486110	20	31022449	31022449
+LoVo	1486133	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	85923	Unknown	Cultured Sample	Heterozygous	20	30486110	30486110	20	31022449	31022449
 Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -1050,6 +1061,7 @@ Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	
 Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+SW480	1486130	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 TCGA-02-0001	1287205	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0003	1287206	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0004	1337760	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 

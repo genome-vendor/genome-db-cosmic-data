@@ -10,7 +10,7 @@ BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_ce
 BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br02X	1312964	p.R926fs*6	c.2774_2775insT	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	39696	Confirmed	Cultured Sample	Heterozygous	3	10091272	10091273	3	10116272	10116273
-Br02X	1473020	p.R926fs*6	c.2774_2775insT	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326,329	39696	Confirmed	Cultured Sample	Heterozygous	3	10091272	10091273	3	10116272	10116273
+Br02X	1473020	p.R926fs*6	c.2774_2775insT	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	329,326	39696	Confirmed	Cultured Sample	Heterozygous	3	10091272	10091273	3	10116272	10116273
 Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br05X	1312967	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 

@@ -381,7 +381,7 @@ PD1367a	753395	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,1614092
 PD1370a	753398	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1373a	753401	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1379a	753407	p.G1919*	c.5755G>T	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34,36,34	21271	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
-PD1379a	753407	p.E2288D	c.6864G>T	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34,36,34	21272	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+PD1379a	753407	p.E2288D	c.6864G>T	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,36,34,34	21272	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
 PD1381a	753409	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1382a	753410	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1383a	753411	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 

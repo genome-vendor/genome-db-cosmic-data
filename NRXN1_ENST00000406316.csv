@@ -1,0 +1,13 @@
+
+Gene : NRXN1_ENST00000406316
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0730	1475025	p.G288G	c.864A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86411	 	Tumour Sample	Heterozygous	 	 	 	2	50850722	50850722
+TCGA-13-2060	1474963	p.A623T	c.1867G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86410	 	Tumour Sample	Heterozygous	 	 	 	2	50765667	50765667
+TCGA-23-2078	1474897	p.T1035I	c.3104C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86407	 	Tumour Sample	Heterozygous	 	 	 	2	50699576	50699576
+TCGA-24-1423	1474907	p.T766T	c.2298C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86409	 	Tumour Sample	Heterozygous	 	 	 	2	50758414	50758414
+TCGA-24-1427	1474900	p.Q922K	c.2764C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86408	 	Tumour Sample	Heterozygous	 	 	 	2	50724586	50724586

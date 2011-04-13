@@ -186,7 +186,7 @@ PD2218a	948720	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	200
 PD2219a	948722	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	166	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2221a	955773	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	166	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2222a	955776	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	166	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD3441a	1100929	p.L86L	c.258G>T	kidney	NS	NS	carcinoma	NS	NS	 	321	51970	Confirmed	Tumour Sample	 	 	 	 	12	49373404	49373404
+PD3441a	1100929	p.L86L	c.258G>T	kidney	NS	NS	carcinoma	NS	NS	21248752	321	51970	Confirmed	Tumour Sample	 	 	 	 	12	49373404	49373404
 TCGA-02-0001	1287205	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0003	1287206	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0004	1337760	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 

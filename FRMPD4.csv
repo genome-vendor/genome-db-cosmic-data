@@ -135,7 +135,7 @@ Br308T	1313065	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	g
 Br310T	1313066	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 Br401X	1313067	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br403T	1313068	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-COLO-829	687448	p.N527K	c.1581C>A	skin	NS	NS	malignant_melanoma	NS	NS	20016485	311,152	36783	Confirmed	Cultured Sample	Heterozygous	23	12638549	12638549	23	12728628	12728628
+COLO-829	687448	p.N527K	c.1581C>A	skin	NS	NS	malignant_melanoma	NS	NS	20016485	152,311	36783	Confirmed	Cultured Sample	Heterozygous	23	12638549	12638549	23	12728628	12728628
 CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
 CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co108	1430352	p.T673M	c.2018C>T	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	17932254	 	50284	Confirmed	Cultured Sample	Heterozygous	23	12644517	12644517	23	12734596	12734596

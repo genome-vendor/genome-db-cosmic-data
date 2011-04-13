@@ -50,5 +50,5 @@ Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	
 Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-PD2125a	948071	p.?	c.190_191+5delATGTGAG	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	52025	Confirmed	Tumour Sample	 	 	 	 	5	43388447	43388453
+PD2125a	948071	p.?	c.190_191+5delATGTGAG	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	52025	Confirmed	Tumour Sample	 	 	 	 	5	43388447	43388453
 TCGA-24-2271	1475072	p.G122S	c.364G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70055	Confirmed	Tumour Sample	Heterozygous	5	43417739	43417739	5	43381982	43381982

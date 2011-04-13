@@ -247,15 +247,15 @@ HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cu
 HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	152,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	152,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	152,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	30,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,152,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	152,28,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	152,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -559,5 +559,6 @@ PD2069a	920961	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 
 PD2070a	920963	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2071a	920965	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-13-0913	1474855	p.W339C	c.1017G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72056	Confirmed	Tumour Sample	Heterozygous	23	110324209	110324209	23	110437553	110437553
+TCGA-13-1496	1474899	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-24-1469	1474819	p.R49L	c.146G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75832	Confirmed	Tumour Sample	Heterozygous	23	110253133	110253133	23	110366477	110366477
 TCGA-25-1313	1474833	p.S509P	c.1525T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72057	Confirmed	Tumour Sample	Heterozygous	23	110346422	110346422	23	110459766	110459766

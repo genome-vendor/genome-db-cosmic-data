@@ -1,0 +1,10 @@
+
+Gene : SP100_ENST00000340126
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0920	1474823	p.L815L	c.2443T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86893	 	Tumour Sample	Heterozygous	 	 	 	2	231406646	231406646
+TCGA-61-2102	1474898	p.V786L	c.2356G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86892	 	Tumour Sample	Heterozygous	 	 	 	2	231406040	231406040

@@ -1,0 +1,11 @@
+
+Gene : EBF2
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1362	1474862	p.E82D	c.246G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86249	 	Tumour Sample	Heterozygous	 	 	 	8	25899653	25899653
+TCGA-13-1481	1474832	p.R332S	c.996G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86248	 	Tumour Sample	Heterozygous	 	 	 	8	25744284	25744284
+TCGA-24-2260	1474959	p.A420V	c.1259C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86247	 	Tumour Sample	Heterozygous	 	 	 	8	25718648	25718648

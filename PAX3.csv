@@ -187,6 +187,7 @@ PD2219a	948722	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	200
 PD2221a	955773	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	213	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2222a	955776	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	213	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-13-0714	1474912	p.R236H	c.707G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78268	Confirmed	Tumour Sample	Heterozygous	2	222805126	222805126	2	223096882	223096882
+TCGA-13-0751	1475017	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-13-0883	1474906	p.S364A	c.1090T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72079	Confirmed	Tumour Sample	Heterozygous	2	222793186	222793186	2	223084942	223084942
 TCGA-31-1950	1475068	p.N125K	c.375C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	72080	Confirmed	Tumour Sample	Heterozygous	2	222868567	222868567	2	223160323	223160323
 TCGA-36-1578	1474943	p.Y354F	c.1061A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78267	Confirmed	Tumour Sample	Heterozygous	2	222793215	222793215	2	223084971	223084971

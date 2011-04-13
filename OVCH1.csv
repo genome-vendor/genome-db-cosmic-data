@@ -100,3 +100,5 @@ Pa01C	1473030	p.R520H	c.1559G>A	pancreas	NS	NS	NS	NS	NS	 	327	84143	Confirmed	Cu
 Pa08C	1473125	p.V1125L	c.3373G>T	pancreas	NS	NS	NS	NS	NS	 	327	84142	Confirmed	Cultured Sample	Heterozygous	 	 	 	12	29580536	29580536
 Pa14C	1473126	p.S379S	c.1137A>G	pancreas	NS	NS	NS	NS	NS	 	327	84144	Confirmed	Cultured Sample	Heterozygous	 	 	 	12	29630383	29630383
 TCGA-13-0791	1474859	p.V102A	c.305T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75811	Confirmed	Tumour Sample	Heterozygous	12	29539634	29539634	12	29648367	29648367
+TCGA-13-1506	1475038	p.D964N	c.2890G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86263	 	Tumour Sample	Heterozygous	 	 	 	12	29597205	29597205
+TCGA-61-2009	1474891	p.A477V	c.1430C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86267	 	Tumour Sample	Heterozygous	 	 	 	12	29629180	29629180

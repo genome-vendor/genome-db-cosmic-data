@@ -1002,17 +1002,17 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1065057	1065057	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	17139461	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1065058	1065058	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	17139461	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1065059	1065059	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	17139461	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069951	1069951	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069952	1069952	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069955	1069955	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069957	1069957	p.H816Y	c.?	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	24840	Unknown	Tumour Sample	 	 	 	 	 	 	 
-1069958	1069958	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069959	1069959	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069961	1069961	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069962	1069962	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069963	1069963	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069964	1069964	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1069966	1069966	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour,minute_gastric_sclerosing_stromal_tumour,gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069951	1069951	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069952	1069952	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069955	1069955	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069957	1069957	p.H816Y	c.?	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	24840	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1069958	1069958	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069959	1069959	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069961	1069961	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069962	1069962	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069963	1069963	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069964	1069964	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1069966	1069966	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	17197927	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1070922	1070922	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	gastrointestinal_stromal_tumour	NS	NS	17200352	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1070923	1070923	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	gastrointestinal_stromal_tumour	NS	NS	17200352	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1070924	1070924	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	gastrointestinal_stromal_tumour	NS	NS	17200352	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -4308,6 +4308,64 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1477587	1477587	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20564079	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1477588	1477588	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20564079	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1477589	1477589	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20564079	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479635	1479635	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479636	1479636	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479637	1479637	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479638	1479638	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	peritoneum	gastrointestinal_stromal_tumour	spindle_and_epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479639	1479639	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479640	1479640	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479641	1479641	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479642	1479642	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479643	1479643	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479644	1479644	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479645	1479645	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479646	1479646	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479647	1479647	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	peritoneum	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479648	1479648	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479649	1479649	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479650	1479650	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479651	1479651	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479652	1479652	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479653	1479653	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479654	1479654	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479655	1479655	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	large_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479656	1479656	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479657	1479657	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479658	1479658	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	large_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479659	1479659	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479660	1479660	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	peritoneum	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479661	1479661	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	large_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479662	1479662	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479663	1479663	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479664	1479664	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479665	1479665	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479666	1479666	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479667	1479667	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479668	1479668	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	retroperitoneum	gastrointestinal_stromal_tumour	spindle_and_epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479669	1479669	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479670	1479670	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479671	1479671	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle_and_epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479672	1479672	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle_and_epithelioid	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479673	1479673	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479674	1479674	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479675	1479675	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479676	1479676	p.V561A	c.?	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	85787	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1479677	1479677	p.D842V	c.?	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	12432	Previously Observed	Tumour Sample	 	 	 	 	 	 	 
+1479678	1479678	p.V561D	c.?	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	12395	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1479679	1479679	p.?_?del	c.?	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	epithelioid	NS	20651400	 	85788	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1479680	1479680	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479681	1479681	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479682	1479682	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479683	1479683	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479684	1479684	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479685	1479685	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479686	1479686	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479687	1479687	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479688	1479688	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479689	1479689	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	gastrointestinal_tract_(site_indeterminate)	gastrointestinal_stromal_tumour	NS	NS	20651400	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487597	1487597	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	diffuse_interstitial_cell_of Cajal_hyperplasia	NS	20606738	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487598	1487598	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	diffuse_interstitial_cell_of Cajal_hyperplasia	NS	20606738	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487599	1487599	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	large_intestine	gastrointestinal_stromal_tumour	diffuse_interstitial_cell_of Cajal_hyperplasia	NS	20606738	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 14A	1069274	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	15930355	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 14B	1069275	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	spindle	NS	15930355	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 15	906782	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	gastrointestinal_stromal_tumour	spindle	NS	15690055	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -6297,8 +6355,8 @@ B01-5238-3	1152771	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_int
 B01-5238-5	1152770	 	 	soft_tissue	fibrous_tissue_and_uncertain_origin	small_intestine	gastrointestinal_stromal_tumour	NS	NS	17255767	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BALL-1	910705	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 BC-1	910919	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 BC-3	910918	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 BCPAP	924104	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6394,8 +6452,8 @@ COR-L279	910937	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Culture
 COR-L88	906808	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L96CAR	971776	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COV434	1149408	 	 	ovary	NS	NS	sex_cord-stromal_tumour	granulosa_cell_tumour	NS	18028988	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 CP67-MEL	949092	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 CPC-N	753547	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 CRO-AP2	906807	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6460,7 +6518,7 @@ D-423MG	946372	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 
 D-458MED	946381	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-502MG	946373	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-538MG	946376	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,4,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-556MED	946380	 	 	central_nervous_system	brain	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D-566MG	946377	 	 	central_nervous_system	brain	NS	glioma	astrocytoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 D201	1131774	 	 	skin	sun_unexposed_site	NS	malignant_melanoma	NS	NS	17762857	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -6838,11 +6896,11 @@ GT3TKB	907041	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sam
 H-EMC-SS	907290	 	 	bone	extraskeletal	NS	chondrosarcoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 H4	907042	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 H9	907043	 	 	haematopoietic_and_lymphoid_tissue	skin	NS	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 HAL-01	949153	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HC-1	907044	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	hairy_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,4,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6980,15 +7038,15 @@ LAN-1	1099140	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	17941064	 	 	 	Cul
 LAN-2	1099141	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	17941064	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 LAN-5	1099142	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	17941064	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 LAN-6	949170	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB373-MEL-D	753581	p.E996K	c.2986G>A	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34	21114	Confirmed	Cultured Sample	Heterozygous	4	54851342	54851342	4	55156585	55156585
 LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC-1F	907785	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC-2-ad	907786	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC4-1	907787	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -7000,7 +7058,7 @@ LNCaP-Clone-FGC	907788	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cu
 LOUCY	907789	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LOXIMVI	905974	 	 	skin	NS	NS	malignant_melanoma	NS	NS	17088437,17088437	3,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LP-1	907791	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	4,34,28	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-123	907792	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-174T	907793	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-411N	907794	 	 	large_intestine	caecum	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -7071,7 +7129,7 @@ MV-4-11	908156	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neopl
 MV4-11	1181603	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	18483300	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ2-MEL	971777	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 Malme-3M	905953	 	 	skin	NS	NS	malignant_melanoma	NS	NS	17088437,17088437	3,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mel1	1244757	 	 	skin	mucosal	NS	malignant_melanoma	NS	NS	19047099	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mewo	908128	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -7110,7 +7168,7 @@ NCI-H1105	908468	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultur
 NCI-H1155	908467	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	large_cell_variant	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1173	687999	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1184	688000	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1284	753598	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1299	724831	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1304	753599	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -7118,7 +7176,7 @@ NCI-H1355	724866	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cu
 NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1417	688001	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1436	908469	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,4,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H146	910899	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1522	908464	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1563	753600	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -7149,19 +7207,19 @@ NCI-H1930	924245	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultur
 NCI-H1963	688010	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1975	924244	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1993	908476	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,4,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2029	688011	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2030	722045	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2081	908480	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2107	924246	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,4,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,4,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2141	688014	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2170	687815	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	30,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2196	908481	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2227	688018	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2228	687816	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 

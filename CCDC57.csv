@@ -1,0 +1,10 @@
+
+Gene : CCDC57
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0906	1474903	p.K212N	c.636A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86563	 	Tumour Sample	Heterozygous	 	 	 	17	80151998	80151998
+TCGA-13-1497	1474820	p.E287D	c.861G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86562	 	Tumour Sample	Homozygous	 	 	 	17	80146286	80146286

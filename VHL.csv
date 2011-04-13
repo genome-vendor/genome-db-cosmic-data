@@ -922,6 +922,19 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1469155	1469155	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20978319	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1469156	1469156	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20978319	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1469157	1469157	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20978319	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478023	1478023	p.S65L	c.194C>T	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	14400	Previously Observed	Tumour Sample	 	3	10158725	10158725	3	10183725	10183725
+1478024	1478024	p.P154L	c.461C>T	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	18266	Previously Observed	Tumour Sample	 	3	10163318	10163318	3	10188318	10188318
+1478025	1478025	p.N67fs*64	c.201_203CTC>G	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	85751	Unknown	Tumour Sample	 	3	10158732	10158734	3	10183732	10183734
+1478025	1478025	p.?	c.641_642delGA	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	85752	Unknown	Tumour Sample	 	3	10166648	10166649	3	10191648	10191649
+1478026	1478026	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478027	1478027	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478028	1478028	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478029	1478029	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478030	1478030	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478031	1478031	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478032	1478032	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478033	1478033	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478034	1478034	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21151099	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1499	979296	p.W88C	c.264G>C	kidney	NS	NS	carcinoma	papillary_renal_cell_carcinoma	NS	15932632	 	17807	Previously Observed	Tumour Sample	 	3	10158795	10158795	3	10183795	10183795
 14GT	982514	p.P192S	c.574C>T	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	11536052	 	18386	Confirmed	Tumour Sample	 	3	10166581	10166581	3	10191581	10191581
 14T	978839	 	 	oesophagus	lower_third	NS	carcinoma	adenocarcinoma	NS	11745495	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -5015,7 +5028,7 @@ PD2140a	948173	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	200
 PD2141a	948175	p.L188P	c.563T>C	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	203	25678	Confirmed	Tumour Sample	Heterozygous	3	10166570	10166570	3	10191570	10191570
 PD2141a	948175	p.E189fs*25	c.564_565delGG	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	203	25694	Confirmed	Tumour Sample	Heterozygous	3	10166571	10166572	3	10191571	10191572
 PD2142a	948177	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	203	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2144a	948181	p.R176fs*25	c.527delG	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	52030	Confirmed	Tumour Sample	 	 	 	 	3	10191534	10191534
+PD2144a	948181	p.R176fs*25	c.527delG	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	52030	Confirmed	Tumour Sample	 	 	 	 	3	10191534	10191534
 PD2145a	948183	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	203	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2146a	948185	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	203	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2147a	948187	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	203	 	 	Tumour Sample	 	 	 	 	 	 	 

@@ -50,7 +50,7 @@ Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	
 Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-PD2126a	948145	p.K256T	c.767A>C	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	51859	Confirmed	Tumour Sample	 	 	 	 	5	96077268	96077268
+PD2126a	948145	p.K256T	c.767A>C	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	51859	Confirmed	Tumour Sample	 	 	 	 	5	96077268	96077268
 TCGA-02-0001	1287205	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0003	1287206	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0004	1337760	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -475,4 +475,5 @@ TCGA-32-1970	1338089	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grad
 TCGA-32-1976	1338090	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-32-1982	1338091	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-32-1986	1338092	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-59-2363	1474858	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-61-2102	1474898	p.R288H	c.863G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70017	Confirmed	Tumour Sample	Heterozygous	5	96104194	96104194	5	96078438	96078438

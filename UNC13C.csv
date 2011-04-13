@@ -1,0 +1,13 @@
+
+Gene : UNC13C
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1348	1474950	p.E1179D	c.3537G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86451	 	Tumour Sample	Heterozygous	 	 	 	15	54556454	54556454
+TCGA-13-0885	1474816	p.P722P	c.2166A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86450	 	Tumour Sample	Heterozygous	 	 	 	15	54307266	54307266
+TCGA-13-0916	1474880	p.K1913N	c.5739G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86452	 	Tumour Sample	Heterozygous	 	 	 	15	54838962	54838962
+TCGA-13-1482	1474873	p.S280R	c.840T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86449	 	Tumour Sample	Heterozygous	 	 	 	15	54305940	54305940
+TCGA-25-1322	1474940	p.Q2035P	c.6104A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86453	 	Tumour Sample	Heterozygous	 	 	 	15	54860143	54860143

@@ -1,0 +1,10 @@
+
+Gene : N4BP1_ENST00000262384
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1338	1474824	p.E274Q	c.820G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86393	 	Tumour Sample	Heterozygous	 	 	 	16	48595734	48595734
+TCGA-24-1418	1474949	p.K448R	c.1343A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86392	 	Tumour Sample	Heterozygous	 	 	 	16	48595211	48595211

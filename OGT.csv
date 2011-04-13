@@ -90,7 +90,7 @@ NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152	 	 	Cultu
 NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152	 	 	Cultured Sample	 	 	 	 	 	 	 
-PD2127a	948147	p.L528P	c.1583T>C	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	 	321	51903	Confirmed	Tumour Sample	 	 	 	 	23	70779127	70779127
+PD2127a	948147	p.L528P	c.1583T>C	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	51903	Confirmed	Tumour Sample	 	 	 	 	23	70779127	70779127
 Pa01C	1473030	p.F112I	c.334T>A	pancreas	NS	NS	NS	NS	NS	 	327	85227	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	70757824	70757824
 TCGA-13-0720	1474945	p.E369*	c.1105G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79400	Confirmed	Tumour Sample	Heterozygous	23	70693324	70693324	23	70776599	70776599
 TCGA-25-1632	1474992	p.R107C	c.319C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78221	Confirmed	Tumour Sample	Heterozygous	23	70674534	70674534	23	70757809	70757809

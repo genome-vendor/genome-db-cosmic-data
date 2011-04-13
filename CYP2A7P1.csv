@@ -1,0 +1,11 @@
+
+Gene : CYP2A7P1
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0800	1474916	p.K28K	c.84G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86352	 	Tumour Sample	Heterozygous	 	 	 	19	41533544	41533544
+TCGA-13-0800	1474916	p.D85N	c.253G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86351	 	Tumour Sample	Heterozygous	 	 	 	19	41533097	41533097
+TCGA-13-0804	1474956	p.S99S	c.297C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86350	 	Tumour Sample	Heterozygous	 	 	 	19	41533053	41533053

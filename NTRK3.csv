@@ -235,8 +235,8 @@ ATN-1	910687	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acut
 AU565	910704	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 AsPC-1	910702	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 BALL-1	910705	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 BC-1	910919	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 BC-3	910918	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -325,7 +325,7 @@ COLO-741	906815	 	 	large_intestine	colon	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sa
 COLO-792	906814	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COLO-800	906813	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COLO-824	906812	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L105	906805	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L23	687780	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L279	910937	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -529,7 +529,7 @@ IST-SL1	753564	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured
 IST-SL2	753565	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 ITO-II	924164	 	 	testis	NS	NS	germ_cell_tumour	embryonal_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 J-RT3-T3-5	907391	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 JAR	907175	 	 	placenta	NS	NS	choriocarcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 JEG-3	907176	 	 	placenta	NS	NS	choriocarcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 JVM-2	907269	 	 	haematopoietic_and_lymphoid_tissue	lymph_node	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -587,8 +587,8 @@ LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured
 LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC-1F	907785	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC-2-ad	907786	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC4-1	907787	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -1687,6 +1687,7 @@ TCGA-12-1600	1337982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grad
 TCGA-12-1602	1337983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-13-0919	1475027	p.V501V	c.1503G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82264	Confirmed	Tumour Sample	Heterozygous	15	86377174	86377174	15	88576170	88576170
 TCGA-13-1409	1474932	p.E556*	c.1666G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79006	Confirmed	Tumour Sample	Heterozygous	15	86284908	86284908	15	88483904	88483904
+TCGA-13-1483	1474887	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-14-0736	1337984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-14-0783	1337985	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-14-0786	1337986	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 

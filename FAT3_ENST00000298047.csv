@@ -1,0 +1,16 @@
+
+Gene : FAT3_ENST00000298047
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-09-2049	1474825	p.A2778G	c.8333C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86630	 	Tumour Sample	Heterozygous	 	 	 	11	92534512	92534512
+TCGA-13-1509	1474839	p.F2235V	c.6703T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86629	 	Tumour Sample	Heterozygous	 	 	 	11	92532882	92532882
+TCGA-23-1021	1474841	p.A3313A	c.9939C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86631	 	Tumour Sample	Heterozygous	 	 	 	11	92568103	92568103
+TCGA-24-1104	1474879	p.I2103F	c.6307A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86628	 	Tumour Sample	Heterozygous	 	 	 	11	92532486	92532486
+TCGA-24-1424	1474936	p.D87N	c.259G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86623	 	Tumour Sample	Heterozygous	 	 	 	11	92085537	92085537
+TCGA-24-1431	1475014	p.Y1259*	c.3777C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86626	 	Tumour Sample	Heterozygous	 	 	 	11	92495129	92495129
+TCGA-61-2009	1474891	p.T764A	c.2290A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86624	 	Tumour Sample	Heterozygous	 	 	 	11	92087551	92087551
+TCGA-61-2016	1475086	p.D1761E	c.5283T>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86627	 	Tumour Sample	Heterozygous	 	 	 	11	92531462	92531462

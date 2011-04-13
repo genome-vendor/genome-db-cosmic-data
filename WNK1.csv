@@ -424,6 +424,7 @@ PD3200a	1089987	 	 	salivary_gland	parotid	NS	carcinoma	adenoid_cystic_carcinoma
 PD3208a	1090174	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD3216a	1090149	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD3226a	1090183	 	 	salivary_gland	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-09-2050	1474830	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-13-0760	1474815	p.T870I	c.2609C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	77019	Confirmed	Tumour Sample	Heterozygous	12	859235	859235	12	988974	988974
 TCGA-13-0913	1474855	p.Y422Y	c.1266C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	80750	Confirmed	Tumour Sample	Heterozygous	12	809542	809542	12	939281	939281
 TCGA-13-1498	1474829	p.G803G	c.2409C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	81916	Confirmed	Tumour Sample	Heterozygous	12	859035	859035	12	988774	988774

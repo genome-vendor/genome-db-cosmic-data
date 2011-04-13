@@ -82,7 +82,7 @@ HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	144,137	 	 	
 HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,137	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1395	749712	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -90,9 +90,9 @@ HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,137	 	 	Cult
 HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,137	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,137	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,137	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -143,7 +143,7 @@ Mx43	1235049	p.D323N	c.967G>A	large_intestine	colon	sigmoid	carcinoma	adenocarci
 Mx45	1235062	 	 	large_intestine	colon	transverse	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx8	1235055	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	144,137	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	144,137	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1770	687804	p.P117S	c.349C>T	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	144,137	25224	Confirmed	Cultured Sample	Heterozygous	20	51632424	51632424	20	52199017	52199017
 NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	137,144	 	 	Cultured Sample	 	 	 	 	 	 	 

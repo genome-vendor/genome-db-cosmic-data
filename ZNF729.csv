@@ -1,0 +1,10 @@
+
+Gene : ZNF729
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-09-0369	1474883	p.G1100W	c.3298G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86232	 	Tumour Sample	Heterozygous	 	 	 	19	22499601	22499601
+TCGA-13-1483	1474887	p.M1008T	c.3023T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86231	 	Tumour Sample	Heterozygous	 	 	 	19	22499326	22499326

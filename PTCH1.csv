@@ -411,6 +411,39 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1467367	1467367	 	 	central_nervous_system	cerebellum	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21107850	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1467368	1467368	 	 	central_nervous_system	cerebellum	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21107850	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1467369	1467369	 	 	central_nervous_system	cerebellum	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21107850	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480937	1480937	p.M319V	c.955A>G	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	85799	Confirmed	Tumour Sample	Heterozygous	9	97282184	97282184	9	98242363	98242363
+1480938	1480938	p.?	c.1729-18delT	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	85800	Confirmed	Tumour Sample	 	9	97272052	97272052	9	98232231	98232231
+1480939	1480939	p.?	c.1729-18delT	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	85800	Confirmed	Tumour Sample	 	9	97272052	97272052	9	98232231	98232231
+1480940	1480940	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480941	1480941	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480942	1480942	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480943	1480943	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480944	1480944	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480945	1480945	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480946	1480946	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480947	1480947	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480948	1480948	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480949	1480949	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480950	1480950	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480951	1480951	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480952	1480952	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480953	1480953	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480954	1480954	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480955	1480955	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480956	1480956	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480957	1480957	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480958	1480958	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480959	1480959	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480960	1480960	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480961	1480961	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480962	1480962	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480963	1480963	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480964	1480964	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480965	1480965	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480966	1480966	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480967	1480967	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480968	1480968	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1480969	1480969	 	 	large_intestine	NS	NS	carcinoma	serrated_carcinoma	NS	21234763	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16594	1423676	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16596	1423677	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 

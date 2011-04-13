@@ -28,3 +28,7 @@ Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	gl
 Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br27P	1312984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-13-0887	1474827	p.E268*	c.802G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86859	 	Tumour Sample	Heterozygous	 	 	 	3	180377524	180377524
+TCGA-13-0906	1474903	p.K515N	c.1545A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86857	 	Tumour Sample	Heterozygous	 	 	 	3	180366022	180366022
+TCGA-24-0970	1475041	p.E740Q	c.2218G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86856	 	Tumour Sample	Heterozygous	 	 	 	3	180349289	180349289
+TCGA-24-1553	1475062	p.M318T	c.953T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86858	 	Tumour Sample	Heterozygous	 	 	 	3	180377277	180377277

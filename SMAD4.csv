@@ -172,6 +172,31 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 14089/95T	948394	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	10408907	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 142T	949244	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	8653691	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1483	948038	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	8653689	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+1492304	1492304	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492305	1492305	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492306	1492306	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492307	1492307	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492308	1492308	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492309	1492309	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492310	1492310	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492311	1492311	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492312	1492312	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492313	1492313	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492314	1492314	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492315	1492315	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492316	1492316	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492317	1492317	p.R361C	c.?	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	86023	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1492318	1492318	p.0?	c.?	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	20951698	 	86021	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1492319	1492319	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492320	1492320	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492321	1492321	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492322	1492322	p.0?	c.?	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	86021	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1492323	1492323	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492324	1492324	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	20951698	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1492325	1492325	p.0?	c.?	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	20951698	 	86021	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1492326	1492326	p.R361C	c.?	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	20951698	 	86023	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1492327	1492327	p.R361C	c.?	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	20951698	 	86023	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1492328	1492328	p.R361C	c.?	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	20951698	 	86023	Unknown	Tumour Sample	 	 	 	 	 	 	 
 14951/96T	948389	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	10408907	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 15	874559	p.?	c.1648_1659del12	large_intestine	appendix	NS	carcinoma	adenocarcinoma	NS	14647445	 	14051	Confirmed	Tumour Sample	 	18	46858824	46858853	18	48604826	48604855
 15	954956	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16082587	 	 	 	Tumour Sample	 	 	 	 	 	 	 

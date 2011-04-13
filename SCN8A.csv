@@ -1,0 +1,15 @@
+
+Gene : SCN8A
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1542	1474866	p.V764I	c.2290G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86426	 	Tumour Sample	Heterozygous	 	 	 	12	52145297	52145297
+TCGA-23-1022	1474814	p.R606Q	c.1817G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86425	 	Tumour Sample	Heterozygous	 	 	 	12	52115511	52115511
+TCGA-23-1122	1474843	p.P1739T	c.5215C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86429	 	Tumour Sample	Heterozygous	 	 	 	12	52200485	52200485
+TCGA-23-1122	1474843	p.L1845L	c.5535G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86430	 	Tumour Sample	Heterozygous	 	 	 	12	52200805	52200805
+TCGA-24-0979	1474847	p.T1888S	c.5662A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86431	 	Tumour Sample	Heterozygous	 	 	 	12	52200932	52200932
+TCGA-24-1466	1474944	p.L1495L	c.4485G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86428	 	Tumour Sample	Heterozygous	 	 	 	12	52184247	52184247
+TCGA-25-1322	1474940	p.K486R	c.1457A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86424	 	Tumour Sample	Heterozygous	 	 	 	12	52100321	52100321

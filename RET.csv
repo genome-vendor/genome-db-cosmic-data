@@ -568,6 +568,20 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1332249	1332249	p.C634R	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	20368568	 	26387	Confirmed	Tumour Sample	 	 	 	 	 	 	 
 1332250	1332250	p.M918T	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	20368568	 	26634	Confirmed	Tumour Sample	 	 	 	 	 	 	 
 1332251	1332251	p.M918T	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	20368568	 	26634	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1489936	1489936	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489937	1489937	p.C630R	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	26637	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1489938	1489938	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489939	1489939	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489940	1489940	p.C630R	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	26637	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1489941	1489941	p.V804M	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	86004	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1489942	1489942	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489943	1489943	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489944	1489944	p.M918T	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	26634	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1489945	1489945	p.C630R	c.?	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	26637	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+1489946	1489946	p.D631_I638>A	c.1892_1914>CG	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	86006	Confirmed	Tumour Sample	 	10	42929946	42929968	10	43609940	43609962
+1489947	1489947	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489948	1489948	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489949	1489949	p.C620R	c.1858T>C	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	21325462	 	29804	Confirmed	Tumour Sample	 	10	42929108	42929108	10	43609102	43609102
 16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16594	1423676	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16596	1423677	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
@@ -1068,14 +1082,14 @@ COLO-741	906815	 	 	large_intestine	colon	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sa
 COLO-792	906814	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COLO-800	906813	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COLO-824	906812	 	 	breast	NS	NS	carcinoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L105	906805	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L23	687780	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L279	910937	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L88	906808	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 COR-L96CAR	971776	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 CP67-MEL	949092	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 CPC-N	753547	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 CRO-AP2	906807	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -1363,12 +1377,12 @@ LAN-5	1099142	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	17941064	 	 	 	Cul
 LAN-6	949170	 	 	autonomic_ganglia	NS	NS	neuroblastoma	NS	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	4,30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC-1F	907785	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC-2-ad	907786	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC4-1	907787	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -1521,7 +1535,7 @@ NCI-H1694	688006	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	4	 	 	Cultur
 NCI-H1703	908474	 	 	lung	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1734	722058	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1755	908475	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34,4	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,4,34	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1792	724868	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1793	908463	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1838	687807	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	4	 	 	Cultured Sample	 	 	 	 	 	 	 

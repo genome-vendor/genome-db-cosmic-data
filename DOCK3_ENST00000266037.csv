@@ -12,3 +12,9 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 16835	1473006	p.?	c.3767-1G>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85721	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51378667	51378667
 17743	1473026	p.L610P	c.1829T>C	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85717	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51266952	51266952
 17747	1473109	p.S791Y	c.2372C>A	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	330	85719	Confirmed	Tumour Sample	Heterozygous	 	 	 	3	51308262	51308262
+TCGA-04-1343	1474875	p.T1185N	c.3554C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86417	 	Tumour Sample	Heterozygous	 	 	 	3	51370627	51370627
+TCGA-20-0990	1474872	p.R202C	c.604C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86415	 	Tumour Sample	Heterozygous	 	 	 	3	51127673	51127673
+TCGA-23-1123	1474840	p.V1944I	c.5830G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86420	 	Tumour Sample	Heterozygous	 	 	 	3	51418727	51418727
+TCGA-24-1424	1474936	p.R675*	c.2023C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86416	 	Tumour Sample	Heterozygous	 	 	 	3	51274942	51274942
+TCGA-24-1434	1474974	p.R1764Q	c.5291G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86419	 	Tumour Sample	Heterozygous	 	 	 	3	51400103	51400103
+TCGA-24-2261	1474981	p.L1698L	c.5094G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86418	 	Tumour Sample	Heterozygous	 	 	 	3	51399377	51399377

@@ -212,3 +212,5 @@ PD3208a	1090174	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tu
 PD3216a	1090149	 	 	upper_aerodigestive_tract	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD3226a	1090183	 	 	salivary_gland	NS	NS	carcinoma	NS	NS	 	264	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-13-1481	1474832	p.I128M	c.384C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	75547	Confirmed	Tumour Sample	Heterozygous	12	55393239	55393239	12	57106972	57106972
+TCGA-24-0979	1474847	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-25-2042	1474961	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 

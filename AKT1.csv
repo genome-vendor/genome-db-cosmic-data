@@ -5840,6 +5840,586 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1459206	1459206	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	follicular_variant	20564403	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1459207	1459207	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	follicular_variant	20564403	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1459208	1459208	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	follicular_variant	20564403	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478835	1478835	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478836	1478836	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478837	1478837	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478838	1478838	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478839	1478839	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478840	1478840	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478841	1478841	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478843	1478843	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478844	1478844	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478845	1478845	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478846	1478846	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478847	1478847	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478848	1478848	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478850	1478850	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478851	1478851	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478852	1478852	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478853	1478853	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478854	1478854	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478855	1478855	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478857	1478857	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478858	1478858	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478859	1478859	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478860	1478860	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478861	1478861	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478862	1478862	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478863	1478863	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478864	1478864	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478865	1478865	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478866	1478866	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478868	1478868	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478869	1478869	p.E17K	c.49G>A	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	33765	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+1478870	1478870	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478871	1478871	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478872	1478872	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478874	1478874	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478875	1478875	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478877	1478877	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478878	1478878	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478879	1478879	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478880	1478880	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478881	1478881	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478882	1478882	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478883	1478883	 	 	urinary_tract	NS	NS	carcinoma	NS	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478884	1478884	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478885	1478885	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478886	1478886	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478887	1478887	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478888	1478888	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478889	1478889	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478890	1478890	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478891	1478891	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478892	1478892	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478893	1478893	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478894	1478894	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478895	1478895	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478896	1478896	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478897	1478897	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478898	1478898	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478899	1478899	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478900	1478900	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478901	1478901	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478902	1478902	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478903	1478903	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478904	1478904	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478905	1478905	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478906	1478906	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478907	1478907	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478908	1478908	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478909	1478909	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478910	1478910	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478911	1478911	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478912	1478912	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478913	1478913	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478914	1478914	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478915	1478915	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478916	1478916	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478917	1478917	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478918	1478918	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478919	1478919	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478920	1478920	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478921	1478921	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478922	1478922	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478923	1478923	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478924	1478924	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478925	1478925	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478926	1478926	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478927	1478927	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478928	1478928	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478929	1478929	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478930	1478930	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478931	1478931	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478932	1478932	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478933	1478933	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478934	1478934	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478935	1478935	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478936	1478936	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478937	1478937	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478938	1478938	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478939	1478939	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478940	1478940	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478941	1478941	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478942	1478942	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478943	1478943	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478944	1478944	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478945	1478945	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478946	1478946	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478947	1478947	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478948	1478948	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478949	1478949	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478950	1478950	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478951	1478951	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478952	1478952	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478953	1478953	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478954	1478954	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478955	1478955	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478956	1478956	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478957	1478957	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478958	1478958	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478959	1478959	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478960	1478960	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478961	1478961	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1478962	1478962	 	 	prostate	NS	NS	carcinoma	adenocarcinoma	NS	21113138	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479690	1479690	 	 	skin	chest	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479691	1479691	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479692	1479692	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479693	1479693	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479694	1479694	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479695	1479695	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479696	1479696	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479697	1479697	 	 	skin	back	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479698	1479698	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479699	1479699	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479700	1479700	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479701	1479701	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479702	1479702	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479703	1479703	 	 	skin	upper_leg	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479704	1479704	 	 	skin	upper_leg	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479705	1479705	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479706	1479706	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479707	1479707	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479708	1479708	 	 	skin	neck	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479709	1479709	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479710	1479710	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479711	1479711	 	 	skin	neck	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479712	1479712	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479713	1479713	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479714	1479714	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479715	1479715	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479716	1479716	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479717	1479717	 	 	skin	forearm	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479718	1479718	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479719	1479719	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479720	1479720	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479721	1479721	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479722	1479722	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479723	1479723	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479724	1479724	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479725	1479725	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479726	1479726	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479727	1479727	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479728	1479728	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479729	1479729	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479730	1479730	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479731	1479731	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479732	1479732	p.E17K	c.?	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	34142	Previously Observed	Tumour Sample	 	 	 	 	 	 	 
+1479733	1479733	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479734	1479734	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479735	1479735	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479736	1479736	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479737	1479737	 	 	skin	flank	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479738	1479738	 	 	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479739	1479739	 	 	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479740	1479740	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479741	1479741	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479742	1479742	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479743	1479743	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479744	1479744	 	 	skin	flank	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479745	1479745	 	 	skin	flank	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479746	1479746	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479747	1479747	 	 	skin	chest	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479748	1479748	 	 	skin	face	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479749	1479749	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479750	1479750	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479751	1479751	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479752	1479752	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479753	1479753	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479754	1479754	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479755	1479755	 	 	skin	upper_leg	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479756	1479756	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479757	1479757	 	 	skin	upper_leg	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479758	1479758	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479759	1479759	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479760	1479760	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479761	1479761	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479762	1479762	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479763	1479763	 	 	skin	back	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479764	1479764	 	 	skin	back	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479765	1479765	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479766	1479766	 	 	skin	hip	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479767	1479767	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479768	1479768	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479769	1479769	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479770	1479770	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479771	1479771	 	 	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479772	1479772	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479773	1479773	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479774	1479774	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479775	1479775	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479776	1479776	 	 	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479777	1479777	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479778	1479778	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479779	1479779	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479780	1479780	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479781	1479781	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479782	1479782	 	 	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479783	1479783	 	 	skin	flank	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479784	1479784	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479785	1479785	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479786	1479786	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479787	1479787	 	 	skin	flank	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479788	1479788	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479789	1479789	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479790	1479790	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479791	1479791	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479792	1479792	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479793	1479793	p.E17K	c.?	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	34142	Previously Observed	Tumour Sample	 	 	 	 	 	 	 
+1479794	1479794	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479795	1479795	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479796	1479796	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479797	1479797	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479799	1479799	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479800	1479800	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479801	1479801	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479802	1479802	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479803	1479803	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479804	1479804	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479805	1479805	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479806	1479806	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479807	1479807	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479808	1479808	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479809	1479809	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479810	1479810	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479811	1479811	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479812	1479812	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479813	1479813	 	 	skin	chest	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479814	1479814	 	 	skin	chest	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479815	1479815	 	 	skin	forearm	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479816	1479816	 	 	skin	abdomen	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479817	1479817	 	 	skin	arm	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479818	1479818	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479819	1479819	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479820	1479820	 	 	skin	hip	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479821	1479821	 	 	skin	hip	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479822	1479822	 	 	skin	upper_leg	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479823	1479823	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479824	1479824	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479825	1479825	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479826	1479826	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479827	1479827	p.E17K	c.?	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	34142	Previously Observed	Tumour Sample	 	 	 	 	 	 	 
+1479828	1479828	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479829	1479829	 	 	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479830	1479830	 	 	skin	face	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479831	1479831	 	 	skin	face	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479832	1479832	 	 	skin	neck	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479833	1479833	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479834	1479834	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479835	1479835	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479836	1479836	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479837	1479837	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479838	1479838	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479839	1479839	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479840	1479840	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479841	1479841	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479842	1479842	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479843	1479843	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479844	1479844	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479845	1479845	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479846	1479846	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479847	1479847	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479848	1479848	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479849	1479849	 	 	skin	flank	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479850	1479850	 	 	skin	hip	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479851	1479851	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479852	1479852	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	adenoid	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479853	1479853	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479854	1479854	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479855	1479855	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479856	1479856	 	 	skin	shoulder	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479857	1479857	 	 	skin	back	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479858	1479858	 	 	skin	back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479859	1479859	 	 	skin	lower_back	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479860	1479860	 	 	skin	hip	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479861	1479861	 	 	skin	hip	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479862	1479862	 	 	skin	NS	NS	other	seborrhoeic_keratosis	hyperkeratotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479863	1479863	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1479864	1479864	 	 	skin	chest	NS	other	seborrhoeic_keratosis	acanthotic	21078999	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487047	1487047	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487048	1487048	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487049	1487049	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487050	1487050	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487051	1487051	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487052	1487052	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487053	1487053	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487054	1487054	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487055	1487055	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487056	1487056	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487057	1487057	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487058	1487058	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487059	1487059	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487060	1487060	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487061	1487061	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487062	1487062	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487063	1487063	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487064	1487064	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487065	1487065	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487066	1487066	 	 	Fallopian tube	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487067	1487067	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487068	1487068	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487069	1487069	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487070	1487070	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487071	1487071	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487072	1487072	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487073	1487073	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487074	1487074	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487075	1487075	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487076	1487076	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487077	1487077	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487078	1487078	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487079	1487079	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487080	1487080	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487081	1487081	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487082	1487082	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487083	1487083	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487084	1487084	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487085	1487085	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487086	1487086	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487087	1487087	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487088	1487088	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487089	1487089	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487090	1487090	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487091	1487091	 	 	endometrium	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487092	1487092	 	 	Fallopian tube	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487093	1487093	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487094	1487094	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487095	1487095	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487096	1487096	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487097	1487097	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487098	1487098	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487099	1487099	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487100	1487100	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487101	1487101	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487102	1487102	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487103	1487103	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487104	1487104	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487105	1487105	 	 	ovary	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1487106	1487106	 	 	vagina	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	21168197	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489228	1489228	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489229	1489229	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489230	1489230	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489231	1489231	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489232	1489232	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489233	1489233	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489234	1489234	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489235	1489235	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489236	1489236	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489237	1489237	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489238	1489238	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489239	1489239	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489240	1489240	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489241	1489241	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489242	1489242	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489243	1489243	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489244	1489244	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489245	1489245	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489246	1489246	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489247	1489247	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489248	1489248	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489249	1489249	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489250	1489250	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489251	1489251	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489252	1489252	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489253	1489253	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489254	1489254	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489255	1489255	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489256	1489256	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489257	1489257	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489258	1489258	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489259	1489259	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489260	1489260	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489261	1489261	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489262	1489262	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489263	1489263	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489264	1489264	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489265	1489265	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489266	1489266	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489267	1489267	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489268	1489268	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489269	1489269	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489270	1489270	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489271	1489271	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489272	1489272	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489273	1489273	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489274	1489274	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489275	1489275	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489276	1489276	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489277	1489277	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489278	1489278	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489279	1489279	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489280	1489280	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489281	1489281	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489282	1489282	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489283	1489283	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489284	1489284	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489285	1489285	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489286	1489286	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489287	1489287	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489288	1489288	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489289	1489289	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489290	1489290	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489291	1489291	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489292	1489292	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489293	1489293	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489294	1489294	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489295	1489295	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489296	1489296	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489297	1489297	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489298	1489298	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489299	1489299	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489300	1489300	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489301	1489301	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489302	1489302	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489303	1489303	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489304	1489304	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489305	1489305	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489306	1489306	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489307	1489307	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489308	1489308	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489309	1489309	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489310	1489310	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489311	1489311	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489312	1489312	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489313	1489313	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489314	1489314	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489315	1489315	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489316	1489316	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489317	1489317	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489318	1489318	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489319	1489319	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489320	1489320	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489321	1489321	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489322	1489322	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489323	1489323	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489324	1489324	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489325	1489325	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489326	1489326	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489327	1489327	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489328	1489328	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489329	1489329	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489330	1489330	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489331	1489331	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489332	1489332	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489333	1489333	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489334	1489334	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489335	1489335	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489336	1489336	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489337	1489337	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489338	1489338	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489339	1489339	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489340	1489340	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489341	1489341	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489342	1489342	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489343	1489343	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489344	1489344	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489345	1489345	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489346	1489346	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489347	1489347	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489348	1489348	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489349	1489349	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489350	1489350	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489351	1489351	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489352	1489352	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489353	1489353	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489354	1489354	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489355	1489355	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489356	1489356	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489357	1489357	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489358	1489358	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489359	1489359	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489360	1489360	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489361	1489361	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489362	1489362	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489363	1489363	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489364	1489364	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489365	1489365	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489366	1489366	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489367	1489367	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489368	1489368	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489369	1489369	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489370	1489370	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489371	1489371	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489372	1489372	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489373	1489373	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489374	1489374	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489375	1489375	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489376	1489376	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489377	1489377	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489378	1489378	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489379	1489379	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489380	1489380	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489381	1489381	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489382	1489382	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489383	1489383	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489384	1489384	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489385	1489385	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489386	1489386	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489387	1489387	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489388	1489388	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489389	1489389	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489390	1489390	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489391	1489391	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489392	1489392	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489393	1489393	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489394	1489394	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489395	1489395	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489396	1489396	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489397	1489397	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489398	1489398	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489399	1489399	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1489400	1489400	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20881644	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493214	1493214	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493215	1493215	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493216	1493216	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493217	1493217	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493218	1493218	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493219	1493219	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493220	1493220	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493221	1493221	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493222	1493222	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493223	1493223	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493224	1493224	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493225	1493225	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493226	1493226	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493227	1493227	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493228	1493228	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493229	1493229	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493230	1493230	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493232	1493232	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493233	1493233	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493234	1493234	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493235	1493235	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493236	1493236	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493237	1493237	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493238	1493238	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493240	1493240	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493241	1493241	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493242	1493242	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493243	1493243	 	 	skin	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493244	1493244	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493245	1493245	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493246	1493246	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493247	1493247	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493248	1493248	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493249	1493249	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493250	1493250	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493251	1493251	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493253	1493253	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493254	1493254	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493255	1493255	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493256	1493256	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493257	1493257	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493261	1493261	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493262	1493262	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493263	1493263	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493264	1493264	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493269	1493269	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493270	1493270	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493271	1493271	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493272	1493272	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493273	1493273	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1493274	1493274	 	 	skin	NS	NS	carcinoma	basal_cell_carcinoma	NS	20557351	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 16530	1423675	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16594	1423676	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
 16596	1423677	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18948947	 	 	 	NS	 	 	 	 	 	 	 
@@ -6058,9 +6638,9 @@ AU565	1136358	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample
 AZ-521	1187267	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 AZ-H6C	1187268	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 AsPC-1	1320465	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18783292	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 BC-3C	1286004	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	19802009	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 BC1	1280967	 	 	breast	NS	NS	carcinoma	medullary_carcinoma	NS	19706770	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 BC10	1280976	 	 	breast	NS	NS	carcinoma	NS	NS	19706770	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -6271,9 +6851,9 @@ CCK-81	1187301	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	
 COLO-201	1187302	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 COLO-205	1187303	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 COLO-320	1187304	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 CR-T-155	1187651	p.E17K	c.49G>A	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	17611497	 	33765	Confirmed	NS	Heterozygous	 	 	 	 	 	 
 CR-T-69	1187649	p.E17K	c.49G>A	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	17611497	 	33765	Confirmed	NS	Heterozygous	 	 	 	 	 	 
 CR-T-90	1187650	p.E17K	c.49G>A	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	17611497	 	33765	Confirmed	NS	Heterozygous	 	 	 	 	 	 
@@ -6286,7 +6866,7 @@ Capan-2	1320463	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18783292	 	 	 	
 Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Cultured Sample	 	 	 	 	 	 	 
 D29	1303035	 	 	NS	NS	NS	malignant_melanoma	NS	NS	19996208	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 D40	1303036	 	 	NS	NS	NS	malignant_melanoma	NS	NS	19996208	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 DLD-1	1187305	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6350,38 +6930,38 @@ H727	1239952	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	19472407	 	 	 	Cult
 H766T	1320468	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18783292	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 H82	1239935	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 H841	1239941	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 HBL-100	1136364	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1136366	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1395	749712	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1395	749712	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC15	1239908	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1500	1136374	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1569	1136354	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC193	1239872	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	1289389	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	19593635	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1954	1136367	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC202	1136360	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2185	1136368	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC3153	1136375	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC33	1239927	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC366	1239916	 	 	lung	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC38	1136365	 	 	breast	NS	NS	carcinoma	NS	NS	18676830	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC44	1239870	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6425,7 +7005,7 @@ HuH-7	1187330	 	 	liver	NS	NS	carcinoma	NS	NS	19132987	 	 	 	Cultured Sample
 II-18	1239901	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Im95	1187278	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Ishikawa-H-12	1223489	 	 	endometrium	NS	NS	carcinoma	endometrioid_carcinoma	NS	19491896	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 J82	1285996	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	19802009	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 JHH-1	1187334	 	 	liver	NS	NS	carcinoma	NS	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 JHH-4	1187335	 	 	liver	NS	NS	carcinoma	NS	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6441,18 +7021,18 @@ KTC-1	1239967	 	 	thyroid	NS	NS	carcinoma	papillary_carcinoma	NS	19487299	 	 	 	
 KTC-2	1239964	 	 	thyroid	NS	NS	carcinoma	anaplastic_carcinoma	NS	19487299	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 KU-19-19	1286001	p.E17K	c.49G>A	urinary_tract	bladder	NS	carcinoma	NS	NS	19802009	 	33765	Previously Observed	Cultured Sample	Heterozygous	 	 	 	 	 	 
 KU-19-19	1286001	p.E49K	c.145G>A	urinary_tract	bladder	NS	carcinoma	NS	NS	19802009	 	36918	Unknown	Cultured Sample	Heterozygous	14	104317500	104317500	14	105246455	105246455
-LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 LC1-Sq	1239906	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 LK-2	1239907	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 LOX-IMVI	1303039	 	 	NS	NS	NS	malignant_melanoma	NS	NS	19996208	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-123	1187309	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-180	1187311	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 LUCC1	1286008	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	19802009	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6531,8 +7111,8 @@ MUGC-2	1187287	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cult
 MUGC-3	1187288	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 MUGC-4	1187289	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	19132987	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ-CRC-1	1239956	 	 	thyroid	NS	NS	carcinoma	medullary_carcinoma	NS	19487299	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 Ma1	1239874	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Ma10	1239875	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Ma12	1239876	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6554,18 +7134,18 @@ Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959
 N230	1212190	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	19394761	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 N417	1212191	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	19394761	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 N417	1239933	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2009	1188589	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18256540	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	30,34	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	34,22	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	34,30	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H226	1188585	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	18256540	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H23	1188590	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	18256540	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H292	1188584	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	18256540	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -6586,172 +7166,172 @@ PC14	1239897	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured 
 PC3	1239894	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 PC7	1239895	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 PC9	1239896	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	19472407	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-PD0025a	749718	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0062a	749719	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0091a	749720	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0118a	749721	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0119a	749722	 	 	breast	NS	NS	carcinoma	lobular_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0127a	749723	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0128a	749724	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0248a	753266	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0250a	753268	 	 	lung	NS	NS	carcinoid-endocrine_tumour	atypical	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0251a	753269	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0252a	753270	 	 	lung	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0253a	753271	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0263a	753280	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0269a	753286	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0276a	753291	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0876a	753340	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0877a	753341	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0878a	753342	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0879a	753343	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0880a	753344	 	 	ovary	NS	NS	carcinoma	mucinous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0881a	753345	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0882a	753346	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0883a	753083	 	 	ovary	NS	NS	carcinoma	endometrioid_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0884a	753347	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0885a	753348	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0886a	753349	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0887a	753350	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0888a	749760	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0889a	753351	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0890a	753352	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0891a	753353	 	 	ovary	NS	NS	carcinoma	NS	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0892a	753354	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0894a	753084	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0895a	753355	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0896a	753356	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0898a	753357	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0899a	753086	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0900a	753087	 	 	ovary	NS	NS	carcinoma	endometrioid_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0901a	753358	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0902a	753359	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD0903a	753360	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	32,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1232a	749726	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	mucinous	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1233a	749727	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1234a	749728	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1235a	749729	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1236a	749730	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1237a	749731	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1238a	749732	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1239a	749733	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1240a	749734	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1241a	749735	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	21,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1339a	753368	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1345a	753374	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1351a	753380	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1352a	753381	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1353a	749753	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	22,34	 	 	NS	 	 	 	 	 	 	 
-PD1354a	753382	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1355a	753383	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1356a	753384	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1359a	753387	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1360a	753388	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1362a	753390	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1364a	753392	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1365a	753393	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1367a	753395	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1370a	753398	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1373a	753401	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1379a	753407	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	22,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1381a	753409	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1382a	753410	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1383a	753411	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1384a	753412	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1385a	753413	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1386a	753414	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1388a	753416	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1389a	753088	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1391a	753089	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1392a	753090	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1394a	753092	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1395a	753093	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1396a	753094	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	23,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1397a	898139	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1398a	898141	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1399a	898143	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1400a	898149	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1401a	898151	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1402a	898153	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1403a	898155	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1404a	898157	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1405a	898159	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1406a	898161	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1474a	898163	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1475a	898165	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1476a	898167	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1477a	898169	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1478a	898171	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1479a	898173	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1480a	898175	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1481a	898179	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1482a	898181	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1483a	898183	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	8,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1487a	749758	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1489a	753417	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1493a	753418	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1494a	753419	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1505a	753420	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1506a	753421	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1507a	753422	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1508a	753423	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1509a	753424	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1510a	753425	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1511a	753426	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1512a	753427	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1513a	753428	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1514a	753429	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1515a	753430	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1516a	753431	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1517a	753432	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1518a	753433	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1519a	753434	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1520a	753435	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1521a	753436	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1522a	753437	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1523a	753438	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1524a	753439	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1525a	753440	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1526a	753441	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1527a	753442	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1528a	753443	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1529a	753444	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1530a	753445	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1531a	753446	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1532a	753447	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1533a	753448	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1534a	753449	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	28,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1536a	753450	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1537a	753451	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1538a	753452	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1540a	753454	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	7,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1541a	753114	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1542a	753115	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1544a	753117	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1545a	753118	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1546a	753119	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1547a	753120	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1548a	753121	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1549a	753122	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	31,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1550a	753127	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1551a	753128	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1552a	753129	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1553a	753130	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1554a	753124	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1555a	753125	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1556a	753126	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1557a	753142	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1558a	753131	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1559a	753132	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1560a	753133	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1561a	753123	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1562a	753134	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1563a	753135	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1564a	753136	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1565a	753141	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1567a	753137	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1568a	753138	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1569a	753139	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	29,34	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0025a	749718	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0062a	749719	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0091a	749720	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0118a	749721	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0119a	749722	 	 	breast	NS	NS	carcinoma	lobular_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0127a	749723	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0128a	749724	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0248a	753266	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0250a	753268	 	 	lung	NS	NS	carcinoid-endocrine_tumour	atypical	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0251a	753269	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0252a	753270	 	 	lung	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0253a	753271	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0263a	753280	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0269a	753286	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0276a	753291	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0876a	753340	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0877a	753341	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0878a	753342	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0879a	753343	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0880a	753344	 	 	ovary	NS	NS	carcinoma	mucinous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0881a	753345	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0882a	753346	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0883a	753083	 	 	ovary	NS	NS	carcinoma	endometrioid_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0884a	753347	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0885a	753348	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0886a	753349	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0887a	753350	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0888a	749760	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0889a	753351	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0890a	753352	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0891a	753353	 	 	ovary	NS	NS	carcinoma	NS	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0892a	753354	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0894a	753084	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0895a	753355	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0896a	753356	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0898a	753357	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0899a	753086	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0900a	753087	 	 	ovary	NS	NS	carcinoma	endometrioid_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0901a	753358	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0902a	753359	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD0903a	753360	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	34,32	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1232a	749726	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	mucinous	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1233a	749727	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1234a	749728	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1235a	749729	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1236a	749730	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1237a	749731	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1238a	749732	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1239a	749733	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1240a	749734	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1241a	749735	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	15908952,15908952	34,21	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1339a	753368	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1345a	753374	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1351a	753380	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1352a	753381	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1353a	749753	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	16140923,16140923	34,22	 	 	NS	 	 	 	 	 	 	 
+PD1354a	753382	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1355a	753383	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1356a	753384	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1359a	753387	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1360a	753388	 	 	lung	NS	NS	carcinoid-endocrine_tumour	NS	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1362a	753390	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1364a	753392	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1365a	753393	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1367a	753395	 	 	lung	NS	NS	carcinoma	large_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1370a	753398	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1373a	753401	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1379a	753407	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	16140923,16140923	34,22	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1381a	753409	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1382a	753410	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1383a	753411	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1384a	753412	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1385a	753413	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1386a	753414	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1388a	753416	 	 	testis	NS	NS	germ_cell_tumour	germinoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1389a	753088	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1391a	753089	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1392a	753090	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1394a	753092	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1395a	753093	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1396a	753094	 	 	testis	NS	NS	germ_cell_tumour	non_seminoma	NS	16175573,16175573	34,23	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1397a	898139	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1398a	898141	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1399a	898143	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1400a	898149	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1401a	898151	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1402a	898153	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1403a	898155	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1404a	898157	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1405a	898159	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1406a	898161	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1474a	898163	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1475a	898165	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1476a	898167	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1477a	898169	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1478a	898171	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1479a	898173	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1480a	898175	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1481a	898179	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1482a	898181	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1483a	898183	 	 	stomach	NS	NS	carcinoma	adenocarcinoma	NS	 	34,8	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1487a	749758	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1489a	753417	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1493a	753418	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1494a	753419	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1505a	753420	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1506a	753421	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1507a	753422	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1508a	753423	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1509a	753424	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1510a	753425	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1511a	753426	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1512a	753427	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1513a	753428	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1514a	753429	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1515a	753430	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1516a	753431	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1517a	753432	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1518a	753433	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1519a	753434	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1520a	753435	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1521a	753436	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1522a	753437	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1523a	753438	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1524a	753439	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1525a	753440	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1526a	753441	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1527a	753442	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1528a	753443	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1529a	753444	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1530a	753445	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1531a	753446	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1532a	753447	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1533a	753448	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1534a	753449	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	34,28	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1536a	753450	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1537a	753451	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1538a	753452	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1540a	753454	 	 	central_nervous_system	brain	NS	glioma	NS	NS	16618716,16618716	34,7	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1541a	753114	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1542a	753115	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1544a	753117	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1545a	753118	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1546a	753119	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1547a	753120	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1548a	753121	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1549a	753122	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_leukaemia	NS	 	34,31	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1550a	753127	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1551a	753128	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1552a	753129	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1553a	753130	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1554a	753124	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1555a	753125	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1556a	753126	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1557a	753142	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1558a	753131	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1559a	753132	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1560a	753133	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1561a	753123	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1562a	753134	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1563a	753135	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1564a	753136	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1565a	753141	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1567a	753137	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1568a	753138	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1569a	753139	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	 	34,29	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1578a	753463	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1580a	753465	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1582a	753467	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	33,34	 	 	Tumour Sample	 	 	 	 	 	 	 

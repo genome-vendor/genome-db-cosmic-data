@@ -1,0 +1,12 @@
+
+Gene : MYO18A_ENST00000527372
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1338	1474824	p.D1722E	c.5166C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86256	 	Tumour Sample	Heterozygous	 	 	 	17	27419382	27419382
+TCGA-04-1361	1474877	p.E1749Q	c.5245G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86255	 	Tumour Sample	Heterozygous	 	 	 	17	27417887	27417887
+TCGA-23-1021	1474841	p.R466Q	c.1397G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86258	 	Tumour Sample	Homozygous	 	 	 	17	27448204	27448204
+TCGA-24-1552	1474998	p.R1065P	c.3194G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86257	 	Tumour Sample	Heterozygous	 	 	 	17	27437013	27437013

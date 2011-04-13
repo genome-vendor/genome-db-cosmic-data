@@ -1,0 +1,10 @@
+
+Gene : KY
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-10-0930	1474817	p.R479C	c.1435C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86754	 	Tumour Sample	Heterozygous	 	 	 	3	134322972	134322972
+TCGA-59-2354	1474922	p.D169D	c.507C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86755	 	Tumour Sample	Heterozygous	 	 	 	3	134339676	134339676

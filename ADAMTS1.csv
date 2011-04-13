@@ -131,7 +131,7 @@ NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	53	 	 	C
 NCI-H2009	724873	p.L168L	c.504C>A	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	53	22809	Confirmed	Cultured Sample	Homozygous	21	27138641	27138641	21	28216770	28216770
 NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	53	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	53	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H209	688013	p.C714F	c.2141G>T	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20016488	312,53	22812	Confirmed	Cultured Sample	Heterozygous	21	27132692	27132692	21	28210821	28210821
+NCI-H209	688013	p.C714F	c.2141G>T	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20016488	53,312	22812	Confirmed	Cultured Sample	Heterozygous	21	27132692	27132692	21	28210821	28210821
 NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	53	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	53	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	53	 	 	Cultured Sample	 	 	 	 	 	 	 

@@ -1,0 +1,14 @@
+
+Gene : LATS1_ENST00000253339
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1331	1474885	p.R1020T	c.3059G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86790	 	Tumour Sample	Heterozygous	 	 	 	6	149983199	149983199
+TCGA-13-0714	1474912	p.P1028T	c.3082C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86789	 	Tumour Sample	Heterozygous	 	 	 	6	149983176	149983176
+TCGA-13-1483	1474887	p.P506R	c.1517C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86795	 	Tumour Sample	Heterozygous	 	 	 	6	150004708	150004708
+TCGA-13-1489	1474895	p.K662K	c.1986A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86794	 	Tumour Sample	Homozygous	 	 	 	6	150004239	150004239
+TCGA-24-1419	1475026	p.A748T	c.2242G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86792	 	Tumour Sample	Heterozygous	 	 	 	6	150001362	150001362
+TCGA-24-1603	1475042	p.R694C	c.2080C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86793	 	Tumour Sample	Heterozygous	 	 	 	6	150001524	150001524

@@ -1,0 +1,13 @@
+
+Gene : ZNF208
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-1411	1474913	p.E254D	c.762G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86230	 	Tumour Sample	Heterozygous	 	 	 	19	22157074	22157074
+TCGA-24-1549	1474964	p.C819C	c.2457T>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86227	 	Tumour Sample	Heterozygous	 	 	 	19	22155079	22155079
+TCGA-24-1552	1474998	p.K520N	c.1560G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86228	 	Tumour Sample	Heterozygous	 	 	 	19	22155976	22155976
+TCGA-25-2392	1474848	p.E513D	c.1539A>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86229	 	Tumour Sample	Heterozygous	 	 	 	19	22155997	22155997
+TCGA-61-2012	1474845	p.K1004N	c.3012G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86226	 	Tumour Sample	Heterozygous	 	 	 	19	22154440	22154440

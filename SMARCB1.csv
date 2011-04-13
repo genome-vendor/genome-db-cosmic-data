@@ -386,6 +386,7 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1467733	1467733	 	 	soft_tissue	striated_muscle	kidney	rhabdoid_tumour	NS	NS	21061303	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1467734	1467734	p.?del	c.?_?del?	soft_tissue	striated_muscle	kidney	rhabdoid_tumour	NS	NS	21061303	 	1083	Previously Observed	Tumour Sample	Homozygous	 	 	 	 	 	 
 1468872	1468872	 	 	central_nervous_system	posterior_fossa	NS	atypical_teratoid-rhabdoid_tumour	NS	NS	21127945	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1474236	1474236	 	 	central_nervous_system	temporal_lobe	NS	glioma	rhabdoid_glioblastoma	NS	21213124	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1783	802250	 	 	soft_tissue	striated_muscle	kidney	rhabdoid_tumour	NS	NS	9671307	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 2004	802248	p.?	c.?	soft_tissue	striated_muscle	kidney	rhabdoid_tumour	NS	NS	9671307	 	1108	Confirmed	Cultured Sample	 	 	 	 	 	 	 
 769-P	801355	 	 	kidney	NS	NS	carcinoma	NS	NS	12213194	 	 	 	Cultured Sample	 	 	 	 	 	 	 

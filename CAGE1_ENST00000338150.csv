@@ -1,0 +1,10 @@
+
+Gene : CAGE1_ENST00000338150
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-10-0930	1474817	p.V435L	c.1303G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86130	 	Tumour Sample	Heterozygous	 	 	 	6	7373749	7373749
+TCGA-24-2024	1474857	p.Q456*	c.1366C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86129	 	Tumour Sample	Heterozygous	 	 	 	6	7373686	7373686

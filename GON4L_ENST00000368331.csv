@@ -1,0 +1,10 @@
+
+Gene : GON4L_ENST00000368331
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-10-0930	1474817	p.L1808L	c.5424G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86814	 	Tumour Sample	Heterozygous	 	 	 	1	155726842	155726842
+TCGA-25-2399	1474990	p.I1832I	c.5496C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86813	 	Tumour Sample	Heterozygous	 	 	 	1	155726770	155726770

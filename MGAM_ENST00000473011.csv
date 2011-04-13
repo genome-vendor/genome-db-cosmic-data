@@ -6,5 +6,9 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-13-0795	1474864	p.R1285R	c.3853C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86777	 	Tumour Sample	Heterozygous	 	 	 	7	141759305	141759305
+TCGA-13-1489	1474895	p.E883G	c.2648A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86776	 	Tumour Sample	Heterozygous	 	 	 	7	141750507	141750507
+TCGA-20-0990	1474872	p.P1492T	c.4474C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86778	 	Tumour Sample	Heterozygous	 	 	 	7	141764312	141764312
+TCGA-24-1423	1474907	p.Q520L	c.1559A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86775	 	Tumour Sample	Heterozygous	 	 	 	7	141731568	141731568
 TCGA-24-1604	1474927	p.V263M	c.787G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	78085	Confirmed	Tumour Sample	Heterozygous	7	141368613	141368613	7	141722144	141722144
 TCGA-25-1313	1474833	p.K281R	c.842A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	71635	Confirmed	Tumour Sample	Heterozygous	7	141368668	141368668	7	141722199	141722199

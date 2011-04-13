@@ -1,0 +1,12 @@
+
+Gene : PLXNA4_ENST00000321063
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+TCGA-04-1362	1474862	p.E1568*	c.4702G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86745	 	Tumour Sample	Heterozygous	 	 	 	7	131833364	131833364
+TCGA-13-0730	1475025	p.M1380I	c.4140G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86746	 	Tumour Sample	Heterozygous	 	 	 	7	131853209	131853209
+TCGA-13-1404	1474896	p.G1666E	c.4997G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86744	 	Tumour Sample	Heterozygous	 	 	 	7	131831327	131831327
+TCGA-61-2012	1474845	p.T1777I	c.5330C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86743	 	Tumour Sample	Heterozygous	 	 	 	7	131825466	131825466
