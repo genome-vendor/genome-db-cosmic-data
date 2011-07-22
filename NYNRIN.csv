@@ -7,5 +7,5 @@ Histology subtype 1 : None Selected
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
 Br27P	1473023	p.W1128*	c.3384G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	 	326	54396	Confirmed	Tumour Sample	Heterozygous	 	 	 	14	24884339	24884339
-TCGA-10-0928	1474970	p.F739C	c.2216T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86242	 	Tumour Sample	Heterozygous	 	 	 	14	24879216	24879216
-TCGA-10-0935	1474926	p.P277L	c.830C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86241	 	Tumour Sample	Heterozygous	 	 	 	14	24877706	24877706
+TCGA-10-0928	1474970	p.F739C	c.2216T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86263	Confirmed	Tumour Sample	Heterozygous	 	 	 	14	24879216	24879216
+TCGA-10-0935	1474926	p.P277L	c.830C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86262	Confirmed	Tumour Sample	Heterozygous	 	 	 	14	24877706	24877706

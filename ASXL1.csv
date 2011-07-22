@@ -751,6 +751,209 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1470813	1470813	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20693432	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1470814	1470814	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	20693432	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 15	1434823	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	20410925	 	34210	Previously Observed	Tumour Sample	 	20	30486110	30486111	20	31022449	31022450
+1522312	1522312	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	polycythaemia_vera	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522313	1522313	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	polycythaemia_vera	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522314	1522314	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522315	1522315	p.G646fs?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	post-thrombocythaemic-polycythaemic	21537334	 	96347	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1522316	1522316	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelofibrosis	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522317	1522317	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522318	1522318	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522319	1522319	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522320	1522320	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522321	1522321	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	21537334	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522427	1522427	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522428	1522428	p.A640_S664>PCSGG	c.1917_1990>CCCCTGCAGTGGTG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	96379	Unknown	Tumour Sample	Heterozygous	20	30486093	30486166	20	31022432	31022505
+1522429	1522429	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522430	1522430	p.Q803*	c.2407C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	96380	Unknown	Tumour Sample	Heterozygous	20	30486583	30486583	20	31022922	31022922
+1522431	1522431	p.Q592fs*5	c.1776_1840del65	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	96519	Unknown	Tumour Sample	Heterozygous	20	30485952	30486016	20	31022291	31022355
+1522432	1522432	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522433	1522433	p.R786K	c.2357G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	96381	Unknown	Tumour Sample	Heterozygous	20	30486533	30486533	20	31022872	31022872
+1522434	1522434	p.A627fs*7	c.1873_1874delCG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	96382	Unknown	Tumour Sample	Heterozygous	20	30486049	30486050	20	31022388	31022389
+1522435	1522435	p.E635fs*15	c.1900_1922del23	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	36165	Previously Observed	Tumour Sample	Heterozygous	20	30486076	30486098	20	31022415	31022437
+1522436	1522436	p.N986S	c.2957A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	96383	Unknown	Tumour Sample	Heterozygous	20	30487133	30487133	20	31023472	31023472
+1522437	1522437	p.M1050V	c.3148A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	96384	Unknown	Tumour Sample	Heterozygous	20	30487324	30487324	20	31023663	31023663
+1522438	1522438	p.Q778fs*10	c.2331_2332insGGAG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	96385	Unknown	Tumour Sample	Heterozygous	20	30486507	30486508	20	31022846	31022847
+1522439	1522439	p.G660del	c.1978_1980delGGC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	96386	Unknown	Tumour Sample	Heterozygous	20	30486154	30486156	20	31022493	31022495
+1522440	1522440	p.T639_P647>PPSDGS	c.1915_1941>CCCCCCTCCGATGGCAGT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	96387	Unknown	Tumour Sample	Heterozygous	20	30486091	30486117	20	31022430	31022456
+1522441	1522441	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522442	1522442	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522443	1522443	p.R693*	c.2077C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	51388	Previously Observed	Tumour Sample	Heterozygous	20	30486253	30486253	20	31022592	31022592
+1522444	1522444	p.A716fs*9	c.2147_2147delC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	96388	Unknown	Tumour Sample	Heterozygous	20	30486323	30486323	20	31022662	31022662
+1522445	1522445	p.P808fs*10	c.2423delC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	36167	Unknown	Tumour Sample	Heterozygous	20	30486599	30486599	20	31022938	31022938
+1522446	1522446	p.R786G	c.2356A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	96389	Unknown	Tumour Sample	Heterozygous	20	30486532	30486532	20	31022871	31022871
+1522447	1522447	p.T639fs*19	c.1915_1932>CCCCCCCTCCGATGGCAGT	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	96390	Unknown	Tumour Sample	Heterozygous	20	30486091	30486108	20	31022430	31022447
+1522448	1522448	p.A752fs*22	c.2254_2255insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	96391	Unknown	Tumour Sample	Heterozygous	20	30486430	30486431	20	31022769	31022770
+1522449	1522449	p.Q592*	c.1774C>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	96400	Unknown	Tumour Sample	Heterozygous	20	30485950	30485950	20	31022289	31022289
+1522450	1522450	p.E1102D	c.3306G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	36205	Unknown	Tumour Sample	Heterozygous	20	30487482	30487482	20	31023821	31023821
+1522451	1522451	p.T639_G659>PPWD	c.1915_1978>CCCCCCTCCGATC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	96392	Unknown	Tumour Sample	Heterozygous	20	30486091	30486154	20	31022430	31022493
+1522452	1522452	p.Q695fs*22	c.2083_2084delCA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	96401	Unknown	Tumour Sample	Heterozygous	20	30486259	30486260	20	31022598	31022599
+1522453	1522453	p.E1102D	c.3306G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	36205	Unknown	Tumour Sample	Heterozygous	20	30487482	30487482	20	31023821	31023821
+1522454	1522454	p.E1102D	c.3306G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	36205	Unknown	Tumour Sample	Heterozygous	20	30487482	30487482	20	31023821	31023821
+1522455	1522455	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522456	1522456	p.A809fs*13	c.2423_2424insC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	96348	Unknown	Tumour Sample	Heterozygous	20	30486599	30486600	20	31022938	31022939
+1522457	1522457	p.G659D	c.1976G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	96393	Unknown	Tumour Sample	Heterozygous	20	30486152	30486152	20	31022491	31022491
+1522458	1522458	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522459	1522459	p.K618fs*1	c.1850_1851insA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	96394	Unknown	Tumour Sample	Heterozygous	20	30486026	30486027	20	31022365	31022366
+1522460	1522460	p.E1102D	c.3306G>T	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	36205	Unknown	Tumour Sample	Heterozygous	20	30487482	30487482	20	31023821	31023821
+1522461	1522461	p.N842fs*2	c.2525_2525delA	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	96395	Unknown	Tumour Sample	Heterozygous	20	30486701	30486701	20	31023040	31023040
+1522462	1522462	p.S664fs*39	c.1992_1992delC	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	96396	Unknown	Tumour Sample	Heterozygous	20	30486168	30486168	20	31022507	31022507
+1522463	1522463	p.E635fs*15	c.1900_1922del23	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	36165	Previously Observed	Tumour Sample	Heterozygous	20	30486076	30486098	20	31022415	31022437
+1522464	1522464	p.A627fs*7	c.1873_1874delCG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	96382	Unknown	Tumour Sample	Heterozygous	20	30486049	30486050	20	31022388	31022389
+1522465	1522465	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522466	1522466	p.G646fs*12	c.1934_1935insG	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	34210	Previously Observed	Tumour Sample	Heterozygous	20	30486110	30486111	20	31022449	31022450
+1522467	1522467	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522468	1522468	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522469	1522469	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522470	1522470	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522471	1522471	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522472	1522472	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522473	1522473	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522474	1522474	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522475	1522475	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522476	1522476	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522477	1522477	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522478	1522478	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522479	1522479	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522480	1522480	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522481	1522481	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522482	1522482	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522483	1522483	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522484	1522484	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522485	1522485	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522486	1522486	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522487	1522487	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522488	1522488	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522489	1522489	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522490	1522490	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522491	1522491	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522492	1522492	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522493	1522493	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522494	1522494	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522495	1522495	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522496	1522496	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522497	1522497	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522498	1522498	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522499	1522499	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522500	1522500	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522501	1522501	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522502	1522502	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522503	1522503	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522504	1522504	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522505	1522505	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522506	1522506	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522507	1522507	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522508	1522508	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522509	1522509	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522510	1522510	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522511	1522511	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522512	1522512	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522513	1522513	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522514	1522514	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522515	1522515	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522516	1522516	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522517	1522517	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522518	1522518	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522519	1522519	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522520	1522520	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522521	1522521	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522522	1522522	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522523	1522523	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522524	1522524	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522525	1522525	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522526	1522526	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522527	1522527	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	5q-myelodysplastic_syndrome	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522528	1522528	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522529	1522529	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522530	1522530	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522531	1522531	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522532	1522532	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522533	1522533	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522534	1522534	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522535	1522535	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522536	1522536	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522537	1522537	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522538	1522538	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522539	1522539	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522540	1522540	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522541	1522541	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522542	1522542	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522543	1522543	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522544	1522544	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522545	1522545	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522546	1522546	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522547	1522547	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522548	1522548	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522549	1522549	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522550	1522550	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_cytopenia_with_multilinear_dysplasia	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522551	1522551	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522552	1522552	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522553	1522553	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522554	1522554	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522555	1522555	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522556	1522556	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522557	1522557	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522558	1522558	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522559	1522559	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522560	1522560	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522561	1522561	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522562	1522562	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522563	1522563	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522564	1522564	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522565	1522565	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522566	1522566	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522567	1522567	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522568	1522568	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522569	1522569	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522570	1522570	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522571	1522571	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522572	1522572	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522573	1522573	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522574	1522574	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522575	1522575	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522576	1522576	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522577	1522577	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522578	1522578	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522579	1522579	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522580	1522580	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522581	1522581	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522582	1522582	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522583	1522583	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522584	1522584	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522585	1522585	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522586	1522586	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522587	1522587	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522588	1522588	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522589	1522589	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522590	1522590	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_excess_blasts	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522591	1522591	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522592	1522592	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522593	1522593	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522594	1522594	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522595	1522595	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522596	1522596	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522597	1522597	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522598	1522598	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522599	1522599	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522600	1522600	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522601	1522601	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522602	1522602	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522603	1522603	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522604	1522604	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522605	1522605	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522606	1522606	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522607	1522607	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522608	1522608	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522609	1522609	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522610	1522610	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522611	1522611	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522612	1522612	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522613	1522613	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522614	1522614	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522615	1522615	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522616	1522616	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522617	1522617	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522618	1522618	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1522619	1522619	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	21576631	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 16	1434824	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	20410925	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 17	1434825	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	20410925	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 18	1434826	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	20410925	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -1053,6 +1256,28 @@ LIM-2550	1486140	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	
 LIM-2551	1486141	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-174T	1486134	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	85923	Unknown	Cultured Sample	Heterozygous	20	30486110	30486110	20	31022449	31022449
 LoVo	1486133	p.G645fs*58	c.1934_1934delG	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	85923	Unknown	Cultured Sample	Heterozygous	20	30486110	30486110	20	31022449	31022449
+MB101X	1512935	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB104X	1512936	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB105X	1512937	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB106X	1512938	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB108C	1512939	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB109PT	1512940	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB111PT	1512941	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB113PT	1512942	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB115PT	1512943	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB117PT	1512944	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	desmoplastic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB118PT	1512945	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB119PT	1512946	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB120PT	1512947	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB121PT	1512948	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB122PT	1512949	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB123PT	1512950	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB124PT	1512951	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB125PT	1512952	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB126PT	1512953	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB128PT	1512954	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB129PT	1512955	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB130PT	1512956	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
 Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -1061,6 +1286,30 @@ Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	
 Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa01C	1509848	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa02C	1509849	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa03C	1509850	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa04C	1509851	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa05X	1509852	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa07C	1509853	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa08C	1509854	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa09C	1509855	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa10X	1509856	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa11X	1509857	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa14C	1509858	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa16C	1509859	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa18C	1509860	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa20C	1509861	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa21C	1509862	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa28C	1509863	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa29C	1509864	 	 	biliary_tract	bile_duct	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa34X	1509865	 	 	biliary_tract	bile_duct	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa36X	1509866	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa37X	1509867	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa38X	1509868	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa39X	1509869	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa41X	1509870	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa43X	1509871	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
 SW480	1486130	 	 	large_intestine	colon	NS	carcinoma	adenocarcinoma	NS	21209843	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 TCGA-02-0001	1287205	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0003	1287206	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 

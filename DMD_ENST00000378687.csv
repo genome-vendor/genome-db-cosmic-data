@@ -9,15 +9,37 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 BB32T	1473031	p.E1214Q	c.3640G>C	breast	NS	NS	carcinoma	NS	NS	 	324	53563	Confirmed	Tumour Sample	Heterozygous	 	 	 	23	32466704	32466704
 Co79	1473076	p.A2159V	c.6476C>T	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	 	325	53765	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	31986579	31986579
 HCC1395	1473080	p.R1465H	c.4394G>A	breast	NS	NS	carcinoma	NS	NS	 	324	53562	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	32407727	32407727
+MB101X	1512935	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB104X	1512936	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB105X	1512937	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB106X	1512938	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB108C	1512939	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB109PT	1512940	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB111PT	1512941	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB113PT	1512942	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB115PT	1512943	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB117PT	1512944	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	desmoplastic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB118PT	1512945	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB119PT	1512946	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB120PT	1512947	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB121PT	1512948	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB122PT	1512949	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB123PT	1512950	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB124PT	1512951	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB125PT	1512952	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB126PT	1512953	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB128PT	1512954	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB129PT	1512955	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB130PT	1512956	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
 Mx41	1473029	p.L329F	c.987G>T	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	 	325	53766	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	32663228	32663228
 Pa14C	1473126	p.S3236C	c.9707C>G	pancreas	NS	NS	NS	NS	NS	 	327	85209	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	31222163	31222163
 Pa38X	1473060	p.R3561C	c.10681C>T	pancreas	NS	NS	NS	NS	NS	 	327	85207	Confirmed	Cultured Sample	Heterozygous	 	 	 	23	31165493	31165493
 TCGA-04-1365	1475079	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	 	 	Tumour Sample	 	 	 	 	 	 	 
-TCGA-04-1542	1474866	p.T632T	c.1896C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86286	 	Tumour Sample	Homozygous	 	 	 	23	32583900	32583900
-TCGA-10-0930	1474817	p.G1769*	c.5305G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86282	 	Tumour Sample	Heterozygous	 	 	 	23	32380910	32380910
-TCGA-13-0800	1474916	p.D337N	c.1009G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86288	 	Tumour Sample	Heterozygous	 	 	 	23	32663206	32663206
-TCGA-13-1497	1474820	p.Q1692H	c.5076G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86283	 	Tumour Sample	Heterozygous	 	 	 	23	32382762	32382762
-TCGA-24-1464	1474905	p.E606E	c.1818A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86287	 	Tumour Sample	Heterozygous	 	 	 	23	32583978	32583978
+TCGA-04-1542	1474866	p.T632T	c.1896C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86307	Confirmed	Tumour Sample	Homozygous	 	 	 	23	32583900	32583900
+TCGA-10-0930	1474817	p.G1769*	c.5305G>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86303	Confirmed	Tumour Sample	Heterozygous	 	 	 	23	32380910	32380910
+TCGA-13-0800	1474916	p.D337N	c.1009G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86309	Confirmed	Tumour Sample	Heterozygous	 	 	 	23	32663206	32663206
+TCGA-13-1497	1474820	p.Q1692H	c.5076G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86304	Confirmed	Tumour Sample	Heterozygous	 	 	 	23	32382762	32382762
+TCGA-24-1464	1474905	p.E606E	c.1818A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86308	Confirmed	Tumour Sample	Heterozygous	 	 	 	23	32583978	32583978
 TCGA-24-2030	1474934	p.P3548P	c.10644C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79745	Confirmed	Tumour Sample	Heterozygous	23	31075451	31075451	23	31165530	31165530
 TCGA-24-2267	1474837	p.L3559I	c.10675C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	70466	Confirmed	Tumour Sample	Heterozygous	23	31075420	31075420	23	31165499	31165499
 TCGA-25-1627	1475044	p.E2862E	c.8586G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	82105	Confirmed	Tumour Sample	Heterozygous	23	31407088	31407088	23	31497167	31497167

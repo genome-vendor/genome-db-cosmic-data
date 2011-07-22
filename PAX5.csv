@@ -6,6 +6,1081 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+100615	1520631	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100627	1520646	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100635	1520670	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100641	1520659	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100695	1520744	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100701	1520621	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100745	1520732	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100769	1520736	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100825	1520729	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100831	1520652	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100843	1520699	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100861	1520667	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100879	1520617	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100912	1520679	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100924	1520693	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100942	1520700	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+100960	1520632	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101047	1520446	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101055	1520465	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101063	1520530	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101119	1520636	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101125	1520660	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101195	1520738	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101207	1520725	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101225	1520655	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101286	1520623	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101359	1520649	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101384	1520650	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101692	1520692	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+101704	1520633	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+102004	1520681	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+102010	1520724	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+102022	1520734	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103044	1520663	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103445	1520490	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103446	1520596	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103447	1520492	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103448	1520566	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103450	1520559	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103451	1520529	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103452	1520493	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103477	1520640	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103497	1520691	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103515	1520710	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103591	1520639	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103595	1520712	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103639	1520742	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103645	1520661	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103786	1520456	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103788	1520449	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103796	1520597	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103800	1520584	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103802	1520607	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103808	1520512	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103812	1520513	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103826	1520496	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103828	1520502	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103834	1520535	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103842	1520550	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103844	1520600	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103848	1520521	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103850	1520536	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103852	1520579	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103862	1520537	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103872	1520505	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103930	1520522	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103937	1520451	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103940	1520569	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103941	1520498	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103943	1520469	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103947	1520563	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103955	1520470	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103959	1520506	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103977	1520471	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103978	1520472	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+103979	1520538	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104022	1520768	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104055	1520571	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104065	1520507	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104066	1520581	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104069	1520564	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104070	1520544	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104092	1520528	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104104	1520445	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104172	1520558	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104327	1520606	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104379	1520575	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104855	1520794	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104863	1520795	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104867	1520749	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104871	1520779	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104875	1520771	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104879	1520796	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104913	1520770	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104929	1520765	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104933	1520797	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+104961	1520752	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105062	1520763	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105068	1520764	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105219	1520726	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105225	1520685	p.N355H	c.1063A>C	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	94936	Confirmed	Tumour Sample	 	 	 	 	9	36846876	36846876
+105237	1520714	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105243	1520711	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105253	1520545	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105283	1520508	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105289	1520527	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105301	1520509	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105307	1520486	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105353	1520510	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105359	1520592	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105369	1520583	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105435	1520560	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105532	1520447	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105538	1520477	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+105544	1520478	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107046	1520473	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107047	1520489	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107048	1520443	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107051	1520474	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107053	1520452	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107076	1520484	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107077	1520523	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107079	1520580	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107082	1520539	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107084	1520551	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107085	1520540	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107086	1520557	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107088	1520589	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107093	1520524	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107094	1520590	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107097	1520552	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107104	1520525	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107105	1520601	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107106	1520526	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107110	1520541	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107117	1520553	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107122	1520542	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107127	1520602	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107128	1520554	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107129	1520491	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107136	1520591	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107139	1520612	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107143	1520613	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107144	1520543	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107384	1520459	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107388	1520460	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107390	1520468	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107393	1520578	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107394	1520531	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107395	1520514	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107397	1520480	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107398	1520442	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107399	1520598	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107402	1520586	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107403	1520608	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107414	1520599	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107416	1520487	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107418	1520587	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107423	1520532	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107424	1520481	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107426	1520609	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107427	1520516	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107428	1520568	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107429	1520461	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107430	1520444	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107521	1520515	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107527	1520500	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107529	1520432	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107530	1520485	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107531	1520582	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107532	1520585	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107534	1520479	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107535	1520450	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107537	1520457	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107539	1520462	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107541	1520610	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107542	1520463	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107543	1520588	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107544	1520556	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107546	1520497	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107550	1520567	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107553	1520548	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107554	1520577	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107557	1520517	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107572	1520467	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107576	1520549	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107578	1520518	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107582	1520482	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107586	1520483	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107588	1520533	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107590	1520519	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107594	1520547	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107595	1520488	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107597	1520458	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107599	1520576	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107600	1520501	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107602	1520604	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107678	1520573	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107686	1520520	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107702	1520464	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107706	1520534	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107710	1520503	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107714	1520453	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107722	1520555	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107734	1520495	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107746	1520572	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107778	1520603	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107850	1520614	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107894	1520574	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+107970	1520605	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108239	1520807	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108394	1520777	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108398	1520769	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108402	1520750	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108406	1520755	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108422	1520784	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108430	1520802	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108434	1520786	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108452	1520759	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108457	1520788	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108477	1520773	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108482	1520785	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108487	1520787	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+108752	1520594	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+109093	1520811	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+109123	1520813	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+110336	1520825	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+110350	1520826	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+110465	1520743	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111664	1520561	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111665	1520562	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111669	1520611	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111677	1520570	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111797	1520841	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111827	1520870	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111873	1520872	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111878	1520821	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111880	1520843	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111991	1520871	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+111995	1520815	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112032	1520819	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112038	1520842	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112040	1520840	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112046	1520844	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112140	1520678	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112146	1520730	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112158	1520686	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112182	1520688	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112190	1520634	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112229	1520706	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112241	1520721	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112263	1520701	p.G314W	c.940G>T	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	94938	Confirmed	Tumour Sample	 	 	 	 	9	36882073	36882073
+112269	1520733	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112275	1520737	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112281	1520704	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112287	1520705	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112295	1520727	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112305	1520718	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112313	1520741	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112319	1520683	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112377	1520682	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112415	1520703	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112461	1520684	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112467	1520728	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112473	1520689	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112479	1520731	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112497	1520722	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112503	1520680	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112509	1520625	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112521	1520707	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112527	1520626	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112533	1520719	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112539	1520716	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112557	1520715	p.P320L	c.959C>T	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	94937	Confirmed	Tumour Sample	 	 	 	 	9	36882054	36882054
+112565	1520717	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112571	1520720	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112589	1520695	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112595	1520702	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112613	1520723	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112628	1520780	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112634	1520792	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112638	1520754	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112644	1520757	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112656	1520793	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112664	1520781	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112670	1520753	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112676	1520782	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112707	1520735	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112719	1520709	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112731	1520687	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112761	1520783	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112779	1520845	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112785	1520822	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112791	1520846	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112827	1520847	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112839	1520848	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112851	1520849	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112857	1520827	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112869	1520818	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112875	1520850	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112881	1520851	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112887	1520828	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112893	1520852	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112899	1520829	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112905	1520853	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112917	1520854	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112923	1520830	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112929	1520823	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112935	1520855	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112941	1520856	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112989	1520837	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+112997	1520865	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113001	1520866	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113005	1520838	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113009	1520867	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113013	1520839	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113017	1520824	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113021	1520868	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113025	1520869	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113037	1520835	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113045	1520861	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113049	1520862	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113057	1520836	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113061	1520863	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113065	1520864	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113069	1520857	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113077	1520858	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113081	1520831	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113085	1520859	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113089	1520832	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113093	1520833	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113097	1520834	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113101	1520860	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113105	1520817	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113274	1520798	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113282	1520803	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113286	1520799	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113294	1520772	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113298	1520758	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113306	1520800	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113310	1520801	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113314	1520806	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113364	1520672	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113368	1520673	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113371	1520810	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113373	1520814	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113377	1520808	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113716	1520820	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113720	1520816	 	 	prostate	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113777	1520812	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113784	1520809	 	 	pancreas	NS	NS	carcinoma	NS	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113792	1520766	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113795	1520774	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113797	1520789	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113801	1520760	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113803	1520767	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113805	1520761	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113807	1520790	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+113809	1520762	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+1483368	1483368	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	20233627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1483369	1483369	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	20233627	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501363	1501363	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501364	1501364	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501365	1501365	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501366	1501366	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501367	1501367	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501368	1501368	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501369	1501369	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501370	1501370	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501371	1501371	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501372	1501372	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501373	1501373	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501374	1501374	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501375	1501375	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501376	1501376	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501377	1501377	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501378	1501378	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501379	1501379	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501380	1501380	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501381	1501381	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501382	1501382	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501383	1501383	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501384	1501384	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501385	1501385	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501386	1501386	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501387	1501387	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501388	1501388	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501389	1501389	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501390	1501390	p.?	c.47-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87050	Confirmed	Tumour Sample	Heterozygous	9	36992645	37010798	9	37002645	37020798
+1501391	1501391	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501392	1501392	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501393	1501393	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501394	1501394	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501395	1501395	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501396	1501396	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501397	1501397	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501398	1501398	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501399	1501399	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501400	1501400	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501401	1501401	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501402	1501402	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501403	1501403	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501404	1501404	p.A322fs*19	c.963_964insC	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85890	Confirmed	Tumour Sample	Heterozygous	9	36872049	36872050	9	36882049	36882050
+1501405	1501405	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501406	1501406	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501407	1501407	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501408	1501408	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501409	1501409	p.?	c.605-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87065	Confirmed	Tumour Sample	Heterozygous	9	36872001	36956721	9	36882001	36966721
+1501410	1501410	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501411	1501411	p.?	c.605-?_910+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87086	Confirmed	Tumour Sample	Heterozygous	9	36913352	36956721	9	36923352	36966721
+1501412	1501412	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501413	1501413	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501414	1501414	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501415	1501415	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501416	1501416	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501417	1501417	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501418	1501418	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501419	1501419	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501420	1501420	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501421	1501421	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501422	1501422	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501423	1501423	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501424	1501424	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501425	1501425	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501426	1501426	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501427	1501427	p.?	c.47-?_910+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87149	Confirmed	Tumour Sample	Heterozygous	9	36913352	37010798	9	36923352	37020798
+1501428	1501428	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501429	1501429	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501430	1501430	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501431	1501431	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501432	1501432	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501433	1501433	p.?	c.47-?_410+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87152	Confirmed	Tumour Sample	Heterozygous	9	37004994	37010798	9	37014994	37020798
+1501434	1501434	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501435	1501435	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501436	1501436	p.?	c.47-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87060	Confirmed	Tumour Sample	Heterozygous	9	36872001	37010798	9	36882001	37020798
+1501437	1501437	p.?	c.1-?_46del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87155	Confirmed	Tumour Sample	Homozygous	9	37023983	37024028	9	37033983	37034028
+1501438	1501438	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501439	1501439	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501440	1501440	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501441	1501441	p.?	c.1-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87157	Confirmed	Tumour Sample	Heterozygous	9	36956546	37024028	9	36966546	37034028
+1501442	1501442	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501443	1501443	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501444	1501444	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501445	1501445	p.?	c.47-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87050	Confirmed	Tumour Sample	Heterozygous	9	36992645	37010798	9	37002645	37020798
+1501446	1501446	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501447	1501447	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501448	1501448	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501449	1501449	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501450	1501450	p.?	c.1-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87159	Confirmed	Tumour Sample	Heterozygous	9	36872001	37024028	9	36882001	37034028
+1501451	1501451	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501452	1501452	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501453	1501453	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501454	1501454	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501455	1501455	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501456	1501456	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501457	1501457	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501458	1501458	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501459	1501459	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501460	1501460	p.?	c.47-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87060	Confirmed	Tumour Sample	Heterozygous	9	36872001	37010798	9	36882001	37020798
+1501461	1501461	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501462	1501462	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501463	1501463	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501464	1501464	p.?	c.47-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87060	Confirmed	Tumour Sample	Heterozygous	9	36872001	37010798	9	36882001	37020798
+1501465	1501465	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501466	1501466	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501467	1501467	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501468	1501468	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501469	1501469	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501470	1501470	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501471	1501471	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501472	1501472	p.A322fs*19	c.963_964insC	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85890	Confirmed	Tumour Sample	Heterozygous	9	36872049	36872050	9	36882049	36882050
+1501473	1501473	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501474	1501474	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501475	1501475	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501476	1501476	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501477	1501477	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501478	1501478	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501479	1501479	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501480	1501480	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501481	1501481	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501482	1501482	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501483	1501483	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501484	1501484	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501485	1501485	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501486	1501486	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501487	1501487	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501488	1501488	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501489	1501489	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501490	1501490	p.V26G	c.77T>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85951	Confirmed	Tumour Sample	Homozygous	9	37010768	37010768	9	37020768	37020768
+1501491	1501491	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501492	1501492	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501493	1501493	p.N126_P130>RA	c.377_388>GGG	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87025	Confirmed	Tumour Sample	Homozygous	9	37005016	37005027	9	37015016	37015027
+1501493	1501493	p.?	c.47-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87165	Confirmed	Tumour Sample	Heterozygous	9	36830557	37010798	9	36840557	37020798
+1501493	1501493	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87024	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1501494	1501494	p.?	c.605-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87065	Confirmed	Tumour Sample	Homozygous	9	36872001	36956721	9	36882001	36966721
+1501495	1501495	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501496	1501496	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501497	1501497	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501498	1501498	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501499	1501499	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501500	1501500	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501501	1501501	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501502	1501502	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501503	1501503	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501504	1501504	p.V26G	c.77T>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85951	Confirmed	Tumour Sample	Homozygous	9	37010768	37010768	9	37020768	37020768
+1501505	1501505	p.?	c.47-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87060	Confirmed	Tumour Sample	Heterozygous	9	36872001	37010798	9	36882001	37020798
+1501506	1501506	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501507	1501507	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501508	1501508	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501509	1501509	p.?	c.781-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87056	Confirmed	Tumour Sample	Heterozygous	9	36830557	36913481	9	36840557	36923481
+1501510	1501510	p.G338W	c.1012G>T	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85954	Confirmed	Tumour Sample	Homozygous	9	36872001	36872001	9	36882001	36882001
+1501511	1501511	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501512	1501512	p.V26G	c.77T>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85951	Confirmed	Tumour Sample	Homozygous	9	37010768	37010768	9	37020768	37020768
+1501513	1501513	p.P34Q	c.101C>A	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85952	Confirmed	Tumour Sample	Homozygous	9	37010744	37010744	9	37020744	37020744
+1501514	1501514	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+1501515	1501515	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501516	1501516	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501517	1501517	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501518	1501518	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+1501519	1501519	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501520	1501520	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501521	1501521	p.?	c.47-?_410+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87152	Confirmed	Tumour Sample	Heterozygous	9	37004994	37010798	9	37014994	37020798
+1501522	1501522	p.?	c.911-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87168	Confirmed	Tumour Sample	Homozygous	9	36872001	36872102	9	36882001	36882102
+1501523	1501523	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501524	1501524	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501525	1501525	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501526	1501526	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501527	1501527	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501528	1501528	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85953	Confirmed	Tumour Sample	 	9	37005165	37005165	9	37015165	37015165
+1501528	1501528	p.G211fs*70	c.631_631G>TGTCACTAC	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85955	Confirmed	Tumour Sample	 	9	36956695	36956695	9	36966695	36966695
+1501529	1501529	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501530	1501530	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501531	1501531	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501532	1501532	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501533	1501533	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501534	1501534	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501535	1501535	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501536	1501536	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+1501537	1501537	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501538	1501538	p.E340fs*56	c.1019_1020insCCCGGGGG	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	85956	Confirmed	Tumour Sample	 	9	36836919	36836920	9	36846919	36846920
+1501538	1501538	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501539	1501539	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501540	1501540	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501541	1501541	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501542	1501542	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501543	1501543	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501544	1501544	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501545	1501545	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501546	1501546	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501547	1501547	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1501548	1501548	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501549	1501549	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501550	1501550	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501551	1501551	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	87026	Confirmed	Tumour Sample	Homozygous	 	 	 	 	 	 
+1501552	1501552	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501553	1501553	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501554	1501554	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501555	1501555	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501556	1501556	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501557	1501557	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501558	1501558	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501559	1501559	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501560	1501560	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501561	1501561	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501562	1501562	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501563	1501563	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501564	1501564	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501565	1501565	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501566	1501566	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501567	1501567	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501568	1501568	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501569	1501569	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501570	1501570	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501571	1501571	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501572	1501572	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501573	1501573	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501574	1501574	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501575	1501575	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501576	1501576	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501577	1501577	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501578	1501578	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501579	1501579	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501580	1501580	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501581	1501581	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501582	1501582	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501583	1501583	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501584	1501584	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501585	1501585	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501586	1501586	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501587	1501587	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501588	1501588	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501589	1501589	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501590	1501590	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501591	1501591	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501592	1501592	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501593	1501593	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501594	1501594	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501595	1501595	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501596	1501596	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501597	1501597	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501598	1501598	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501599	1501599	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501600	1501600	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501601	1501601	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501602	1501602	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501603	1501603	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1501604	1501604	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	17344859	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503602	1503602	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503603	1503603	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503604	1503604	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503605	1503605	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503606	1503606	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503607	1503607	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503608	1503608	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503609	1503609	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503610	1503610	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503611	1503611	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503612	1503612	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503613	1503613	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503614	1503614	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503615	1503615	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503616	1503616	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503617	1503617	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503618	1503618	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503619	1503619	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503620	1503620	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503621	1503621	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503622	1503622	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503623	1503623	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503624	1503624	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503625	1503625	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503626	1503626	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503627	1503627	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503628	1503628	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503629	1503629	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503630	1503630	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503631	1503631	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503632	1503632	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503633	1503633	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503634	1503634	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503635	1503635	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503636	1503636	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503637	1503637	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503638	1503638	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503639	1503639	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503640	1503640	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503641	1503641	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503642	1503642	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503643	1503643	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503644	1503644	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503645	1503645	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503646	1503646	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503647	1503647	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503648	1503648	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503649	1503649	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503650	1503650	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503651	1503651	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503652	1503652	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503653	1503653	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503654	1503654	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503655	1503655	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503656	1503656	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503657	1503657	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503658	1503658	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503659	1503659	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503660	1503660	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503661	1503661	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503662	1503662	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503663	1503663	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503664	1503664	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503665	1503665	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503666	1503666	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503667	1503667	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503668	1503668	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503669	1503669	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503670	1503670	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503671	1503671	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503672	1503672	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503673	1503673	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503674	1503674	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503675	1503675	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503676	1503676	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503677	1503677	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503678	1503678	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503679	1503679	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503680	1503680	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503681	1503681	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503682	1503682	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503683	1503683	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503684	1503684	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503685	1503685	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503686	1503686	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503687	1503687	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503688	1503688	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503689	1503689	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503690	1503690	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503691	1503691	p.?	c.1-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87205	Unknown	Tumour Sample	Heterozygous	9	36956546	37024028	9	36966546	37034028
+1503692	1503692	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503693	1503693	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503694	1503694	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503695	1503695	p.?	c.1-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87205	Unknown	Tumour Sample	Heterozygous	9	36956546	37024028	9	36966546	37034028
+1503696	1503696	p.P80R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87202	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1503697	1503697	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503698	1503698	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503699	1503699	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87061	Previously Observed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1503700	1503700	p.P80R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87202	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1503701	1503701	p.P80R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87202	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1503702	1503702	p.I138fs*105	c.412_413insG	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87201	Unknown	Tumour Sample	 	9	36996532	36996533	9	37006532	37006533
+1503703	1503703	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87061	Previously Observed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1503704	1503704	p.P80R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87202	Unknown	Tumour Sample	 	 	 	 	 	 	 
+1503705	1503705	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87061	Previously Observed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1503706	1503706	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503707	1503707	p.?	c.47-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87060	Previously Observed	Tumour Sample	Heterozygous	9	36872001	37010798	9	36882001	37020798
+1503708	1503708	p.?	c.47-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87060	Previously Observed	Tumour Sample	Heterozygous	9	36872001	37010798	9	36882001	37020798
+1503709	1503709	p.?	c.411-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87206	Unknown	Tumour Sample	Heterozygous	9	36992645	36996534	9	37002645	37006534
+1503710	1503710	p.?	c.411-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87206	Unknown	Tumour Sample	Heterozygous	9	36992645	36996534	9	37002645	37006534
+1503711	1503711	p.P80R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87202	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1503712	1503712	p.?	c.476-?_1099+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87207	Unknown	Tumour Sample	Heterozygous	9	36836840	36992773	9	36846840	37002773
+1503713	1503713	p.?	c.781-?_1099+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87208	Unknown	Tumour Sample	Heterozygous	9	36836840	36913481	9	36846840	36923481
+1503714	1503714	p.?fs	c.?_?insGG	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87204	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1503715	1503715	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87061	Previously Observed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+1503716	1503716	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	87203	Unknown	Tumour Sample	Homozygous	 	 	 	 	 	 
+1503717	1503717	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1503718	1503718	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19587702	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1514540	1514540	 	 	NS	NS	NS	malignant_melanoma	NS	NS	21383288	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524368	1524368	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524369	1524369	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524370	1524370	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524371	1524371	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524372	1524372	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524373	1524373	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524374	1524374	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524375	1524375	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524376	1524376	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524377	1524377	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524378	1524378	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524379	1524379	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524380	1524380	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524381	1524381	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524382	1524382	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524383	1524383	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524384	1524384	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524385	1524385	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524386	1524386	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524387	1524387	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524388	1524388	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524389	1524389	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524390	1524390	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524391	1524391	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524392	1524392	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524393	1524393	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524394	1524394	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524395	1524395	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524396	1524396	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+1524397	1524397	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+1524398	1524398	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524399	1524399	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524400	1524400	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524401	1524401	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524402	1524402	p.D193>GGTRAN	c.577_578ins15	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	96479	Confirmed	Tumour Sample	Heterozygous	9	36992671	36992672	9	37002671	37002672
+1524403	1524403	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524404	1524404	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524405	1524405	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524406	1524406	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524407	1524407	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524408	1524408	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524409	1524409	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524410	1524410	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524411	1524411	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524412	1524412	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+1524413	1524413	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	21390130	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+86319	1520620	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86321	1520748	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86323	1520658	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86324	1520666	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86326	1520635	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86501	1520618	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86502	1520651	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86503	1520647	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86504	1520624	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86505	1520665	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86506	1520622	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86507	1520615	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86563	1520694	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86564	1520630	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86565	1520668	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86566	1520669	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86567	1520637	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86568	1520654	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86569	1520657	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86570	1520619	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86571	1520627	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86575	1520656	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86576	1520616	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86583	1520645	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86587	1520648	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86748	1520628	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86770	1520642	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86775	1520671	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86778	1520653	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86782	1520644	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86784	1520696	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86785	1520698	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86788	1520629	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86790	1520746	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86791	1520643	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86793	1520677	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86794	1520697	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86797	1520638	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86801	1520662	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+86802	1520713	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+87969	1520690	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+87971	1520708	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+88018	1520778	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+88177	1520740	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+89061	1520504	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+89097	1520499	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+89106	1520494	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+92119	1520791	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+92121	1520756	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+92124	1520804	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+94699	1520641	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+97980	1520747	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98019	1520664	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98377	1520448	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98580	1520751	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98592	1520805	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98711	1520675	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98717	1520745	 	 	lung	NS	NS	carcinoma	undifferentiated_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98735	1520676	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+98741	1520674	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99042	1520775	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99060	1520776	 	 	ovary	NS	NS	other	neoplasm	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_001	1496518	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_002	1496519	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_003	1496520	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_004	1496521	p.0?	c.1-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87047	Confirmed	Tumour Sample	Homozygous	 	 	 	 	 	 
+9906_005	1496522	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_006	1496523	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_007	1496524	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_008	1496525	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_009	1496526	p.0?	c.1-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87047	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+9906_010	1496527	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_011	1496528	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_012	1496529	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_013	1496530	p.?	c.213-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87049	Confirmed	Tumour Sample	Heterozygous	9	37004228	37005191	9	37014228	37015191
+9906_014	1496531	p.?	c.47-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87050	Confirmed	Tumour Sample	Heterozygous	9	36992645	37010798	9	37002645	37020798
+9906_016	1496532	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_017	1496533	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_018	1496534	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_019	1496535	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_020	1496536	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_021	1496537	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_022	1496538	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_023	1496539	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_024	1496540	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_027	1496541	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_028	1496542	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_030	1496543	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_031	1496544	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_032	1496545	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_033	1496546	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_034	1496547	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+9906_036	1496548	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_037	1496549	p.?	c.605-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87051	Confirmed	Tumour Sample	Heterozygous	9	36830557	36956721	9	36840557	36966721
+9906_038	1496550	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_039	1496551	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_040	1496552	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_041	1496553	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_042	1496554	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_043	1496555	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_045	1496556	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_046	1496557	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_047	1496558	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_048	1496559	p.?	c.1-?_910+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87053	Confirmed	Tumour Sample	Heterozygous	9	36956546	37024028	9	36966546	37034028
+9906_049	1496560	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_050	1496561	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_051	1496562	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_052	1496563	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_055	1496564	p.?	c.47-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87050	Confirmed	Tumour Sample	Heterozygous	9	36992645	37010798	9	37002645	37020798
+9906_057	1496565	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_058	1496566	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_060	1496567	p.V151I	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87028	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_061	1496568	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_062	1496569	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_063	1496570	p.?	c.605-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87054	Confirmed	Tumour Sample	Heterozygous	9	36956546	36956721	9	36966546	36966721
+9906_064	1496571	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_065	1496572	p.G24R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87029	Confirmed	Tumour Sample	Homozygous	 	 	 	 	 	 
+9906_066	1496573	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_069	1496574	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_070	1496575	p.?	c.1-?_410+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87055	Confirmed	Tumour Sample	Heterozygous	9	37004994	37024028	9	37014994	37034028
+9906_071	1496576	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_073	1496577	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_074	1496578	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_075	1496579	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_076	1496580	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_078	1496581	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_079	1496582	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_080	1496583	p.?	c.781-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87056	Confirmed	Tumour Sample	Heterozygous	9	36830557	36913481	9	36840557	36923481
+9906_082	1496584	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_083	1496585	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_084	1496586	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_085	1496587	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_086	1496588	p.G24R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87029	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_087	1496589	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_090	1496590	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_092	1496591	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_093	1496592	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_094	1496593	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_095	1496594	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_096	1496595	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_097	1496596	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_098	1496597	p.?	c.1013-?_1099+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87057	Confirmed	Tumour Sample	Heterozygous	9	36836840	36836926	9	36846840	36846926
+9906_099	1496598	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_100	1496599	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_101	1496600	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_102	1496601	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_106	1496602	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+9906_107	1496603	p.?	c.781-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87056	Confirmed	Tumour Sample	Heterozygous	9	36830557	36913481	9	36840557	36923481
+9906_108	1496604	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_109	1496605	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_110	1496606	p.D53V	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87030	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_110	1496606	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87041	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_111	1496607	p.?	c.605-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87051	Confirmed	Tumour Sample	Heterozygous	9	36830557	36956721	9	36840557	36966721
+9906_113	1496608	p.I139T	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87031	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_114	1496609	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_115	1496610	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_116	1496611	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_117	1496612	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_118	1496613	p.?	c.1-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87058	Confirmed	Tumour Sample	Heterozygous	9	36992645	37024028	9	37002645	37034028
+9906_119	1496614	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_120	1496615	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_121	1496616	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+9906_122	1496617	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_123	1496618	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_124	1496619	p.?	c.47-?_475+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87059	Confirmed	Tumour Sample	Heterozygous	9	36996470	37010798	9	37006470	37020798
+9906_124	1496619	p.?	c.605-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87054	Confirmed	Tumour Sample	Heterozygous	9	36956546	36956721	9	36966546	36966721
+9906_126	1496620	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_128	1496621	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_129	1496622	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_132	1496623	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_133	1496624	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_135	1496625	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_136	1496626	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_137	1496627	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_138	1496628	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_139	1496629	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_141	1496630	p.?	c.47-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87050	Confirmed	Tumour Sample	Heterozygous	9	36992645	37010798	9	37002645	37020798
+9906_142	1496631	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_143	1496632	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_144	1496633	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_145	1496634	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_146	1496635	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_147	1496636	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_148	1496637	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_149	1496638	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_150	1496639	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_151	1496640	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_152	1496641	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_153	1496642	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_154	1496643	p.?	c.47-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87060	Confirmed	Tumour Sample	Heterozygous	9	36872001	37010798	9	36882001	37020798
+9906_155	1496644	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_156	1496645	p.I301T	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87032	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_157	1496646	p.?	c.47-?_780+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87061	Confirmed	Tumour Sample	Heterozygous	9	36956546	37010798	9	36966546	37020798
+9906_159	1496647	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_160	1496648	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_161	1496649	p.?	c.1-?_410+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87068	Confirmed	Tumour Sample	Heterozygous	 	 	 	 	 	 
+9906_163	1496650	p.?	c.1-?_910+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87053	Confirmed	Tumour Sample	Homozygous	9	36956546	37024028	9	36966546	37034028
+9906_165	1496651	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_166	1496652	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_167	1496653	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_168	1496654	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_170	1496655	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_171	1496656	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_173	1496657	p.T333fs*?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87034	Confirmed	Tumour Sample	Homozygous	 	 	 	 	 	 
+9906_174	1496658	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_175	1496659	p.?	c.605-?_1012+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87065	Confirmed	Tumour Sample	Heterozygous	9	36872001	36956721	9	36882001	36966721
+9906_176	1496660	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_177	1496661	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_179	1496662	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	 	9	37005165	37005165	9	37015165	37015165
+9906_179	1496662	p.E201fs*?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87038	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_180	1496663	p.S213L	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87035	Confirmed	Tumour Sample	Homozygous	 	 	 	 	 	 
+9906_180	1496663	p.?	c.1-?_910+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87053	Confirmed	Tumour Sample	Heterozygous	9	36956546	37024028	9	36966546	37034028
+9906_182	1496664	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_183	1496665	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_184	1496666	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_185	1496667	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_186	1496668	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_187	1496669	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_188	1496670	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+9906_189	1496671	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_190	1496672	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_192	1496673	p.R59G	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87036	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_192	1496673	p.?	c.911-?_1099+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87066	Confirmed	Tumour Sample	Heterozygous	9	36836840	36872102	9	36846840	36882102
+9906_193	1496674	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_195	1496675	p.T75R	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87037	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_195	1496675	p.V336fs*?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87039	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_196	1496676	p.?	c.47-?_604+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87050	Confirmed	Tumour Sample	Heterozygous	9	36992645	37010798	9	37002645	37020798
+9906_196	1496676	p.?	c.605-?_910+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87086	Confirmed	Tumour Sample	Homozygous	9	36913352	36956721	9	36923352	36966721
+9906_198	1496677	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_199	1496678	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_202	1496679	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_203	1496680	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_206	1496681	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_207	1496682	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_209	1496683	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_210	1496684	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_211	1496685	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_214	1496686	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_215	1496687	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_216	1496688	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_217	1496689	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_218	1496690	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_219	1496691	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_220	1496692	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_221	1496693	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_222	1496694	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_224	1496695	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_225	1496696	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_227	1496697	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_228	1496698	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	 	9	37005165	37005165	9	37015165	37015165
+9906_228	1496698	p.E201fs*?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87038	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_229	1496699	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_230	1496700	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_231	1496701	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_233	1496702	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	 	9	37005165	37005165	9	37015165	37015165
+9906_233	1496702	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87042	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_234	1496703	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87090	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_234	1496703	p.?	c.1-?_1-?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87209	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_235	1496704	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87090	Confirmed	Tumour Sample	Homozygous	 	 	 	 	 	 
+9906_236	1496705	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_238	1496706	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_239	1496707	p.V319fs*?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87040	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_240	1496708	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_241	1496709	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_242	1496710	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_243	1496711	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_244	1496712	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_245	1496713	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_246	1496714	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_247	1496715	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_248	1496716	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_249	1496717	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_250	1496718	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_251	1496719	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_252	1496720	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_253	1496721	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_254	1496722	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_255	1496723	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_256	1496724	p.P80R	c.239C>G	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	85953	Confirmed	Tumour Sample	Homozygous	9	37005165	37005165	9	37015165	37015165
+9906_257	1496725	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_258	1496726	p.V319fs*?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87040	Confirmed	Tumour Sample	 	 	 	 	 	 	 
+9906_259	1496727	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_260	1496728	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_261	1496729	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_262	1496730	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_263	1496731	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_264	1496732	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_265	1496733	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_267	1496734	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_268	1496735	p.?	c.605-?_1176+?del	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	87051	Confirmed	Tumour Sample	Heterozygous	9	36830557	36956721	9	36840557	36966721
+9906_269	1496736	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_271	1496737	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+9906_272	1496738	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	19129520	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+99155	1520595	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99164	1520454	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99176	1520511	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99179	1520546	 	 	breast	NS	NS	carcinoma	ER-PR-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99287	1520739	 	 	lung	NS	NS	carcinoma	squamous_cell_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99447	1520593	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99459	1520565	 	 	breast	NS	NS	carcinoma	basal_(triple-negative)_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99464	1520455	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99480	1520466	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99487	1520476	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
+99773	1520475	 	 	breast	NS	NS	carcinoma	HER-positive_carcinoma	NS	20668451	338	 	 	Tumour Sample	 	 	 	 	 	 	 
 BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -31,6 +1106,7 @@ Br25X	1312982	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	gl
 Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br27P	1312984	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+CCRF-CEM	1483363	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	20233627	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -60,6 +1136,7 @@ HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	96	 	 	Cultured Sa
 HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
+JURKAT	1483364	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	20233627	 	87021	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
 LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -69,6 +1146,29 @@ LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_c
 LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB101X	1512935	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB104X	1512936	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB105X	1512937	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB106X	1512938	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB108C	1512939	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB109PT	1512940	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB111PT	1512941	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB113PT	1512942	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB115PT	1512943	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB117PT	1512944	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	desmoplastic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB118PT	1512945	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB119PT	1512946	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB120PT	1512947	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB121PT	1512948	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB122PT	1512949	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB123PT	1512950	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB124PT	1512951	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB125PT	1512952	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB126PT	1512953	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB128PT	1512954	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB129PT	1512955	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB130PT	1512956	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MOLT-4	1483362	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	20233627	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -79,6 +1179,7 @@ Mx38	1235046	 	 	large_intestine	rectum	NS	carcinoma	adenocarcinoma	NS	16959974	
 Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+NALM-6	1483361	p.?	c.?	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	20233627	 	87022	Unknown	Cultured Sample	Homozygous	 	 	 	 	 	 
 NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	96	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -186,6 +1287,33 @@ PD2218a	948720	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	200
 PD2219a	948722	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	213	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2221a	955773	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	213	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2222a	955776	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297	213	 	 	Tumour Sample	 	 	 	 	 	 	 
+Pa01C	1509848	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa02C	1509849	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa03C	1509850	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa04C	1509851	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa05X	1509852	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa07C	1509853	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa08C	1509854	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa09C	1509855	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa10X	1509856	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa11X	1509857	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa14C	1509858	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa16C	1509859	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa18C	1509860	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa20C	1509861	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa21C	1509862	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa28C	1509863	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa29C	1509864	 	 	biliary_tract	bile_duct	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa34X	1509865	 	 	biliary_tract	bile_duct	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa36X	1509866	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa37X	1509867	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa38X	1509868	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa39X	1509869	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa41X	1509870	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa43X	1509871	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+PreB697	1483365	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	20233627	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+RAJI	1483367	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	20233627	 	 	 	Cultured Sample	 	 	 	 	 	 	 
+REH	1483360	p.A322fs*19	c.963_964insC	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	20233627	 	85890	Previously Observed	Cultured Sample	 	9	36872049	36872050	9	36882049	36882050
 TCGA-02-0001	1287205	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0003	1287206	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-02-0004	1337760	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -610,3 +1738,4 @@ TCGA-32-1970	1338089	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grad
 TCGA-32-1976	1338090	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-32-1982	1338091	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 TCGA-32-1986	1338092	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772890	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+TK6	1483366	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	20233627	 	 	 	Cultured Sample	 	 	 	 	 	 	 

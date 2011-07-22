@@ -6,35 +6,35 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
-10	1481427	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-100	1481446	p.?	c.5270_5272+1delAGTG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85828	Confirmed	Tumour Sample	Homozygous	23	76762518	76762521	23	76875862	76875865
-102	1481457	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-103	1481458	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-104	1481459	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-108	1481460	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-109	1481472	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-112	1481447	p.K455*	c.1363A>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85827	Confirmed	Tumour Sample	Homozygous	23	76826041	76826041	23	76939385	76939385
-13	1481438	p.S1978fs*4	c.5932_5932delT	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85820	Confirmed	Tumour Sample	 	23	76741560	76741560	23	76854904	76854904
-133	1481461	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481476	1481476	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481477	1481477	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481478	1481478	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481479	1481479	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481480	1481480	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481481	1481481	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481482	1481482	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481483	1481483	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481484	1481484	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481485	1481485	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481486	1481486	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481487	1481487	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481488	1481488	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481489	1481489	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481490	1481490	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481491	1481491	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481492	1481492	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481493	1481493	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-1481494	1481494	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
+10	1481427	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+100	1481446	p.?	c.5270_5272+1delAGTG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85828	Confirmed	Tumour Sample	Homozygous	23	76762518	76762521	23	76875862	76875865
+102	1481457	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+103	1481458	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+104	1481459	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+108	1481460	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+109	1481472	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+112	1481447	p.K455*	c.1363A>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85827	Confirmed	Tumour Sample	Homozygous	23	76826041	76826041	23	76939385	76939385
+13	1481438	p.S1978fs*4	c.5932_5932delT	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85820	Confirmed	Tumour Sample	 	23	76741560	76741560	23	76854904	76854904
+133	1481461	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481476	1481476	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481477	1481477	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481478	1481478	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481479	1481479	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481480	1481480	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481481	1481481	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481482	1481482	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481483	1481483	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481484	1481484	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481485	1481485	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481486	1481486	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481487	1481487	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481488	1481488	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481489	1481489	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481490	1481490	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481491	1481491	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481492	1481492	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481493	1481493	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481494	1481494	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
 1487600	1487600	p.?	c.20+1G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	12858175	 	85982	Confirmed	Tumour Sample	Homozygous	 	 	 	23	77041467	77041467
 1487601	1487601	p.S79*	c.236C>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	12858175	 	85981	Unknown	Tumour Sample	 	 	 	 	23	76953077	76953077
 1487602	1487602	 	 	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	NS	12858175	 	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -56,87 +56,87 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1487619	1487619	p.L192F	c.576G>C	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic-myeloproliferative_neoplasm-unclassifiable	NS	14592816	 	85983	Confirmed	Tumour Sample	 	 	 	 	23	76944329	76944329
 1487620	1487620	p.D2234G	c.6701A>G	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia_with_ringed_sideroblasts	19055664	 	85979	Unknown	Tumour Sample	 	 	 	 	23	76778878	76778878
 1487621	1487621	p.C174Y	c.521G>A	haematopoietic_and_lymphoid_tissue	NS	NS	haematopoietic_neoplasm	myelodysplastic_syndrome	refractory_anaemia	19055664	 	85980	Unknown	Tumour Sample	 	 	 	 	23	76944384	76944384
-2	1481474	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-21	1481428	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-23	1481429	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-24	1481430	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-25	1481431	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-27	1481439	p.F2113fs*9	c.6338_6341delTTAT	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85821	Confirmed	Tumour Sample	 	23	76700959	76700962	23	76814303	76814306
-29	1481463	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-3	1481432	p.R2079*	c.6235C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	85818	Confirmed	Tumour Sample	Homozygous	23	76716462	76716462	23	76829806	76829806
-31	1481433	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-35	1481440	p.M1275fs*7	c.3824_3840del17	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85822	Confirmed	Tumour Sample	 	23	76806893	76806909	23	76920237	76920253
-36	1481434	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-39	1481464	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-44	1481448	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-45	1481465	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-5	1481437	p.Q1874*	c.5620C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85819	Confirmed	Tumour Sample	 	23	76742636	76742636	23	76855980	76855980
-52	1481441	p.K1409fs*80	c.4221_4224delAAAG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85823	Confirmed	Tumour Sample	 	23	76796337	76796340	23	76909681	76909684
-56	1481449	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-57	1481466	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-59	1481442	p.Q1788H	c.5364G>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85824	Confirmed	Tumour Sample	 	23	76761014	76761014	23	76874358	76874358
-6	1481462	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-61	1481467	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-64	1481468	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-69	1481469	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-7	1481435	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-70	1481475	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-77	1481450	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-78	1481443	p.E2277K	c.6829G>A	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85825	Confirmed	Tumour Sample	 	23	76665406	76665406	23	76778750	76778750
-83	1481470	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-84	1481451	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-85	1481444	p.S1472fs*14	c.4413_4414insG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85859	Confirmed	Tumour Sample	 	23	76794403	76794404	23	76907747	76907748
-87	1481452	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-91	1481473	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-93	1481436	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-94	1481453	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-95	1481454	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-96	1481455	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-97	1481456	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-98	1481445	p.Q2156H	c.6468A>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	85826	Confirmed	Tumour Sample	Homozygous	23	76700832	76700832	23	76814176	76814176
-99	1481471	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+2	1481474	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+21	1481428	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+23	1481429	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+24	1481430	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+25	1481431	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+27	1481439	p.F2113fs*9	c.6338_6341delTTAT	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85821	Confirmed	Tumour Sample	 	23	76700959	76700962	23	76814303	76814306
+29	1481463	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+3	1481432	p.R2079*	c.6235C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	85818	Confirmed	Tumour Sample	Homozygous	23	76716462	76716462	23	76829806	76829806
+31	1481433	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+35	1481440	p.M1275fs*7	c.3824_3840del17	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85822	Confirmed	Tumour Sample	 	23	76806893	76806909	23	76920237	76920253
+36	1481434	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+39	1481464	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+44	1481448	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+45	1481465	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+5	1481437	p.Q1874*	c.5620C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85819	Confirmed	Tumour Sample	 	23	76742636	76742636	23	76855980	76855980
+52	1481441	p.K1409fs*80	c.4221_4224delAAAG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85823	Confirmed	Tumour Sample	 	23	76796337	76796340	23	76909681	76909684
+56	1481449	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+57	1481466	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+59	1481442	p.Q1788H	c.5364G>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85824	Confirmed	Tumour Sample	 	23	76761014	76761014	23	76874358	76874358
+6	1481462	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+61	1481467	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+64	1481468	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+69	1481469	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+7	1481435	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+70	1481475	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+77	1481450	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+78	1481443	p.E2277K	c.6829G>A	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85825	Confirmed	Tumour Sample	 	23	76665406	76665406	23	76778750	76778750
+83	1481470	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+84	1481451	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+85	1481444	p.S1472fs*14	c.4413_4414insG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85859	Confirmed	Tumour Sample	 	23	76794403	76794404	23	76907747	76907748
+87	1481452	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+91	1481473	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+93	1481436	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+94	1481453	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+95	1481454	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+96	1481455	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+97	1481456	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+98	1481445	p.Q2156H	c.6468A>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	85826	Confirmed	Tumour Sample	Homozygous	23	76700832	76700832	23	76814176	76814176
+99	1481471	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	152,11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152,11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152,13,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152,13,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
-HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152,13,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152,11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1395	749712	p.K1175E	c.3523A>G	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,152,13	13840	Confirmed	Cultured Sample	Homozygous	23	76823881	76823881	23	76937225	76937225
+HCC1395	749712	p.K1175E	c.3523A>G	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152,11,13	13840	Confirmed	Cultured Sample	Homozygous	23	76823881	76823881	23	76937225	76937225
 HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152,11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	152,11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	152,11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	152,13,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	152,13,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
-MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	152,13,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	152,13,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 MZ7-mel	753596	p.D1398N	c.4192G>A	skin	NS	NS	malignant_melanoma	NS	NS	 	11,13,152	13839	Confirmed	Cultured Sample	Heterozygous	23	76798728	76798728	23	76912072	76912072
 Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -147,17 +147,17 @@ Mx41	1235047	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	1695997
 Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1184	688000	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H128	753597	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	152,11,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H209	688013	p.R907*	c.2719C>T	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,13,152	13837	Confirmed	Cultured Sample	Homozygous	23	76824685	76824685	23	76938029	76938029
-NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	11,152,13	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,13,152	 	 	Cultured Sample	 	 	 	 	 	 	 
 PD1579a	753464	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1580a	753465	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1582a	753467	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297	173	 	 	Tumour Sample	 	 	 	 	 	 	 

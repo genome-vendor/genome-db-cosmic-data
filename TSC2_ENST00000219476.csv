@@ -6,6 +6,88 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+100	1481446	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+102	1481457	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+103	1481458	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+104	1481459	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+108	1481460	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+109	1481472	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+112	1481447	p.N1651S	c.4952A>G	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	87856	Confirmed	Tumour Sample	Heterozygous	 	 	 	16	2136835	2136835
+13	1481438	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+133	1481461	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481476	1481476	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481477	1481477	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481478	1481478	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481479	1481479	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481480	1481480	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481481	1481481	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481482	1481482	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481483	1481483	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481484	1481484	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481485	1481485	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481486	1481486	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481487	1481487	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481488	1481488	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481489	1481489	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481490	1481490	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481491	1481491	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481492	1481492	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481493	1481493	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+1481494	1481494	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+2	1481474	p.A1141V	c.3422C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	87827	Confirmed	Tumour Sample	Heterozygous	 	 	 	16	2130190	2130190
+27	1481439	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+29	1481463	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+31	1481433	p.V1500M	c.4498G>A	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	87826	Confirmed	Tumour Sample	Heterozygous	 	 	 	16	2134956	2134956
+35	1481440	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+39	1481464	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+44	1481448	p.V1372fs*41	c.4113_4114delTG	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	87714	Confirmed	Tumour Sample	Heterozygous	 	 	 	16	2134336	2134337
+45	1481465	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+5	1481437	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+52	1481441	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+56	1481449	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+57	1481466	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+59	1481442	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+6	1481462	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+61	1481467	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+64	1481468	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+69	1481469	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+70	1481475	p.R1795C	c.5383C>T	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	87828	Confirmed	Tumour Sample	Heterozygous	 	 	 	16	2138570	2138570
+77	1481450	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+78	1481443	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+83	1481470	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+84	1481451	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+85	1481444	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+87	1481452	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+91	1481473	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+93	1481436	p.S9*	c.26C>A	pancreas	NS	NS	carcinoid-endocrine_tumour	islet_cell	NS	21252315	333	87850	Confirmed	Tumour Sample	Heterozygous	 	 	 	16	2098642	2098642
+94	1481453	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+95	1481454	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+96	1481455	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+97	1481456	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+98	1481445	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+99	1481471	 	 	pancreas	NS	NS	carcinoid-endocrine_tumour	NS	NS	21252315	333	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB101X	1512935	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB104X	1512936	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB105X	1512937	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB106X	1512938	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB108C	1512939	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB109PT	1512940	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB111PT	1512941	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB113PT	1512942	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB115PT	1512943	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB117PT	1512944	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	desmoplastic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB118PT	1512945	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB119PT	1512946	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB120PT	1512947	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB121PT	1512948	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB122PT	1512949	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB123PT	1512950	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB124PT	1512951	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB125PT	1512952	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB126PT	1512953	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB128PT	1512954	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB129PT	1512955	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB130PT	1512956	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
 Pa10X	1473051	p.E793fs*9	c.2376_2422del47	pancreas	NS	NS	NS	NS	NS	 	327	85612	Confirmed	Cultured Sample	Heterozygous	 	 	 	16	2124221	2124267
 Pa29C	1473049	p.P497P	c.1491C>T	pancreas	NS	NS	NS	NS	NS	 	327	84325	Confirmed	Cultured Sample	Heterozygous	 	 	 	16	2114320	2114320
 TCGA-13-0903	1474882	p.Y1608D	c.4822T>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	76842	Confirmed	Tumour Sample	Homozygous	16	2076354	2076354	16	2136353	2136353

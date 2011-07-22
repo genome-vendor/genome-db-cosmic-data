@@ -6,10 +6,32 @@ Histology : None Selected
 Histology subtype 1 : None Selected	
 
 Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
-TCGA-04-1542	1474866	p.V764I	c.2290G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86426	 	Tumour Sample	Heterozygous	 	 	 	12	52145297	52145297
-TCGA-23-1022	1474814	p.R606Q	c.1817G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86425	 	Tumour Sample	Heterozygous	 	 	 	12	52115511	52115511
-TCGA-23-1122	1474843	p.P1739T	c.5215C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86429	 	Tumour Sample	Heterozygous	 	 	 	12	52200485	52200485
-TCGA-23-1122	1474843	p.L1845L	c.5535G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86430	 	Tumour Sample	Heterozygous	 	 	 	12	52200805	52200805
-TCGA-24-0979	1474847	p.T1888S	c.5662A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86431	 	Tumour Sample	Heterozygous	 	 	 	12	52200932	52200932
-TCGA-24-1466	1474944	p.L1495L	c.4485G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86428	 	Tumour Sample	Heterozygous	 	 	 	12	52184247	52184247
-TCGA-25-1322	1474940	p.K486R	c.1457A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86424	 	Tumour Sample	Heterozygous	 	 	 	12	52100321	52100321
+MB101X	1512935	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB104X	1512936	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB105X	1512937	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB106X	1512938	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB108C	1512939	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB109PT	1512940	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB111PT	1512941	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB113PT	1512942	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB115PT	1512943	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB117PT	1512944	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	desmoplastic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB118PT	1512945	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB119PT	1512946	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB120PT	1512947	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB121PT	1512948	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB122PT	1512949	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB123PT	1512950	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB124PT	1512951	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB125PT	1512952	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB126PT	1512953	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB128PT	1512954	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB129PT	1512955	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB130PT	1512956	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+TCGA-04-1542	1474866	p.V764I	c.2290G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86448	Confirmed	Tumour Sample	Heterozygous	 	 	 	12	52145297	52145297
+TCGA-23-1022	1474814	p.R606Q	c.1817G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86447	Confirmed	Tumour Sample	Heterozygous	 	 	 	12	52115511	52115511
+TCGA-23-1122	1474843	p.P1739T	c.5215C>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86451	Confirmed	Tumour Sample	Heterozygous	 	 	 	12	52200485	52200485
+TCGA-23-1122	1474843	p.L1845L	c.5535G>A	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86452	Confirmed	Tumour Sample	Heterozygous	 	 	 	12	52200805	52200805
+TCGA-24-0979	1474847	p.T1888S	c.5662A>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86453	Confirmed	Tumour Sample	Heterozygous	 	 	 	12	52200932	52200932
+TCGA-24-1466	1474944	p.L1495L	c.4485G>C	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86450	Confirmed	Tumour Sample	Heterozygous	 	 	 	12	52184247	52184247
+TCGA-25-1322	1474940	p.K486R	c.1457A>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	86446	Confirmed	Tumour Sample	Heterozygous	 	 	 	12	52100321	52100321

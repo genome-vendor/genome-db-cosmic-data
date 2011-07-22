@@ -1,0 +1,9 @@
+
+Gene : LIFR_ENST00000263409
+Primary Tissue : None Selected	
+Tissue subtype 1 : None Selected	
+Histology : None Selected	
+Histology subtype 1 : None Selected	
+
+Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype 1	Tissue subtype 2	Histology	Histology subtype 1	Histology subtype 2	Pubmed ID	studies	Mutation ID	Somatic Status	Sample Source	Zygosity	Chromosome NCBI36	Genome Start NCBI36	Genome Stop NCBI36	Chromosome GRCh37	Genome Start GRCh37	Genome Stop GRCh37	
+OCC06PT	1434855	p.T22fs*2	c.62_63insAGAATGAG	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	88714	Confirmed	Tumour Sample	 	 	 	 	5	38530687	38530688

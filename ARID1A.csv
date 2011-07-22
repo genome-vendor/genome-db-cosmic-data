@@ -255,9 +255,9 @@ Sample Name	COSMIC Sample ID	Amino Acid	Nucleotide	Primary Tissue	Tissue subtype
 1450142	1450142	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	20942669	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1450143	1450143	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	20942669	 	 	 	Tumour Sample	 	 	 	 	 	 	 
 1450144	1450144	 	 	ovary	NS	NS	carcinoma	serous_carcinoma	NS	20942669	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB30-HNC	753531	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB49-HNC	753532	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+BB65-RCC	753533	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br02X	1312964	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br03X	1312965	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Br04X	1312966	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -281,23 +281,23 @@ Br26X	1312983	 	 	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	gl
 Br27P	1312984	p.P16S	c.46C>T	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	39851	Confirmed	Tumour Sample	Heterozygous	1	26895527	26895527	1	27022940	27022940
 Br27P	1312984	p.G414E	c.1241G>A	central_nervous_system	brain	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	18772396	 	39850	Confirmed	Tumour Sample	Heterozygous	1	26928832	26928832	1	27056245	27056245
 Br29P	1312985	 	 	central_nervous_system	brain	NS	glioma	NS	NS	18772396	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-CP66-MEL	753546	p.H688H	c.2064C>T	skin	NS	NS	malignant_melanoma	NS	NS	 	11,144,16	21759	Confirmed	Cultured Sample	Homozygous	1	26960077	26960077	1	27087490	27087490
+COLO-829	687448	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP50-MEL-B	753545	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+CP66-MEL	753546	p.H688H	c.2064C>T	skin	NS	NS	malignant_melanoma	NS	NS	 	11,16,144	21759	Confirmed	Cultured Sample	Homozygous	1	26960077	26960077	1	27087490	27087490
 Co108	1235041	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co74	1235039	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Co92	1235040	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+D-542MG	753549	 	 	central_nervous_system	brain	NS	glioma	NS	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 ES2	1450145	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20942669	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+HA7-RCC	753558	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1008	1235076	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1143	749710	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1143	1235079	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	749711	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1187	1235080	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1395	749712	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1395	1235081	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC1599	749713	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1599	1235082	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	749714	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC1937	1235083	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -305,24 +305,46 @@ HCC1954	749709	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,16,144	 	 	Cu
 HCC1954	1235077	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	749715	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2157	1235084	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC2218	749716	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC2218	1235085	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+HCC38	749717	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 HCC38	1235078	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Hs578T	1235086	 	 	breast	NS	NS	carcinoma	ductal_carcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 J82	753566	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-KK	1434897	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+KK	1434897	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB1047-RCC	753577	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB2241-RCC	753578	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB2518-MEL	753579	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 LB373-MEL-D	753581	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB647-SCLC	753582	 	 	lung	NS	NS	carcinoma	NS	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB771-HNC	753583	 	 	upper_aerodigestive_tract	head_neck	NS	carcinoma	squamous_cell_carcinoma	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB831-BLC	753584	 	 	urinary_tract	bladder	NS	carcinoma	NS	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+LB996-RCC	753585	 	 	kidney	NS	NS	carcinoma	renal_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+LS-1034	917486	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB101X	1512935	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB104X	1512936	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB105X	1512937	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB106X	1512938	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB108C	1512939	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Cultured Sample	 	 	 	 	 	 	 
+MB109PT	1512940	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB111PT	1512941	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB113PT	1512942	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB115PT	1512943	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB117PT	1512944	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	desmoplastic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB118PT	1512945	p.A339fs*24	c.1015delG	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	87889	Confirmed	Tumour Sample	Heterozygous	 	 	 	1	27023909	27023909
+MB119PT	1512946	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB120PT	1512947	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB121PT	1512948	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB122PT	1512949	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB123PT	1512950	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB124PT	1512951	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB125PT	1512952	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB126PT	1512953	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	large_cell	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB128PT	1512954	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	classic	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB129PT	1512955	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MB130PT	1512956	 	 	central_nervous_system	medulla	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	21163964	334	 	 	Tumour Sample	 	 	 	 	 	 	 
+MZ1-PC	753595	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+MZ7-mel	753596	 	 	skin	NS	NS	malignant_melanoma	NS	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx22	1235042	 	 	large_intestine	NS	NS	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx27	1235043	 	 	large_intestine	colon	right	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 Mx30	1235044	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
@@ -333,127 +355,127 @@ Mx42	1235048	 	 	large_intestine	colon	left	carcinoma	adenocarcinoma	NS	16959974
 Mx43	1235049	 	 	large_intestine	colon	sigmoid	carcinoma	adenocarcinoma	NS	16959974	 	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H1184	688000	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H128	753597	p.G945fs*23	c.2834delG	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,144,16	13835	Confirmed	Cultured Sample	Heterozygous	1	26965400	26965400	1	27092813	27092813
-NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1395	684681	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1437	687794	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H1770	687804	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2009	724873	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2052	688058	 	 	pleura	NS	NS	mesothelioma	NS	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2087	724834	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,16,144	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H209	688013	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	144,11,16	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2122	722046	 	 	lung	NS	NS	carcinoma	adenocarcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
+NCI-H2126	687814	 	 	lung	NS	NS	carcinoma	non_small_cell_carcinoma	NS	 	144,16,11	 	 	Cultured Sample	 	 	 	 	 	 	 
 NCI-H2171	688015	 	 	lung	NS	NS	carcinoma	small_cell_carcinoma	NS	 	11,144,16	 	 	Cultured Sample	 	 	 	 	 	 	 
-OCC01PT	1434850	p.Y1285fs*1	c.3854_3855insA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51213	Confirmed	Tumour Sample	 	1	26972562	26972563	1	27099975	27099976
-OCC02PT	1434851	p.Q185*	c.553C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51214	Confirmed	Tumour Sample	Heterozygous	1	26896034	26896034	1	27023447	27023447
-OCC02PT	1434851	p.T1969fs*47	c.5904_5905insGT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51254	Confirmed	Tumour Sample	 	1	26978880	26978881	1	27106293	27106294
-OCC03PT	1434852	p.M1220fs*2	c.3659_3684del26	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51215	Confirmed	Tumour Sample	 	1	26972009	26972034	1	27099422	27099447
-OCC04PT	1434853	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC05PT	1434854	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC06PT	1434855	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC07PT	1434856	p.Y195*	c.585C>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51216	Confirmed	Tumour Sample	 	1	26896066	26896066	1	27023479	27023479
-OCC08PT	1434857	p.Q1131fs*30	c.3391_3391delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51217	Confirmed	Tumour Sample	 	1	26970389	26970389	1	27097802	27097802
-OCC09PT	1434858	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC10PT	1434859	p.Q1334_R1335insQ	c.4001_4002insGCA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51218	Confirmed	Tumour Sample	Homozygous	1	26972792	26972793	1	27100205	27100206
-OCC10PT	1434859	p.C2276fs*1	c.6828_6829delTG	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51219	Confirmed	Tumour Sample	Homozygous	1	26979804	26979805	1	27107217	27107218
-OCC11PT	1434860	p.S486fs*135	c.1455_1456insCCTAC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51220	Confirmed	Tumour Sample	 	1	26930334	26930335	1	27057747	27057748
-OCC12PT	1434861	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC13PT	1434862	p.P1643fs*6	c.4926_4927insTGGC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51221	Confirmed	Tumour Sample	 	1	26974231	26974232	1	27101644	27101645
-OCC14PT	1434863	p.S1338fs*106	c.4011_4012delTT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51222	Confirmed	Tumour Sample	Homozygous	1	26972886	26972887	1	27100299	27100300
-OCC15PT	1434864	p.W1545*	c.4635G>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51223	Confirmed	Tumour Sample	 	1	26973940	26973940	1	27101353	27101353
-OCC15PT	1434864	p.Y1734*	c.5202T>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51224	Confirmed	Tumour Sample	 	1	26978178	26978178	1	27105591	27105591
-OCC16PT	1434865	p.A163fs*67	c.486_492delCGCCGCC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51225	Confirmed	Tumour Sample	Homozygous	1	26895967	26895973	1	27023380	27023386
-OCC17PT	1434866	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC18PT	1434867	p.N1192fs*14	c.3575_3575delA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51226	Confirmed	Tumour Sample	 	1	26971925	26971925	1	27099338	27099338
-OCC19PT	1434868	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC20PT	1434869	p.E1075fs*18	c.3223_3223delG	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51228	Confirmed	Tumour Sample	 	1	26970221	26970221	1	27097634	27097634
-OCC21PT	1434870	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC22PT	1434871	p.A2240fs*38	c.6718_6719insG	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51229	Confirmed	Tumour Sample	 	1	26979694	26979695	1	27107107	27107108
-OCC23PT	1434872	p.P302fs*99	c.898_899insCGTC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51230	Confirmed	Tumour Sample	 	1	26896379	26896380	1	27023792	27023793
-OCC23PT	1434872	p.L2238fs*40	c.6710_6711insT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51231	Confirmed	Tumour Sample	 	1	26979686	26979687	1	27107099	27107100
-OCC24PT	1434873	p.Q555*	c.1663C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51232	Confirmed	Tumour Sample	 	1	26930542	26930542	1	27057955	27057955
-OCC25PT	1434874	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC26PT	1434875	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC27PT	1434876	p.S261fs*99	c.782_791del10	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51233	Confirmed	Tumour Sample	 	1	26896263	26896272	1	27023676	27023685
-OCC27PT	1434876	p.Q1212fs*4	c.3634_3644del11	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51234	Confirmed	Tumour Sample	 	1	26971984	26971994	1	27099397	27099407
-OCC28PT	1434877	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC29PT	1434878	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC30PT	1434879	p.Q625*	c.1873C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51235	Confirmed	Tumour Sample	 	1	26931823	26931823	1	27059236	27059236
-OCC31PT	1434880	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC32PT	1434881	p.Q708*	c.2122C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51236	Confirmed	Tumour Sample	 	1	26960135	26960135	1	27087548	27087548
-OCC33PT	1434882	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC34PT	1434883	p.E602*	c.1804G>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51237	Confirmed	Tumour Sample	 	1	26931754	26931754	1	27059167	27059167
-OCC34PT	1434883	p.A2235fs*32	c.6702_6702delT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51238	Confirmed	Tumour Sample	 	1	26979678	26979678	1	27107091	27107091
-OCC35PT	1434884	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC36PT	1434885	p.Y447*	c.1341T>G	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51239	Confirmed	Tumour Sample	 	1	26928932	26928932	1	27056345	27056345
-OCC36PT	1434885	p.Q1148fs*13	c.3442_3442delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51240	Confirmed	Tumour Sample	 	1	26971613	26971613	1	27099026	27099026
-OCC37PT	1434886	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC38PT	1434887	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC39PT	1434888	p.L295fs*105	c.883_884insC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51241	Confirmed	Tumour Sample	 	1	26896364	26896365	1	27023777	27023778
-OCC39PT	1434888	p.N956fs*12	c.2868_2868delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51242	Confirmed	Tumour Sample	 	1	26965434	26965434	1	27092847	27092847
-OCC40PT	1434889	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Tumour Sample	 	 	 	 	 	 	 
-OCC41PT	1434890	p.D627fs*2	c.1881_1881delT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51243	Confirmed	Tumour Sample	 	1	26931831	26931831	1	27059244	27059244
-OCC42PT	1434891	p.R727fs*12	c.2179_2188del10	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51244	Confirmed	Tumour Sample	 	1	26960479	26960488	1	27087892	27087901
-OV207	1434892	p.W1545*	c.4635G>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51223	Previously Observed	Cultured Sample	 	1	26973940	26973940	1	27101353	27101353
-OVCA-429	1434898	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	 	 	Cultured Sample	 	 	 	 	 	 	 
-OVISE	1434893	p.H203fs*197	c.608_609insA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51245	Unknown	Cultured Sample	 	1	26896089	26896090	1	27023502	27023503
-OVISE	1434893	p.Q543fs*79	c.1626_1627delGC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51246	Unknown	Cultured Sample	 	1	26930505	26930506	1	27057918	27057919
-OVMANA	1434894	p.Q1332*	c.3994C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51247	Unknown	Cultured Sample	 	1	26972785	26972785	1	27100198	27100198
-OVMANA	1434894	p.S2264*	c.6791C>G	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51248	Unknown	Cultured Sample	 	1	26979767	26979767	1	27107180	27107180
-OVTOKO	1434895	p.E97*	c.289G>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51250	Unknown	Cultured Sample	 	1	26895770	26895770	1	27023183	27023183
-OVTOKO	1434895	p.Q2209fs*22	c.6625_6625delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51249	Unknown	Cultured Sample	 	1	26979601	26979601	1	27107014	27107014
+OCC01PT	1434850	p.Y1285fs*1	c.3854_3855insA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51213	Confirmed	Tumour Sample	 	1	26972562	26972563	1	27099975	27099976
+OCC02PT	1434851	p.Q185*	c.553C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51214	Confirmed	Tumour Sample	Heterozygous	1	26896034	26896034	1	27023447	27023447
+OCC02PT	1434851	p.T1969fs*47	c.5904_5905insGT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51254	Confirmed	Tumour Sample	 	1	26978880	26978881	1	27106293	27106294
+OCC03PT	1434852	p.M1220fs*2	c.3659_3684del26	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51215	Confirmed	Tumour Sample	 	1	26972009	26972034	1	27099422	27099447
+OCC04PT	1434853	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC05PT	1434854	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC06PT	1434855	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC07PT	1434856	p.Y195*	c.585C>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51216	Confirmed	Tumour Sample	 	1	26896066	26896066	1	27023479	27023479
+OCC08PT	1434857	p.Q1131fs*30	c.3391_3391delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51217	Confirmed	Tumour Sample	 	1	26970389	26970389	1	27097802	27097802
+OCC09PT	1434858	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC10PT	1434859	p.Q1334_R1335insQ	c.4001_4002insGCA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51218	Confirmed	Tumour Sample	Homozygous	1	26972792	26972793	1	27100205	27100206
+OCC10PT	1434859	p.C2276fs*1	c.6828_6829delTG	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51219	Confirmed	Tumour Sample	Homozygous	1	26979804	26979805	1	27107217	27107218
+OCC11PT	1434860	p.S486fs*135	c.1455_1456insCCTAC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51220	Confirmed	Tumour Sample	 	1	26930334	26930335	1	27057747	27057748
+OCC12PT	1434861	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC13PT	1434862	p.P1643fs*6	c.4926_4927insTGGC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51221	Confirmed	Tumour Sample	 	1	26974231	26974232	1	27101644	27101645
+OCC14PT	1434863	p.S1338fs*106	c.4011_4012delTT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51222	Confirmed	Tumour Sample	Homozygous	1	26972886	26972887	1	27100299	27100300
+OCC15PT	1434864	p.W1545*	c.4635G>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51223	Confirmed	Tumour Sample	 	1	26973940	26973940	1	27101353	27101353
+OCC15PT	1434864	p.Y1734*	c.5202T>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51224	Confirmed	Tumour Sample	 	1	26978178	26978178	1	27105591	27105591
+OCC16PT	1434865	p.A163fs*67	c.486_492delCGCCGCC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51225	Confirmed	Tumour Sample	Homozygous	1	26895967	26895973	1	27023380	27023386
+OCC17PT	1434866	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC18PT	1434867	p.N1192fs*14	c.3575_3575delA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51226	Confirmed	Tumour Sample	 	1	26971925	26971925	1	27099338	27099338
+OCC19PT	1434868	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC20PT	1434869	p.E1075fs*18	c.3223_3223delG	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51228	Confirmed	Tumour Sample	 	1	26970221	26970221	1	27097634	27097634
+OCC21PT	1434870	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC22PT	1434871	p.A2240fs*38	c.6718_6719insG	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51229	Confirmed	Tumour Sample	 	1	26979694	26979695	1	27107107	27107108
+OCC23PT	1434872	p.P302fs*99	c.898_899insCGTC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51230	Confirmed	Tumour Sample	 	1	26896379	26896380	1	27023792	27023793
+OCC23PT	1434872	p.L2238fs*40	c.6710_6711insT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51231	Confirmed	Tumour Sample	 	1	26979686	26979687	1	27107099	27107100
+OCC24PT	1434873	p.Q555*	c.1663C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51232	Confirmed	Tumour Sample	 	1	26930542	26930542	1	27057955	27057955
+OCC25PT	1434874	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC26PT	1434875	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC27PT	1434876	p.S261fs*99	c.782_791del10	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51233	Confirmed	Tumour Sample	 	1	26896263	26896272	1	27023676	27023685
+OCC27PT	1434876	p.Q1212fs*4	c.3634_3644del11	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51234	Confirmed	Tumour Sample	 	1	26971984	26971994	1	27099397	27099407
+OCC28PT	1434877	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC29PT	1434878	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC30PT	1434879	p.Q625*	c.1873C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51235	Confirmed	Tumour Sample	 	1	26931823	26931823	1	27059236	27059236
+OCC31PT	1434880	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC32PT	1434881	p.Q708*	c.2122C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51236	Confirmed	Tumour Sample	 	1	26960135	26960135	1	27087548	27087548
+OCC33PT	1434882	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC34PT	1434883	p.E602*	c.1804G>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51237	Confirmed	Tumour Sample	 	1	26931754	26931754	1	27059167	27059167
+OCC34PT	1434883	p.A2235fs*32	c.6702_6702delT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51238	Confirmed	Tumour Sample	 	1	26979678	26979678	1	27107091	27107091
+OCC35PT	1434884	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC36PT	1434885	p.Y447*	c.1341T>G	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51239	Confirmed	Tumour Sample	 	1	26928932	26928932	1	27056345	27056345
+OCC36PT	1434885	p.Q1148fs*13	c.3442_3442delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51240	Confirmed	Tumour Sample	 	1	26971613	26971613	1	27099026	27099026
+OCC37PT	1434886	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC38PT	1434887	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC39PT	1434888	p.L295fs*105	c.883_884insC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51241	Confirmed	Tumour Sample	 	1	26896364	26896365	1	27023777	27023778
+OCC39PT	1434888	p.N956fs*12	c.2868_2868delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51242	Confirmed	Tumour Sample	 	1	26965434	26965434	1	27092847	27092847
+OCC40PT	1434889	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Tumour Sample	 	 	 	 	 	 	 
+OCC41PT	1434890	p.D627fs*2	c.1881_1881delT	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51243	Confirmed	Tumour Sample	 	1	26931831	26931831	1	27059244	27059244
+OCC42PT	1434891	p.R727fs*12	c.2179_2188del10	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51244	Confirmed	Tumour Sample	 	1	26960479	26960488	1	27087892	27087901
+OV207	1434892	p.W1545*	c.4635G>A	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51223	Previously Observed	Cultured Sample	 	1	26973940	26973940	1	27101353	27101353
+OVCA-429	1434898	 	 	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	 	 	Cultured Sample	 	 	 	 	 	 	 
+OVISE	1434893	p.H203fs*197	c.608_609insA	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51245	Unknown	Cultured Sample	 	1	26896089	26896090	1	27023502	27023503
+OVISE	1434893	p.Q543fs*79	c.1626_1627delGC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51246	Unknown	Cultured Sample	 	1	26930505	26930506	1	27057918	27057919
+OVMANA	1434894	p.Q1332*	c.3994C>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51247	Unknown	Cultured Sample	 	1	26972785	26972785	1	27100198	27100198
+OVMANA	1434894	p.S2264*	c.6791C>G	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51248	Unknown	Cultured Sample	 	1	26979767	26979767	1	27107180	27107180
+OVTOKO	1434895	p.E97*	c.289G>T	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51250	Unknown	Cultured Sample	 	1	26895770	26895770	1	27023183	27023183
+OVTOKO	1434895	p.Q2209fs*22	c.6625_6625delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51249	Unknown	Cultured Sample	 	1	26979601	26979601	1	27107014	27107014
 PD1579a	753464	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1580a	753465	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1582a	753467	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1580a	753465	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1582a	753467	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1590a	753475	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1593a	753478	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1753a	919182	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1754a	919183	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1593a	753478	 	 	kidney	NS	NS	carcinoma	NS	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1753a	919182	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1754a	919183	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1759a	919189	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1764a	919193	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1766a	919194	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1767a	956081	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1767a	956081	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD1768a	956083	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD1769a	948216	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2125a	948071	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD1769a	948216	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2125a	948071	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2126a	948145	p.R1020K	c.3059G>A	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	51863	Confirmed	Tumour Sample	 	 	 	 	1	27094351	27094351
 PD2126a	948145	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2127a	948147	p.L2089P	c.6266T>C	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	21248752	321	51888	Confirmed	Tumour Sample	 	 	 	 	1	27106655	27106655
-PD2127a	948147	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2127a	948147	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2129a	948151	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2130a	948153	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2131a	948155	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2132a	948157	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2133a	948159	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2133a	948159	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2134a	948161	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2135a	948163	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2136a	948165	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2138a	948169	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2139a	948171	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2138a	948169	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2139a	948171	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2140a	948173	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2141a	948175	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2141a	948175	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2142a	948177	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2145a	948183	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2146a	948185	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2147a	948187	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2148a	948189	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2149a	948191	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2150a	948193	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2145a	948183	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2146a	948185	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2147a	948187	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2148a	948189	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2149a	948191	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2150a	948193	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2152a	948197	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2153a	948199	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2154a	948201	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2155a	948203	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2153a	948199	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2154a	948201	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2155a	948203	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2156a	948205	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2157a	948207	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2158a	948209	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2160a	948213	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2161a	948574	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2162a	948576	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2161a	948574	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2162a	948576	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2163a	948578	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2164a	948580	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2166a	948584	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2167a	948586	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2168a	948588	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2170a	948592	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2164a	948580	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2166a	948584	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2167a	948586	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2168a	948588	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2170a	948592	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2171a	948594	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2172a	948596	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2173a	948598	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
@@ -466,43 +488,67 @@ PD2180a	948612	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	200
 PD2181a	948614	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2182a	948616	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2183a	948618	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2184a	948620	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2185a	948622	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2186a	948624	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2184a	948620	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2185a	948622	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2186a	948624	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2187a	948626	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2188a	948628	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2189a	948630	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2189a	948630	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2190a	948632	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2191a	948634	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2192a	948636	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2193a	948638	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2192a	948636	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2193a	948638	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2194a	948640	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2197a	948646	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2197a	948646	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2198a	948648	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2199a	948650	p.A1413V	c.4238C>T	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	28394	Confirmed	Tumour Sample	Heterozygous	1	26973543	26973543	1	27100956	27100956
 PD2201a	948654	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2202a	948656	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2202a	948656	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2203a	948658	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2204a	948660	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2204a	948660	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2205a	948662	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2207a	948666	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2208a	948668	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2209a	948670	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2210a	948672	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2211a	948674	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2213a	948678	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2214a	948680	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2210a	948672	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2211a	948674	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2213a	948678	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2214a	948680	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2215a	948714	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
-PD2216a	948716	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+PD2216a	948716	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	223,173	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2217a	948718	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2218a	948720	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2219a	948722	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2221a	955773	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
 PD2222a	955776	 	 	kidney	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	20054297,20054297	173,223	 	 	Tumour Sample	 	 	 	 	 	 	 
+Pa01C	1509848	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa02C	1509849	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa03C	1509850	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa04C	1509851	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa05X	1509852	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
 Pa07C	1473089	p.R1276*	c.3826C>T	pancreas	NS	NS	NS	NS	NS	 	327	83884	Confirmed	Cultured Sample	Heterozygous	 	 	 	1	27099947	27099947
+Pa07C	1509853	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa08C	1509854	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa09C	1509855	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa10X	1509856	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa11X	1509857	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa14C	1509858	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa16C	1509859	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa18C	1509860	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa20C	1509861	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa21C	1509862	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa28C	1509863	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa29C	1509864	 	 	biliary_tract	bile_duct	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa34X	1509865	 	 	biliary_tract	bile_duct	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa36X	1509866	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
 Pa37X	1473102	p.S1985fs*13	c.5947_5948delTG	pancreas	NS	NS	NS	NS	NS	 	327	85584	Confirmed	Cultured Sample	Heterozygous	 	 	 	1	27106336	27106337
+Pa37X	1509867	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa38X	1509868	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa39X	1509869	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa41X	1509870	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
+Pa43X	1509871	 	 	pancreas	NS	NS	carcinoma	ductal_carcinoma	NS	18772397	332	 	 	Cultured Sample	 	 	 	 	 	 	 
 TCGA-10-0930	1474817	p.S664*	c.1991C>G	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79135	Confirmed	Tumour Sample	Heterozygous	1	26960004	26960004	1	27087417	27087417
 TCGA-13-0760	1474815	p.Q1708*	c.5122C>T	ovary	NS	NS	carcinoma	serous_carcinoma	NS	 	331	79136	Confirmed	Tumour Sample	Heterozygous	1	26974783	26974783	1	27102196	27102196
-TOV-21G	1434896	p.Y551fs*72	c.1650_1651insC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51251	Unknown	Cultured Sample	 	1	26930529	26930530	1	27057942	27057943
-TOV-21G	1434896	p.Q758fs*75	c.2272_2272delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	 	51252	Unknown	Cultured Sample	 	1	26961250	26961250	1	27088663	27088663
+TOV-21G	1434896	p.Y551fs*72	c.1650_1651insC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51251	Unknown	Cultured Sample	 	1	26930529	26930530	1	27057942	27057943
+TOV-21G	1434896	p.Q758fs*75	c.2272_2272delC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20826764	335	51252	Unknown	Cultured Sample	 	1	26961250	26961250	1	27088663	27088663
 TOV21G	1449932	p.Y551fs*72	c.1644_1645insC	ovary	NS	NS	carcinoma	clear_cell_carcinoma	NS	20942669	 	51423	Unknown	Cultured Sample	Heterozygous	1	26930523	26930524	1	27057936	27057937
