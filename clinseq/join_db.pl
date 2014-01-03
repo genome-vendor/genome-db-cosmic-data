@@ -17,6 +17,10 @@ while((my $filename = readdir(DIR))){
 }
 closedir(DIR);
 
+unless (scalar(@dirs)){
+    print "\nFound no directories ending in '..' that need to be joined";
+}
+
 foreach my $dir (@dirs){
     print "\n\nProcessing $dir";
     my $name;
