@@ -11,7 +11,8 @@ my $size_limit = 50000000;
 my @files;
 opendir ( DIR, $base_path ) || die "Error in opening dir $base_path\n";
 while((my $filename = readdir(DIR))){
-    my $filesize = -s $filename;    
+    my $file = $base_path . "/" . $filename;
+    my $filesize = -s $file;    
     if ($filesize > $size_limit){
         push(@files, $filename);
     }
