@@ -18,6 +18,9 @@ while((my $filename = readdir(DIR))){
 }
 closedir(DIR);
 
+unless (scalar(@files)){
+  print "\nFound no files large enough (> $size_limit) to split";
+}
 
 foreach my $file (@files){
     print "\n\nProcessing $file";
@@ -50,8 +53,6 @@ foreach my $file (@files){
     my $rm_cmd2 = "rm -f $file_path";
     print "\nRemoving large file now that split version is created\n$rm_cmd2";
     system($rm_cmd2);
-
-
 }
 print "\n\n";
 
