@@ -5,8 +5,7 @@ use strict;
 use File::Basename;
 use Data::Dumper;
 
-#my @dirs = qw /cosmic.NCBI-human.ensembl.67_37l_v2.anno.. cosmic.NCBI-human.ensembl.67_37l_v2.anno.filt../;
-my $base_path = dirname(__FILE__);
+my $base_path = dirname(__FILE__) . "/clinseq";
 
 my @dirs;
 opendir ( DIR, $base_path ) || die "Error in opening dir $base_path\n";

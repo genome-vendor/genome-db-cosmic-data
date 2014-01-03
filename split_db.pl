@@ -5,8 +5,9 @@ use strict;
 use File::Basename;
 use Data::Dumper;
 
-my $base_path = dirname(__FILE__);
+my $base_path = dirname(__FILE__) . "/clinseq";
 my $size_limit = 50000000;
+
 #Find large files to be split
 my @files;
 opendir ( DIR, $base_path ) || die "Error in opening dir $base_path\n";
