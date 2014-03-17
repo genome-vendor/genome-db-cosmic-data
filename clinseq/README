@@ -1,0 +1,4 @@
+The split files in the '*..' directories were created using 
+`split -a 2 -d -l 250000  $file ''` of the original files. 
+
+These can be combined with `cat *`
